@@ -8,6 +8,7 @@
 
 #import <Cocoa/Cocoa.h>
 #import "CBNode.h"
+#import <CoreServices/CoreServices.h>
 
 
 @interface CBAppController : NSObject {
@@ -26,6 +27,9 @@
     int                 mLoadTargetColumn;
     
     BOOL                mHidesSearchBarAutomatically;
+    
+    FSEventStreamRef    mFileEventSream;
+    NSTimer             *mFileObservationTimer;
 }
 
 + (CBAppController *)sharedAppController;
@@ -41,6 +45,8 @@
 - (void)updateWebView;
 
 - (BOOL)hidesSearchBarAutomatically;
+
+- (unsigned)installedPlatformCount;
 
 @end
 

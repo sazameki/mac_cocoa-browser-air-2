@@ -83,7 +83,20 @@ static CBAppController *sInstance = nil;
 
 - (void)_setupPlatforms
 {
+    if (mPlatforms) {
+        [mPlatforms release];
+        mPlatforms = nil;
+    }
+    if (mRootNode) {
+        [mRootNode release];
+        mRootNode = nil;
+    }
+
     mPlatforms = [[NSMutableArray alloc] init];
+
+    mRootNode = [CBNode new];
+    mRootNode.title = @"#root";
+    mRootNode.type = CBNodeTypeRoot;
     
     NSString *platformInfosPath = [[NSBundle mainBundle] pathForResource:@"Platforms" ofType:@"plist"];
     NSArray *platformInfos = [NSArray arrayWithContentsOfFile:platformInfosPath];
@@ -147,9 +160,95 @@ static CBAppController *sInstance = nil;
     [self _setupMenu:oMenu];
 }
 
+void fsevents_callback(ConstFSEventStreamRef streamRef,
+                       void *userData,
+                       size_t numEvents,
+                       void *eventPaths,
+                       const FSEventStreamEventFlags eventFlags[],
+                       const FSEventStreamEventId eventIds[])
+{
+    [[CBAppController sharedAppController] performSelectorOnMainThread:@selector(startFileObservationTimer) withObject:nil waitUntilDone:NO];
+}
+
+- (void)doUpdateForFileObservation
+{
+    [self _setupPlatforms];
+    
+    NSDocumentController *docController = [NSDocumentController sharedDocumentController];
+    NSArray *documents = [docController documents];
+    for (NSDocument *aDocument in documents) {
+        if (![aDocument isKindOfClass:[CBDocument class]]) {
+            continue;
+        }
+        CBDocument *aCBDocument = (CBDocument *)aDocument;
+        [aCBDocument reloadFrameworkList];
+    }
+}
+
+- (void)updateForFileObservationProc:(NSTimer *)timer
+{
+    mFileObservationTimer = nil;
+    
+    [self performSelectorOnMainThread:@selector(doUpdateForFileObservation) withObject:nil waitUntilDone:NO];
+}
+
+- (void)startFileObservationTimer
+{
+    if (mFileObservationTimer) {
+        [mFileObservationTimer setFireDate:[NSDate dateWithTimeIntervalSinceNow:2.0]];
+    } else {
+        mFileObservationTimer = [NSTimer scheduledTimerWithTimeInterval:2.0 target:self selector:@selector(updateForFileObservationProc:) userInfo:nil repeats:NO];
+    }
+}
+
+- (void)startFileEventObservation
+{
+    FSEventStreamEventId lastEventId = kFSEventStreamEventIdSinceNow;
+    
+    NSArray *checkPaths = [NSArray arrayWithObjects:
+                           @"/Library/Developer/Documentation/DocSets",
+                           @"/Library/Developer/Shared/Documentation/DocSets",
+                           @"/Developer/Platforms/iPhoneOS.platform/Developer/Documentation/DocSets",
+                           nil];
+    
+    NSMutableArray *targetPaths = [NSMutableArray array];
+    NSFileManager *fileManager = [NSFileManager defaultManager];
+    for (NSString *aPath in checkPaths) {
+        if ([fileManager fileExistsAtPath:aPath]) {
+            [targetPaths addObject:aPath];
+        }
+    }
+    
+    FSEventStreamContext context = { 0, (void *)self, NULL, NULL, NULL };
+    
+    /* Create the stream, passing in a callback */
+    mFileEventSream = FSEventStreamCreate(NULL,
+                                          &fsevents_callback,
+                                          &context,
+                                          (CFArrayRef)targetPaths,
+                                          lastEventId,
+                                          3.0,
+                                          kFSEventStreamCreateFlagNone);
+    FSEventStreamScheduleWithRunLoop(mFileEventSream, CFRunLoopGetCurrent(), kCFRunLoopDefaultMode);
+    FSEventStreamStart(mFileEventSream);
+}
+
+- (void)stopFileEventObservation
+{
+    if (mFileEventSream == NULL) {
+        return;
+    }
+
+    FSEventStreamStop(mFileEventSream);
+    FSEventStreamUnscheduleFromRunLoop(mFileEventSream, CFRunLoopGetCurrent(), kCFRunLoopDefaultMode);
+    mFileEventSream = NULL;
+}
+
 - (void)awakeFromNib
 {
     sInstance = self;
+    
+    mFileObservationTimer = nil;
     
     mRootNode = [CBNode new];
     mRootNode.title = @"#root";
@@ -163,6 +262,8 @@ static CBAppController *sInstance = nil;
     } else {
         [oHideSearchBarMenuItem setState:NSOffState];
     }
+    
+    mFileEventSream = NULL;
 }
 
 - (void)dealloc
@@ -171,6 +272,8 @@ static CBAppController *sInstance = nil;
     [mLoadTargetURLStr release];
     
     [mPlatforms release];
+    
+    [self stopLoadingIndicator];
     
     [super dealloc];
 }
@@ -181,6 +284,11 @@ static CBAppController *sInstance = nil;
     
     //[self _fetchFrameworkList];
     [self _setupPlatforms];
+
+    // Start file observation
+    if ([[CBAppController sharedAppController] installedPlatformCount] == 0) {
+        [self startFileEventObservation];
+    }
 }
 
 
@@ -311,6 +419,11 @@ static CBAppController *sInstance = nil;
 - (BOOL)hidesSearchBarAutomatically
 {
     return mHidesSearchBarAutomatically;
+}
+
+- (unsigned)installedPlatformCount
+{
+    return [mPlatforms count];
 }
 
 @end

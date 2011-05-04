@@ -36,8 +36,6 @@
 		8E698E030DCE326F00ADFC92 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8E698E020DCE326F00ADFC92 /* MainMenu.xib */; };
 		8E698F8C0DCE418200ADFC92 /* NSURL+AppleRefAnalyze.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E698F8B0DCE418200ADFC92 /* NSURL+AppleRefAnalyze.m */; };
 		8E698F920DCE41B600ADFC92 /* NSString+Tokenizer.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E698F910DCE41B600ADFC92 /* NSString+Tokenizer.m */; };
-		8E73E952105BDD000022A61A /* libxml.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8E73E951105BDD000022A61A /* libxml.framework */; };
-		8E73E98F105BDD800022A61A /* libxml.framework in フレームワークをコピー */ = {isa = PBXBuildFile; fileRef = 8E73E951105BDD000022A61A /* libxml.framework */; };
 		8E7676A7105108F0009CCA7D /* CBSAXMac_10_6_PlatformParser.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E7676A6105108F0009CCA7D /* CBSAXMac_10_6_PlatformParser.m */; };
 		8E7A63CF0DCFAD4B0027DCD5 /* framework_coreimage.png in Resources */ = {isa = PBXBuildFile; fileRef = 8E7A63CE0DCFAD4B0027DCD5 /* framework_coreimage.png */; };
 		8E7CAE210DD0560000BF1644 /* CBNode+MacPlatformSort.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E7CAE200DD0560000BF1644 /* CBNode+MacPlatformSort.m */; };
@@ -46,6 +44,14 @@
 		8E7CB2030DD0AD7D00BF1644 /* CBNavigationInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E7CB2020DD0AD7D00BF1644 /* CBNavigationInfo.m */; };
 		8E7CB2E40DD0BC4500BF1644 /* CBReferenceInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E7CB2E30DD0BC4500BF1644 /* CBReferenceInfo.m */; };
 		8E8274960DD180A300295E13 /* CBWebView.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E8274950DD180A300295E13 /* CBWebView.m */; };
+		8EA3B3D413717FD500D956E1 /* CBWhiteBGView.m in Sources */ = {isa = PBXBuildFile; fileRef = 8EA3B3D313717FD500D956E1 /* CBWhiteBGView.m */; };
+		8EA3B3D8137183FC00D956E1 /* get_docset.png in Resources */ = {isa = PBXBuildFile; fileRef = 8EA3B3D7137183FC00D956E1 /* get_docset.png */; };
+		8EA3B3E31371C93000D956E1 /* IOKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8EA3B3E21371C93000D956E1 /* IOKit.framework */; };
+		8EA3B3E51371C93C00D956E1 /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8EA3B3E41371C93B00D956E1 /* Security.framework */; };
+		8EA3B3E81371C98D00D956E1 /* validatereceipt.m in Sources */ = {isa = PBXBuildFile; fileRef = 8EA3B3E71371C98D00D956E1 /* validatereceipt.m */; };
+		8EA3B3EA1371CB0200D956E1 /* libcrypto.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 8EA3B3E91371CB0200D956E1 /* libcrypto.dylib */; };
+		8EA3B3EC1371DBBF00D956E1 /* cocoa_browser_icon2.icns in Resources */ = {isa = PBXBuildFile; fileRef = 8EA3B3EB1371DBBF00D956E1 /* cocoa_browser_icon2.icns */; };
+		8EA3B3F01371E61A00D956E1 /* libxml2.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 8EA3B3EF1371E61A00D956E1 /* libxml2.dylib */; };
 		8EB4C1BC0F63894C009E2E52 /* CBSAXHTMLParser.m in Sources */ = {isa = PBXBuildFile; fileRef = 8EB4C1BB0F63894C009E2E52 /* CBSAXHTMLParser.m */; };
 		8EB4C2030F638A84009E2E52 /* MIHTMLParser.m in Sources */ = {isa = PBXBuildFile; fileRef = 8EB4C2020F638A84009E2E52 /* MIHTMLParser.m */; };
 		8EB4C2800F6391BD009E2E52 /* CBSAXMac_10_5_PlatformParser.m in Sources */ = {isa = PBXBuildFile; fileRef = 8EB4C27F0F6391BD009E2E52 /* CBSAXMac_10_5_PlatformParser.m */; };
@@ -85,7 +91,6 @@
 			dstPath = "";
 			dstSubfolderSpec = 10;
 			files = (
-				8E73E98F105BDD800022A61A /* libxml.framework in フレームワークをコピー */,
 			);
 			name = "フレームワークをコピー";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -136,12 +141,11 @@
 		8E698D5B0DCE2C9800ADFC92 /* stylesheet.css */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.css; path = stylesheet.css; sourceTree = "<group>"; };
 		8E698DC90DCE311500ADFC92 /* English */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = English; path = English.lproj/Localizable.strings; sourceTree = "<group>"; };
 		8E698DD60DCE315700ADFC92 /* Japanese */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = Japanese; path = Japanese.lproj/Localizable.strings; sourceTree = "<group>"; };
-		8E698DEE0DCE31EA00ADFC92 /* Japanese */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = Japanese; path = Japanese.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		8E698DEE0DCE31EA00ADFC92 /* Japanese */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = Japanese; path = Japanese.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		8E698F8A0DCE418200ADFC92 /* NSURL+AppleRefAnalyze.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSURL+AppleRefAnalyze.h"; sourceTree = "<group>"; };
 		8E698F8B0DCE418200ADFC92 /* NSURL+AppleRefAnalyze.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSURL+AppleRefAnalyze.m"; sourceTree = "<group>"; };
 		8E698F900DCE41B600ADFC92 /* NSString+Tokenizer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+Tokenizer.h"; sourceTree = "<group>"; };
 		8E698F910DCE41B600ADFC92 /* NSString+Tokenizer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+Tokenizer.m"; sourceTree = "<group>"; };
-		8E73E951105BDD000022A61A /* libxml.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = libxml.framework; sourceTree = "<group>"; };
 		8E7676A5105108F0009CCA7D /* CBSAXMac_10_6_PlatformParser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CBSAXMac_10_6_PlatformParser.h; sourceTree = "<group>"; };
 		8E7676A6105108F0009CCA7D /* CBSAXMac_10_6_PlatformParser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CBSAXMac_10_6_PlatformParser.m; sourceTree = "<group>"; };
 		8E7A63CE0DCFAD4B0027DCD5 /* framework_coreimage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = framework_coreimage.png; sourceTree = "<group>"; };
@@ -157,6 +161,16 @@
 		8E7CB2E30DD0BC4500BF1644 /* CBReferenceInfo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CBReferenceInfo.m; sourceTree = "<group>"; };
 		8E8274940DD180A300295E13 /* CBWebView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CBWebView.h; sourceTree = "<group>"; };
 		8E8274950DD180A300295E13 /* CBWebView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CBWebView.m; sourceTree = "<group>"; };
+		8EA3B3D213717FD500D956E1 /* CBWhiteBGView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CBWhiteBGView.h; sourceTree = "<group>"; };
+		8EA3B3D313717FD500D956E1 /* CBWhiteBGView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CBWhiteBGView.m; sourceTree = "<group>"; };
+		8EA3B3D7137183FC00D956E1 /* get_docset.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = get_docset.png; sourceTree = "<group>"; };
+		8EA3B3E21371C93000D956E1 /* IOKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = IOKit.framework; path = System/Library/Frameworks/IOKit.framework; sourceTree = SDKROOT; };
+		8EA3B3E41371C93B00D956E1 /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = System/Library/Frameworks/Security.framework; sourceTree = SDKROOT; };
+		8EA3B3E61371C98D00D956E1 /* validatereceipt.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = validatereceipt.h; sourceTree = "<group>"; };
+		8EA3B3E71371C98D00D956E1 /* validatereceipt.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = validatereceipt.m; sourceTree = "<group>"; };
+		8EA3B3E91371CB0200D956E1 /* libcrypto.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libcrypto.dylib; path = usr/lib/libcrypto.dylib; sourceTree = SDKROOT; };
+		8EA3B3EB1371DBBF00D956E1 /* cocoa_browser_icon2.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = cocoa_browser_icon2.icns; sourceTree = "<group>"; };
+		8EA3B3EF1371E61A00D956E1 /* libxml2.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libxml2.dylib; path = usr/lib/libxml2.dylib; sourceTree = SDKROOT; };
 		8EB4C1BA0F63894C009E2E52 /* CBSAXHTMLParser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CBSAXHTMLParser.h; sourceTree = "<group>"; };
 		8EB4C1BB0F63894C009E2E52 /* CBSAXHTMLParser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CBSAXHTMLParser.m; sourceTree = "<group>"; };
 		8EB4C2010F638A84009E2E52 /* MIHTMLParser.h */ = {isa = PBXFileReference; fileEncoding = 2147486209; lastKnownFileType = sourcecode.c.h; path = MIHTMLParser.h; sourceTree = "<group>"; };
@@ -214,9 +228,12 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8EA3B3F01371E61A00D956E1 /* libxml2.dylib in Frameworks */,
+				8EA3B3EA1371CB0200D956E1 /* libcrypto.dylib in Frameworks */,
+				8EA3B3E51371C93C00D956E1 /* Security.framework in Frameworks */,
+				8EA3B3E31371C93000D956E1 /* IOKit.framework in Frameworks */,
 				8D15AC340486D014006FF6A4 /* Cocoa.framework in Frameworks */,
 				8E698A830DCE140E00ADFC92 /* WebKit.framework in Frameworks */,
-				8E73E952105BDD000022A61A /* libxml.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -274,6 +291,8 @@
 				8EB4C1B90F638914009E2E52 /* SAX Parser */,
 				8E698F8D0DCE418D00ADFC92 /* AppleRef Link */,
 				8EB4C1760F6383AC009E2E52 /* Extensions */,
+				8EA3B3D213717FD500D956E1 /* CBWhiteBGView.h */,
+				8EA3B3D313717FD500D956E1 /* CBWhiteBGView.m */,
 			);
 			name = Classes;
 			sourceTree = "<group>";
@@ -281,6 +300,8 @@
 		2A37F4AFFDCFA73011CA2CEA /* Other Sources */ = {
 			isa = PBXGroup;
 			children = (
+				8EA3B3E61371C98D00D956E1 /* validatereceipt.h */,
+				8EA3B3E71371C98D00D956E1 /* validatereceipt.m */,
 				32DBCF750370BD2300C91783 /* Cocoa Browser Air_Prefix.pch */,
 				2A37F4B0FDCFA73011CA2CEA /* main.m */,
 			);
@@ -300,7 +321,10 @@
 		2A37F4C3FDCFA73011CA2CEA /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				8E73E951105BDD000022A61A /* libxml.framework */,
+				8EA3B3EF1371E61A00D956E1 /* libxml2.dylib */,
+				8EA3B3E91371CB0200D956E1 /* libcrypto.dylib */,
+				8EA3B3E41371C93B00D956E1 /* Security.framework */,
+				8EA3B3E21371C93000D956E1 /* IOKit.framework */,
 				1058C7A6FEA54F5311CA2CBB /* Linked Frameworks */,
 				1058C7A8FEA54F5311CA2CBB /* Other Frameworks */,
 			);
@@ -357,7 +381,9 @@
 		8E698C540DCE235C00ADFC92 /* Images */ = {
 			isa = PBXGroup;
 			children = (
+				8EA3B3D7137183FC00D956E1 /* get_docset.png */,
 				8E19314C0DCF1BFE001E7074 /* cocoa_browser_icon.icns */,
+				8EA3B3EB1371DBBF00D956E1 /* cocoa_browser_icon2.icns */,
 				8E4BB4F00DDFFE53000D72BC /* framework_coreaudio.png */,
 				8E7A63CE0DCFAD4B0027DCD5 /* framework_coreimage.png */,
 				8E698C340DCE22E400ADFC92 /* cocoa_guide.png */,
@@ -643,6 +669,8 @@
 				8EECE74F0F7ED59A00A5725E /* divider_back.png in Resources */,
 				8EECE7500F7ED59A00A5725E /* divider_dip_horizontal.png in Resources */,
 				8EECE7510F7ED59A00A5725E /* divider_back_horizontal.png in Resources */,
+				8EA3B3D8137183FC00D956E1 /* get_docset.png in Resources */,
+				8EA3B3EC1371DBBF00D956E1 /* cocoa_browser_icon2.icns in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -692,6 +720,8 @@
 				8E7676A7105108F0009CCA7D /* CBSAXMac_10_6_PlatformParser.m in Sources */,
 				8E632BB410513FB8008F9172 /* SZJsonParser.m in Sources */,
 				8E632BB510513FB8008F9172 /* NSString+JsonParser.m in Sources */,
+				8EA3B3D413717FD500D956E1 /* CBWhiteBGView.m in Sources */,
+				8EA3B3E81371C98D00D956E1 /* validatereceipt.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -760,6 +790,7 @@
 				GCC_PREFIX_HEADER = "Cocoa Browser Air_Prefix.pch";
 				INFOPLIST_FILE = Info.plist;
 				INSTALL_PATH = "$(HOME)/Applications";
+				MACOSX_DEPLOYMENT_TARGET = 10.6;
 				PRODUCT_NAME = "Cocoa Browser Air";
 			};
 			name = Debug;
@@ -768,6 +799,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "3rd Party Mac Developer Application: Satoshi Numata";
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -778,6 +810,7 @@
 				GCC_PREFIX_HEADER = "Cocoa Browser Air_Prefix.pch";
 				INFOPLIST_FILE = Info.plist;
 				INSTALL_PATH = "$(HOME)/Applications";
+				MACOSX_DEPLOYMENT_TARGET = 10.6;
 				PRODUCT_NAME = "Cocoa Browser Air";
 			};
 			name = Release;
@@ -794,16 +827,13 @@
 				GCC_C_LANGUAGE_STANDARD = c99;
 				GCC_OPTIMIZATION_LEVEL = 0;
 				GCC_PREPROCESSOR_DEFINITIONS = __DEBUG__;
-				GCC_VERSION = 4.2;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IBC_NOTICES = NO;
 				IBC_WARNINGS = YES;
 				ONLY_ACTIVE_ARCH = YES;
-				OTHER_LDFLAGS = (
-					"-framework",
-					libxml,
-				);
+				OTHER_LDFLAGS = "";
 				PREBINDING = NO;
 				SDKROOT = macosx10.6;
 			};
@@ -815,7 +845,7 @@
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
 				GCC_C_LANGUAGE_STANDARD = c99;
-				GCC_VERSION = 4.2;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IBC_NOTICES = NO;

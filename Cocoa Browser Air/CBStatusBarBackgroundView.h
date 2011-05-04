@@ -10,6 +10,8 @@
 
 
 @interface CBStatusBarBackgroundView : NSView {
+    NSGradient  *mMainGrad;
+    NSGradient  *mBackGrad;
 }
 
 @end

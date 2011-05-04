@@ -165,6 +165,19 @@ static NSString *sCBToolbarItemIdentifierLoading    = @"CBToolbarItemIdentifierL
                                    selector:@selector(setupWindowTitleProc:)
                                    userInfo:nil
                                     repeats:NO];
+    
+    [NSTimer scheduledTimerWithTimeInterval:2.0
+                                     target:self
+                                   selector:@selector(showStartUpSheetProc:)
+                                   userInfo:nil
+                                    repeats:NO];
+}
+
+- (void)showStartUpSheetProc:(NSTimer *)timer
+{
+    if ([[CBAppController sharedAppController] installedPlatformCount] == 0) {
+        [NSApp beginSheet:oStartUpPanel modalForWindow:oMainWindow modalDelegate:nil didEndSelector:NULL contextInfo:NULL];
+    }
 }
 
 - (void)setupWindowTitleProc:(NSTimer *)theTimer
@@ -843,6 +856,7 @@ static NSString *sCBToolbarItemIdentifierLoading    = @"CBToolbarItemIdentifierL
     } else {
         [oWebView searchFor:searchWord direction:YES caseSensitive:NO wrap:NO];
     }
+    [source release];
 }
 
 - (void)startSearchWithStr:(NSString *)str
@@ -2072,6 +2086,12 @@ void _CBSetupToolbarView(NSToolbarItem *item, NSView *view)
         return proposedEffectiveRect;
     }
     return NSZeroRect;
+}
+
+- (IBAction)closeStartupWindow:(id)sender
+{
+    [NSApp endSheet:oStartUpPanel];
+    [oStartUpPanel orderOut:self];
 }
 
 @end

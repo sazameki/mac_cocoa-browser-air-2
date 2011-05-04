@@ -22,6 +22,8 @@
     IBOutlet NSOutlineView          *oFrameworkListView;
     IBOutlet NSOutlineView          *oFullSearchResultView;
     
+    IBOutlet NSPanel                *oStartUpPanel;
+    
     IBOutlet NSPanel                *oFindPanel;
     IBOutlet NSTextField            *oFindField;
     IBOutlet NSButton               *oFindCaseIgnoreButton;
@@ -110,6 +112,8 @@
 - (IBAction)showFindPanel:(id)sender;
 - (IBAction)findNext:(id)sender;
 - (IBAction)findPrevious:(id)sender;
+
+- (IBAction)closeStartupWindow:(id)sender;
 
 
 //// Accessor Methods
