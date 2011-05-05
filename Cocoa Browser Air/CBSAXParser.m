@@ -162,6 +162,10 @@
         return nil;
     }
     
+#ifdef __DEBUG__
+    NSLog(@"   => %@", NSStringFromClass(parserClass));
+#endif
+
     return [[parserClass alloc] initWithParentNode:aNode];
 }
 

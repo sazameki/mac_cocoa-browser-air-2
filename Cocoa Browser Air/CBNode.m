@@ -370,11 +370,13 @@ BOOL _CBMoveNamedNodesIntoArray(NSMutableArray *dest, NSMutableArray *source, NS
         NSRange objcRange = [ret rangeOfString:@" Objective-C"];
         if (objcRange.location != NSNotFound) {
             ret = [ret substringWithRange:NSMakeRange(0, objcRange.location)];
-        } else if ([ret isEqualToString:@"Quartz"]) {
-            return @"Image Kit/PDF/QC";
-        } else if ([ret isEqualToString:@"Quartz Core"]) {
-            return @"Core Animation";
         }
+        /*else if ([ret isEqualToString:@"Quartz"]) {
+            return @"Image Kit/PDF/QC";
+        }*/
+        /*else if ([ret isEqualToString:@"Quartz Core"]) {
+            return @"Core Animation";
+        }*/
         return ret;
     }
     return NSLocalizedString(mTitle, nil);

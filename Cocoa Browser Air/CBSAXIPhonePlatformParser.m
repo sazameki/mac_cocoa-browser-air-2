@@ -46,9 +46,6 @@
             if ([mParentNode indexOfChildNodeWithTitle:frameworkName allowsAmbiguous:NO] >= 0) {
                 continue;
             }
-            if ([frameworkName isEqualToString:@"Quartz Core"]) {
-                frameworkName = @"Core Animation";
-            }
             
             NSString *frameworkPath = [navigationPath stringByAppendingPathComponent:[anInfo objectForKey:@"installPath"]];
             

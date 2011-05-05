@@ -86,6 +86,25 @@
                 NSDictionary *detailInfo = [detailStr jsonObject];
                 [self addFrameworkReferenceWithTitle:title detailInfo:detailInfo];
             }
+        } else if ([title hasSuffix:@"Reference Collection"]) {
+            title = [title substringToIndex:[title length]-[@" Reference Collection" length]];
+            
+            NSString *detailFileName = [NSString stringWithFormat:@"%@.js", [anInfo objectAtIndex:1]];
+            NSString *detailFileURLStr = [detailDirURLStr stringByAppendingPathComponent:detailFileName];
+            NSURL *detailFileURL = [NSURL URLWithString:detailFileURLStr];
+            
+            if (![[NSFileManager defaultManager] fileExistsAtPath:[detailFileURL path]]) {
+                NSString *detailFileName = [NSString stringWithFormat:@"%@.json", [anInfo objectAtIndex:1]];
+                NSString *detailFileURLStr = [detailDirURLStr stringByAppendingPathComponent:detailFileName];
+                detailFileURL = [NSURL URLWithString:detailFileURLStr];
+            }
+            
+            NSError *error = nil;
+            NSString *detailStr = [NSString stringWithContentsOfURL:detailFileURL encoding:NSUTF8StringEncoding error:&error];
+            if (detailStr) {
+                NSDictionary *detailInfo = [detailStr jsonObject];
+                [self addFrameworkReferenceWithTitle:title detailInfo:detailInfo];
+            }
         }
     }
     

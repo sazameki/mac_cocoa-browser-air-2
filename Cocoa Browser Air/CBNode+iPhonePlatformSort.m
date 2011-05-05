@@ -31,6 +31,7 @@ BOOL _CBMoveNamedNodesIntoArray(NSMutableArray *dest, NSMutableArray *source, NS
         if (aNode.image) {
             continue;
         }
+        NSLog(@"NODE: %@", aNode.title);
         NSImage *image = nil;
         NSString *imageName = [imageMap objectForKey:aNode.title];
         if (imageName) {

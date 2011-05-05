@@ -41,8 +41,10 @@ BOOL checkAppReceipt()
 
 int main(int argc, char *argv[])
 {
-    /*if (!checkAppReceipt()) {
+#ifndef __DEBUG__
+    if (!checkAppReceipt()) {
         exit(173);
-    }*/
+    }
+#endif
     return NSApplicationMain(argc, (const char **) argv);
 }

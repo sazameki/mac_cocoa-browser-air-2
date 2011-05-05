@@ -109,7 +109,7 @@ static NSString *sCBMacOSXCoreFoundationFrameworkURLStr = @"file:///Developer/Do
 - (void)_addFramework:(NSString *)frameworkName URLStr:(NSString *)URLStr
 {
 #ifdef __DEBUG__
-    NSLog(@"CBSAXMacPlatformParser>> _addFrame:\"%@\" URLStr:\"%@\"", frameworkName, URLStr);
+    NSLog(@"CBSAXMacPlatformParser>> _addFramework:\"%@\" URLStr:\"%@\"", frameworkName, URLStr);
 #endif
     
     CBNode *aNode = [[CBNode new] autorelease];
