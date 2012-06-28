@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PDF</key>
+	<dict>
+		<key>href</key>
+		<string>InputMethodKitFrameworkRef.pdf</string>
+	</dict>
+	<key>assignments</key>
+	<array>
+		<string>Type/Reference</string>
+		<string>Framework/Core Services Layer/InputMethodKit</string>
+		<string>Topic/User Experience</string>
+	</array>
+	<key>needsAdditionalLinksSeparator</key>
+	<false/>
+	<key>relatedBooks</key>
+	<array/>
+	<key>sections</key>
+	<array>
+		<dict>
+			<key>aref</key>
+			<string></string>
+			<key>href</key>
+			<string>&lt;@@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Introduction</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006155-CH3-BCIHFHHB</string>
+			<key>href</key>
+			<string>&lt;@//apple_ref/doc/uid/TP40006155-CH3-BCIHFHHB@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>IMKCandidates Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006156-CH3-BCIHFHHB</string>
+			<key>href</key>
+			<string>../IMKInputController_Class/Reference/IMKInputController_ref.html#//apple_ref/doc/uid/TP40006156-CH3-BCIHFHHB</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>IMKInputController Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006158-CH3-BCIHFHHB</string>
+			<key>href</key>
+			<string>../IMKServer_Class/Reference/IMKServer_Ref.html#//apple_ref/doc/uid/TP40006158-CH3-BCIHFHHB</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>IMKServer Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006157-CH3-BCIHFHHB</string>
+			<key>href</key>
+			<string>../IMKMouseHandling_Protocol/Reference/IMKMouseHandling_Methods.html#//apple_ref/doc/uid/TP40006157-CH3-BCIHFHHB</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>IMKMouseHandling Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006161-CH3-BCIHFHHB</string>
+			<key>href</key>
+			<string>../IMKServerInput_Additions/Reference/IMKServerInput.html#//apple_ref/doc/uid/TP40006161-CH3-BCIHFHHB</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>IMKServerInput Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006159-CH3-BCIHFHHB</string>
+			<key>href</key>
+			<string>../IMKStateSetting_Protocol/Reference/IMKStateSetting_Ref.html#//apple_ref/doc/uid/TP40006159-CH3-BCIHFHHB</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>IMKStateSetting Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006160-CH3-BCIHFHHB</string>
+			<key>href</key>
+			<string>../IMKTextInput_Protocol/Reference/IMKTextInput_Protocol.html#//apple_ref/doc/uid/TP40006160-CH3-BCIHFHHB</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>IMKTextInput Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006154-RH1-DontLinkElementID_1</string>
+			<key>href</key>
+			<string>History/History.html#//apple_ref/doc/uid/TP40006154-RH1-DontLinkElementID_1</string>
+			<key>isPart</key>
+			<false/>
+			<key>title</key>
+			<string>Revision History</string>
+		</dict>
+	</array>
+	<key>shouldDisplayTOC</key>
+	<false/>
+	<key>technology</key>
+	<string>Cocoa</string>
+	<key>title</key>
+	<string>Input Method Kit Framework Reference</string>
+	<key>type</key>
+	<string>Collection</string>
+	<key>uid</key>
+	<string>TP40006154</string>
+</dict>
+</plist>

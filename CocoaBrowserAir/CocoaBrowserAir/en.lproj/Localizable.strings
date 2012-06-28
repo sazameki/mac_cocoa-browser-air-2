@@ -1,0 +1,12 @@
+/* 
+  LocalizableString.strings
+  CocoaBrowserAir
+
+  Created by numata on 11/05/11.
+  Copyright 2011 Satoshi Numata. All rights reserved.
+*/
+
+"Folder Base" = "Base Frameworks";
+"Folder Main" = "Main Frameworks";
+"Folder Others" = "Others";
+

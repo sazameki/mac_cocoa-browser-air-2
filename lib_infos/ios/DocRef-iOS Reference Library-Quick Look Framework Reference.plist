@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PDF</key>
+	<dict>
+		<key>href</key>
+		<string>QuickLookFrameworkReference_iPhoneOS.pdf</string>
+	</dict>
+	<key>assignments</key>
+	<array>
+		<string>Type/Reference</string>
+		<string>Framework/Core Services Layer/QuickLook</string>
+		<string>Topic/Data Management/File Management</string>
+	</array>
+	<key>needsAdditionalLinksSeparator</key>
+	<false/>
+	<key>relatedBooks</key>
+	<array/>
+	<key>sections</key>
+	<array>
+		<dict>
+			<key>aref</key>
+			<string></string>
+			<key>href</key>
+			<string>&lt;@@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Introduction</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009657-CH1-SW1</string>
+			<key>href</key>
+			<string>&lt;@//apple_ref/doc/uid/TP40009657-CH1-SW1@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>QLPreviewController Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009665-CH1-DontLinkElementID_6</string>
+			<key>href</key>
+			<string>../../../NetworkingInternet/Reference/QLPreviewControllerDataSource_Protocol/Reference/Reference.html#//apple_ref/doc/uid/TP40009665-CH1-DontLinkElementID_6</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>QLPreviewControllerDataSource Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009667-CH1-DontLinkElementID_9</string>
+			<key>href</key>
+			<string>../../../NetworkingInternet/Reference/QLPreviewControllerDelegate_Protocol/Reference/Reference.html#//apple_ref/doc/uid/TP40009667-CH1-DontLinkElementID_9</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>QLPreviewControllerDelegate Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009658-CH1-SW1</string>
+			<key>href</key>
+			<string>../../../NetworkingInternet/Reference/QLPreviewItem_Protocol_iPhoneOS/Reference/Reference.html#//apple_ref/doc/uid/TP40009658-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>QLPreviewItem Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009672-CH2-DontLinkElementID_2</string>
+			<key>href</key>
+			<string>RevisionHistory.html#//apple_ref/doc/uid/TP40009672-CH2-DontLinkElementID_2</string>
+			<key>isPart</key>
+			<false/>
+			<key>title</key>
+			<string>Revision History</string>
+		</dict>
+	</array>
+	<key>shouldDisplayTOC</key>
+	<false/>
+	<key>technology</key>
+	<string></string>
+	<key>title</key>
+	<string>Quick Look Framework Reference</string>
+	<key>type</key>
+	<string>Collection</string>
+	<key>uid</key>
+	<string>TP40009672</string>
+</dict>
+</plist>

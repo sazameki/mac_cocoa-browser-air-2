@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PDF</key>
+	<dict>
+		<key>href</key>
+		<string>MediaPlayer_Framework.pdf</string>
+	</dict>
+	<key>assignments</key>
+	<array>
+		<string>Type/Reference</string>
+		<string>Framework/Media Layer/MediaPlayer</string>
+		<string>Topic/Audio &amp; Video</string>
+	</array>
+	<key>needsAdditionalLinksSeparator</key>
+	<false/>
+	<key>relatedBooks</key>
+	<array/>
+	<key>sections</key>
+	<array>
+		<dict>
+			<key>aref</key>
+			<string></string>
+			<key>href</key>
+			<string>&lt;@@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Introduction</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40010365-CH1-SW1</string>
+			<key>href</key>
+			<string>&lt;@//apple_ref/doc/uid/TP40010365-CH1-SW1@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>MPMediaEntity Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008211-CH1-SW8</string>
+			<key>href</key>
+			<string>../MPMediaItem_ClassReference/Reference/Reference.html#//apple_ref/doc/uid/TP40008211-CH1-SW8</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>MPMediaItem Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008212-CH1-DontLinkElementID_9</string>
+			<key>href</key>
+			<string>../MPMediaItemArtwork_ClassReference/Reference/Reference.html#//apple_ref/doc/uid/TP40008212-CH1-DontLinkElementID_9</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>MPMediaItemArtwork Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008213-CH1-SW5</string>
+			<key>href</key>
+			<string>../MPMediaItemCollection_ClassReference/Reference/Reference.html#//apple_ref/doc/uid/TP40008213-CH1-SW5</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>MPMediaItemCollection Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008214-CH1-SW3</string>
+			<key>href</key>
+			<string>../MPMediaLibrary_ClassReference/Reference/Reference.html#//apple_ref/doc/uid/TP40008214-CH1-SW3</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>MPMediaLibrary Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008215-CH1-SW3</string>
+			<key>href</key>
+			<string>../MPMediaPickerController_ClassReference/Reference/Reference.html#//apple_ref/doc/uid/TP40008215-CH1-SW3</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>MPMediaPickerController Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008217-CH1-SW5</string>
+			<key>href</key>
+			<string>../MPMediaPlaylist_ClassReference/Reference/Reference.html#//apple_ref/doc/uid/TP40008217-CH1-SW5</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>MPMediaPlaylist Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008218-CH1-SW1</string>
+			<key>href</key>
+			<string>../MPMediaPredicate_ClassReference/Reference/Reference.html#//apple_ref/doc/uid/TP40008218-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>MPMediaPredicate Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008219-CH1-SW5</string>
+			<key>href</key>
+			<string>../MPMediaPropertyPredicate_ClassReference/Reference/Reference.html#//apple_ref/doc/uid/TP40008219-CH1-SW5</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>MPMediaPropertyPredicate Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008220-CH1-SW3</string>
+			<key>href</key>
+			<string>../MPMediaQuery_ClassReference/Reference/Reference.html#//apple_ref/doc/uid/TP40008220-CH1-SW3</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>MPMediaQuery Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40010367-CH1-SW1</string>
+			<key>href</key>
+			<string>../MPMediaQuerySection_ClassReference/Reference/Reference.html#//apple_ref/doc/uid/TP40010367-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>MPMediaQuerySection Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40010561-CH1-SW1</string>
+			<key>href</key>
+			<string>../MPMovieAccessLog_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40010561-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>MPMovieAccessLog Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40010563-CH1-DontLinkElementID_18</string>
+			<key>href</key>
+			<string>../MPMovieAccessLogEvent_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40010563-CH1-DontLinkElementID_18</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>MPMovieAccessLogEvent Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40010562-CH1-SW1</string>
+			<key>href</key>
+			<string>../MPMovieErrorLog_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40010562-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>MPMovieErrorLog Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40010564-CH1-DontLinkElementID_12</string>
+			<key>href</key>
+			<string>../MPMovieErrorLogEvent_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40010564-CH1-DontLinkElementID_12</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>MPMovieErrorLogEvent Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006953-CH3-SW6</string>
+			<key>href</key>
+			<string>../MPMoviePlayerController_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40006953-CH3-SW6</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>MPMoviePlayerController Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009269-CH1-SW1</string>
+			<key>href</key>
+			<string>../MPMoviePlayerViewController_class/Reference/Reference.html#//apple_ref/doc/uid/TP40009269-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>MPMoviePlayerViewController Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008221-CH1-SW23</string>
+			<key>href</key>
+			<string>../MPMusicPlayerController_ClassReference/Reference/Reference.html#//apple_ref/doc/uid/TP40008221-CH1-SW23</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>MPMusicPlayerController Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009768-CH1-DontLinkElementID_13</string>
+			<key>href</key>
+			<string>../MPTimedMetadata_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40009768-CH1-DontLinkElementID_13</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>MPTimedMetadata Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40007550-CH1-SW4</string>
+			<key>href</key>
+			<string>../MPVolumeView_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40007550-CH1-SW4</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>MPVolumeView Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009289-CH1-SW1</string>
+			<key>href</key>
+			<string>../UIViewController_MediaPlayer_Additions/Reference/Reference.html#//apple_ref/doc/uid/TP40009289-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIViewController MediaPlayer Additions Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008216-CH1-SW1</string>
+			<key>href</key>
+			<string>../MPMediaPickerControllerDelegate_ProtocolReference/Reference/Reference.html#//apple_ref/doc/uid/TP40008216-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>MPMediaPickerControllerDelegate Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009268-CH1-SW6</string>
+			<key>href</key>
+			<string>../MPMediaPlayback_protocol/Reference/Reference.html#//apple_ref/doc/uid/TP40009268-CH1-SW6</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>MPMediaPlayback Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40007552-DontLinkChapterID_1-DontLinkElementID_4</string>
+			<key>href</key>
+			<string>../MediaPlayerFunctionsReference/Reference/reference.html#//apple_ref/doc/uid/TP40007552-DontLinkChapterID_1-DontLinkElementID_4</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Media Player Functions Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006952-CH2-SW1</string>
+			<key>href</key>
+			<string>RevisionHistory.html#//apple_ref/doc/uid/TP40006952-CH2-SW1</string>
+			<key>isPart</key>
+			<false/>
+			<key>title</key>
+			<string>Revision History</string>
+		</dict>
+	</array>
+	<key>shouldDisplayTOC</key>
+	<false/>
+	<key>technology</key>
+	<string>iPhone</string>
+	<key>title</key>
+	<string>Media Player Framework Reference</string>
+	<key>type</key>
+	<string>Collection</string>
+	<key>uid</key>
+	<string>TP40006952</string>
+</dict>
+</plist>

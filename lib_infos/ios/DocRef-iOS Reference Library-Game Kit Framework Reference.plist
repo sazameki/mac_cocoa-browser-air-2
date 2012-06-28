@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PDF</key>
+	<dict>
+		<key>href</key>
+		<string>GameKit_Collection.pdf</string>
+	</dict>
+	<key>assignments</key>
+	<array>
+		<string>Type/Reference</string>
+		<string>Framework/Cocoa Touch Layer/GameKit</string>
+		<string>Topic/Networking &amp; Internet</string>
+	</array>
+	<key>needsAdditionalLinksSeparator</key>
+	<false/>
+	<key>relatedBooks</key>
+	<array/>
+	<key>sections</key>
+	<array>
+		<dict>
+			<key>aref</key>
+			<string></string>
+			<key>href</key>
+			<string>&lt;@@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Introduction</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009959-CH1-SW8</string>
+			<key>href</key>
+			<string>&lt;@//apple_ref/doc/uid/TP40009959-CH1-SW8@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>GKAchievement Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009960-CH1-SW3</string>
+			<key>href</key>
+			<string>../GKAchievementDescription_Ref/Reference/Reference.html#//apple_ref/doc/uid/TP40009960-CH1-SW3</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>GKAchievementDescription Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009961-CH1-SW1</string>
+			<key>href</key>
+			<string>../GKAchievementViewController_Ref/Reference/Reference.html#//apple_ref/doc/uid/TP40009961-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>GKAchievementViewController Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40010307-CH1-SW1</string>
+			<key>href</key>
+			<string>../GKFriendRequestComposeViewController_Ref/Reference/Reference.html#//apple_ref/doc/uid/TP40010307-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>GKFriendRequestComposeViewController Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009592-CH1-SW2</string>
+			<key>href</key>
+			<string>../GKInvite_Ref/Reference/Reference.html#//apple_ref/doc/uid/TP40009592-CH1-SW2</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>GKInvite Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009584-CH1-SW9</string>
+			<key>href</key>
+			<string>../GKLeaderboard_Ref/Reference/Reference.html#//apple_ref/doc/uid/TP40009584-CH1-SW9</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>GKLeaderboard Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009585-CH1-SW1</string>
+			<key>href</key>
+			<string>../GKLeaderboardViewController_Ref/Reference/Reference.html#//apple_ref/doc/uid/TP40009585-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>GKLeaderboardViewController Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009587-CH1-SW7</string>
+			<key>href</key>
+			<string>../GKLocalPlayer_Ref/Reference/Reference.html#//apple_ref/doc/uid/TP40009587-CH1-SW7</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>GKLocalPlayer Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009588-CH1-SW3</string>
+			<key>href</key>
+			<string>../GKMatch_Ref/Reference/Reference.html#//apple_ref/doc/uid/TP40009588-CH1-SW3</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>GKMatch Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009593-CH1-SW9</string>
+			<key>href</key>
+			<string>../GKMatchmaker_Ref/Reference/Reference.html#//apple_ref/doc/uid/TP40009593-CH1-SW9</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>GKMatchmaker Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009597-CH1-SW3</string>
+			<key>href</key>
+			<string>../GKMatchmakerViewController_Ref/Reference/Reference.html#//apple_ref/doc/uid/TP40009597-CH1-SW3</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>GKMatchmakerViewController Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009591-CH1-SW2</string>
+			<key>href</key>
+			<string>../GKMatchRequest_Ref/Reference/Reference.html#//apple_ref/doc/uid/TP40009591-CH1-SW2</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>GKMatchRequest Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008268-CH1-SW2</string>
+			<key>href</key>
+			<string>../GKPeerPickerController_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40008268-CH1-SW2</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>GKPeerPickerController Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009599-CH1-SW1</string>
+			<key>href</key>
+			<string>../GKPlayer_Ref/Reference/Reference.html#//apple_ref/doc/uid/TP40009599-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>GKPlayer Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009601-CH1-SW4</string>
+			<key>href</key>
+			<string>../GKScore_Ref/Reference/Reference.html#//apple_ref/doc/uid/TP40009601-CH1-SW4</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>GKScore Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008258-CH1-SW1</string>
+			<key>href</key>
+			<string>../GKSession_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40008258-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>GKSession Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009602-CH1-SW6</string>
+			<key>href</key>
+			<string>../GKVoiceChat_Ref/Reference/Reference.html#//apple_ref/doc/uid/TP40009602-CH1-SW6</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>GKVoiceChat Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008261-CH1-SW1</string>
+			<key>href</key>
+			<string>../GKVoiceChatService_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40008261-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>GKVoiceChatService Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009962-CH1-SW1</string>
+			<key>href</key>
+			<string>../GKAchievementViewControllerDelegate_Ref/Reference/Reference.html#//apple_ref/doc/uid/TP40009962-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>GKAchievementViewControllerDelegate Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40010308-CH1-DontLinkElementID_6</string>
+			<key>href</key>
+			<string>../GKFriendRequestComposeViewControllerDelegate_Ref/Reference/Reference.html#//apple_ref/doc/uid/TP40010308-CH1-DontLinkElementID_6</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>GKFriendRequestComposeViewControllerDelegate Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009586-CH1-SW1</string>
+			<key>href</key>
+			<string>../GKLeaderboardViewControllerDelegate_Ref/Reference/Reference.html#//apple_ref/doc/uid/TP40009586-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>GKLeaderboardViewControllerDelegate Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009589-CH1-SW1</string>
+			<key>href</key>
+			<string>../GKMatchDelegate_Ref/Reference/Reference.html#//apple_ref/doc/uid/TP40009589-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>GKMatchDelegate Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009598-CH1-SW1</string>
+			<key>href</key>
+			<string>../GKMatchmakerViewControllerDelegate_Ref/Reference/Reference.html#//apple_ref/doc/uid/TP40009598-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>GKMatchmakerViewControllerDelegate Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008264-CH1-SW1</string>
+			<key>href</key>
+			<string>../GKPeerPickerControllerDelegate_Protocol/Reference/Reference.html#//apple_ref/doc/uid/TP40008264-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>GKPeerPickerControllerDelegate Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008263-CH1-SW1</string>
+			<key>href</key>
+			<string>../GKSessionDelegate_Protocol/Reference/Reference.html#//apple_ref/doc/uid/TP40008263-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>GKSessionDelegate Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008266-CH1-SW1</string>
+			<key>href</key>
+			<string>../GKVoiceChatClient_Protocol/Reference/Reference.html#//apple_ref/doc/uid/TP40008266-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>GKVoiceChatClient Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009766-DontLinkChapterID_1-DontLinkElementID_1</string>
+			<key>href</key>
+			<string>../GameKit_ConstantsRef/Reference/reference.html#//apple_ref/doc/uid/TP40009766-DontLinkChapterID_1-DontLinkElementID_1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Game Kit Constants Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008303-CH99-SW1</string>
+			<key>href</key>
+			<string>RevisionHistory.html#//apple_ref/doc/uid/TP40008303-CH99-SW1</string>
+			<key>isPart</key>
+			<false/>
+			<key>title</key>
+			<string>Revision History</string>
+		</dict>
+	</array>
+	<key>shouldDisplayTOC</key>
+	<false/>
+	<key>technology</key>
+	<string></string>
+	<key>title</key>
+	<string>Game Kit Framework Reference</string>
+	<key>type</key>
+	<string>Collection</string>
+	<key>uid</key>
+	<string>TP40008303</string>
+</dict>
+</plist>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PDF</key>
+	<dict>
+		<key>href</key>
+		<string>ScriptingBridgeFramework.pdf</string>
+	</dict>
+	<key>assignments</key>
+	<array>
+		<string>Type/Reference</string>
+		<string>Framework/Core Services Layer/ScriptingBridge</string>
+		<string>Topic/Interapplication Communication</string>
+	</array>
+	<key>needsAdditionalLinksSeparator</key>
+	<false/>
+	<key>relatedBooks</key>
+	<array/>
+	<key>sections</key>
+	<array>
+		<dict>
+			<key>aref</key>
+			<string></string>
+			<key>href</key>
+			<string>&lt;@@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Introduction</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40005075-CH3-DontLinkElementID_17</string>
+			<key>href</key>
+			<string>&lt;@//apple_ref/doc/uid/TP40005075-CH3-DontLinkElementID_17@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>SBApplication Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40005076-CH3-DontLinkElementID_10</string>
+			<key>href</key>
+			<string>../../../Cocoa/Reference/SBElementArray_Class/SBElementArray/SBElementArray.html#//apple_ref/doc/uid/TP40005076-CH3-DontLinkElementID_10</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>SBElementArray Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40005077-CH3-DontLinkElementID_9</string>
+			<key>href</key>
+			<string>../../../Cocoa/Reference/SBObject_Class/SBObject/SBObject.html#//apple_ref/doc/uid/TP40005077-CH3-DontLinkElementID_9</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>SBObject Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006175-CH3-DontLinkElementID_7</string>
+			<key>href</key>
+			<string>../../../Cocoa/Reference/SBApplicationDelegate_Protocol/SBApplicationDelegate/SBApplicationDelegate.html#//apple_ref/doc/uid/TP40006175-CH3-DontLinkElementID_7</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>SBApplicationDelegate Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40005074-CH2-DontLinkElementID_1</string>
+			<key>href</key>
+			<string>RevisionHistory.html#//apple_ref/doc/uid/TP40005074-CH2-DontLinkElementID_1</string>
+			<key>isPart</key>
+			<false/>
+			<key>title</key>
+			<string>Revision History</string>
+		</dict>
+	</array>
+	<key>shouldDisplayTOC</key>
+	<false/>
+	<key>technology</key>
+	<string>Scripting &amp; Automation</string>
+	<key>title</key>
+	<string>Scripting Bridge Framework Reference</string>
+	<key>type</key>
+	<string>Collection</string>
+	<key>uid</key>
+	<string>TP40005074</string>
+</dict>
+</plist>

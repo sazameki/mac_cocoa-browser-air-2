@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PDF</key>
+	<dict>
+		<key>href</key>
+		<string>CoreAnimation_framework.pdf</string>
+	</dict>
+	<key>assignments</key>
+	<array>
+		<string>Type/Reference</string>
+		<string>Framework/Media Layer/QuartzCore</string>
+		<string>Topic/Graphics &amp; Animation/Animation</string>
+	</array>
+	<key>needsAdditionalLinksSeparator</key>
+	<false/>
+	<key>relatedBooks</key>
+	<array>
+		<dict>
+			<key>sections</key>
+			<array>
+				<dict>
+					<key>aref</key>
+					<string>//apple_ref/doc/uid/TP40004514</string>
+					<key>href</key>
+					<string>../../Conceptual/CoreAnimation_guide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40004514</string>
+					<key>title</key>
+					<string>Core Animation Programming Guide</string>
+				</dict>
+			</array>
+			<key>title</key>
+			<string>COMPANION GUIDE</string>
+		</dict>
+	</array>
+	<key>sections</key>
+	<array>
+		<dict>
+			<key>aref</key>
+			<string></string>
+			<key>href</key>
+			<string>&lt;@@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Introduction</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004494-CH1-DontLinkElementID_21</string>
+			<key>href</key>
+			<string>&lt;@//apple_ref/doc/uid/TP40004494-CH1-DontLinkElementID_21@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CAAnimation Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004495-CH1-DontLinkElementID_5</string>
+			<key>href</key>
+			<string>../../../GraphicsImaging/Reference/CAAnimationGroup_class/Introduction/Introduction.html#//apple_ref/doc/uid/TP40004495-CH1-DontLinkElementID_5</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CAAnimationGroup Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004496-CH1-DontLinkElementID_5</string>
+			<key>href</key>
+			<string>../../../GraphicsImaging/Reference/CABasicAnimation_class/Introduction/Introduction.html#//apple_ref/doc/uid/TP40004496-CH1-DontLinkElementID_5</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CABasicAnimation Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009031-CH1-SW6</string>
+			<key>href</key>
+			<string>../../../QuartzCore/Reference/CADisplayLink_ClassRef/Reference/Reference.html#//apple_ref/doc/uid/TP40009031-CH1-SW6</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CADisplayLink Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006997-CH3-SW2</string>
+			<key>href</key>
+			<string>../../../QuartzCore/Reference/CAEAGLLayer_Class/CAEGLLayer/CAEGLLayer.html#//apple_ref/doc/uid/TP40006997-CH3-SW2</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CAEAGLLayer Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008320-CH1-DontLinkElementID_12</string>
+			<key>href</key>
+			<string>../../../GraphicsImaging/Reference/CAGradientLayer_class/Reference/Reference.html#//apple_ref/doc/uid/TP40008320-CH1-DontLinkElementID_12</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CAGradientLayer Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004499-CH1-SW12</string>
+			<key>href</key>
+			<string>../../../GraphicsImaging/Reference/CAKeyframeAnimation_class/Introduction/Introduction.html#//apple_ref/doc/uid/TP40004499-CH1-SW12</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CAKeyframeAnimation Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004500-CH1-SW57</string>
+			<key>href</key>
+			<string>../../../GraphicsImaging/Reference/CALayer_class/Introduction/Introduction.html#//apple_ref/doc/uid/TP40004500-CH1-SW57</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CALayer Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004505-CH1-DontLinkElementID_11</string>
+			<key>href</key>
+			<string>../CAMediaTimingFunction_class/Introduction/Introduction.html#//apple_ref/doc/uid/TP40004505-CH1-DontLinkElementID_11</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CAMediaTimingFunction Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004502-CH1-DontLinkElementID_10</string>
+			<key>href</key>
+			<string>../../../GraphicsImaging/Reference/CAPropertyAnimation_class/Introduction/Introduction.html#//apple_ref/doc/uid/TP40004502-CH1-DontLinkElementID_10</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CAPropertyAnimation Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008318-CH1-DontLinkElementID_16</string>
+			<key>href</key>
+			<string>../../../GraphicsImaging/Reference/CAReplicatorLayer_class/Reference/Reference.html#//apple_ref/doc/uid/TP40008318-CH1-DontLinkElementID_16</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CAReplicatorLayer Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004503-CH1-DontLinkElementID_10</string>
+			<key>href</key>
+			<string>../../../GraphicsImaging/Reference/CAScrollLayer_class/Introduction/Introduction.html#//apple_ref/doc/uid/TP40004503-CH1-DontLinkElementID_10</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CAScrollLayer Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008314-CH1-SW17</string>
+			<key>href</key>
+			<string>../../../GraphicsImaging/Reference/CAShapeLayer_class/Reference/Reference.html#//apple_ref/doc/uid/TP40008314-CH1-SW17</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CAShapeLayer Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004504-CH1-SW10</string>
+			<key>href</key>
+			<string>../../../GraphicsImaging/Reference/CATextLayer_class/Introduction/Introduction.html#//apple_ref/doc/uid/TP40004504-CH1-SW10</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CATextLayer Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004506-CH1-SW18</string>
+			<key>href</key>
+			<string>../../../GraphicsImaging/Reference/CATransaction_class/Introduction/Introduction.html#//apple_ref/doc/uid/TP40004506-CH1-SW18</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CATransaction Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008319-CH1-DontLinkElementID_5</string>
+			<key>href</key>
+			<string>../../../GraphicsImaging/Reference/CATransformLayer_class/Reference/Reference.html#//apple_ref/doc/uid/TP40008319-CH1-DontLinkElementID_5</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CATransformLayer Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004507-CH1-DontLinkElementID_9</string>
+			<key>href</key>
+			<string>../../../GraphicsImaging/Reference/CATransition_class/Introduction/Introduction.html#//apple_ref/doc/uid/TP40004507-CH1-DontLinkElementID_9</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CATransition Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008317-CH1-SW5</string>
+			<key>href</key>
+			<string>../../../GraphicsImaging/Reference/CAValueFunction_class/Reference/Reference.html#//apple_ref/doc/uid/TP40008317-CH1-SW5</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CAValueFunction Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004846-CH1-DontLinkElementID_9</string>
+			<key>href</key>
+			<string>../../../GraphicsImaging/Reference/NSValue_CA_additions/Introduction/Introduction.html#//apple_ref/doc/uid/TP40004846-CH1-DontLinkElementID_9</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSValue Core Animation Additions</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004508-CH1-DontLinkElementID_5</string>
+			<key>href</key>
+			<string>../../../GraphicsImaging/Reference/CAAction_protocol/Introduction/Introduction.html#//apple_ref/doc/uid/TP40004508-CH1-DontLinkElementID_5</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CAAction Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004509-CH1-DontLinkElementID_9</string>
+			<key>href</key>
+			<string>../../../GraphicsImaging/Reference/CALayoutManager_protocol/Introduction/Introduction.html#//apple_ref/doc/uid/TP40004509-CH1-DontLinkElementID_9</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CALayoutManager Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004511-CH1-DontLinkElementID_14</string>
+			<key>href</key>
+			<string>../../../GraphicsImaging/Reference/CAMediaTiming_protocol/Introduction/Introduction.html#//apple_ref/doc/uid/TP40004511-CH1-DontLinkElementID_14</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CAMediaTiming Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004512-DontLinkChapterID_1-DontLinkElementID_20</string>
+			<key>href</key>
+			<string>../CoreAnimation_functions/Reference/reference.html#//apple_ref/doc/uid/TP40004512-DontLinkChapterID_1-DontLinkElementID_20</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Core Animation Function Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40005414-SW1</string>
+			<key>href</key>
+			<string>../../../GraphicsImaging/Conceptual/CoreAnimation_Cookbook/Articles/Drawing.html#//apple_ref/doc/uid/TP40005414-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Drawing</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004689-SW1</string>
+			<key>href</key>
+			<string>../../Conceptual/CoreAnimation_guide/Articles/WhatisCoreAnimation.html#//apple_ref/doc/uid/TP40004689-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>What Is Core Animation?</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006077-SW1</string>
+			<key>href</key>
+			<string>../../../GraphicsImaging/Conceptual/CoreAnimation_Cookbook/Articles/Timing.html#//apple_ref/doc/uid/TP40006077-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Timing</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006655-SW1</string>
+			<key>href</key>
+			<string>../../Conceptual/CoreAnimation_guide/Articles/CoreAnimationArchitecture.html#//apple_ref/doc/uid/TP40006655-SW1</string>
+			<key>isPart</key>
+			<false/>
+			<key>title</key>
+			<string>Core Animation Rendering Architecture</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006082-SW1</string>
+			<key>href</key>
+			<string>../../Conceptual/CoreAnimation_guide/Articles/Layers.html#//apple_ref/doc/uid/TP40006082-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Layer Geometry and Transforms</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006083-SW1</string>
+			<key>href</key>
+			<string>../../Conceptual/CoreAnimation_guide/Articles/LayerTreeHierarchy.html#//apple_ref/doc/uid/TP40006083-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Layer-Tree Hierarchy</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006642-SW1</string>
+			<key>href</key>
+			<string>../../Conceptual/CoreAnimation_guide/Articles/ProvidingCALayerContent.html#//apple_ref/doc/uid/TP40006642-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Providing Layer Content</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006085-SW1</string>
+			<key>href</key>
+			<string>../../Conceptual/CoreAnimation_guide/Articles/AnimatingLayers.html#//apple_ref/doc/uid/TP40006085-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Animation</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006095-SW1</string>
+			<key>href</key>
+			<string>../../Conceptual/CoreAnimation_guide/Articles/Actions.html#//apple_ref/doc/uid/TP40006095-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Layer Actions</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006096-SW1</string>
+			<key>href</key>
+			<string>../../Conceptual/CoreAnimation_guide/Articles/Transactions.html#//apple_ref/doc/uid/TP40006096-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Transactions</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006084-SW1</string>
+			<key>href</key>
+			<string>../../Conceptual/CoreAnimation_guide/Articles/Layout.html#//apple_ref/doc/uid/TP40006084-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Laying Out Core Animation Layers</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40005299-SW1</string>
+			<key>href</key>
+			<string>../../Conceptual/CoreAnimation_guide/Articles/KVCAdditions.html#//apple_ref/doc/uid/TP40005299-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Core Animation Extensions To Key-Value Coding</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006074-SW1</string>
+			<key>href</key>
+			<string>../../Conceptual/CoreAnimation_guide/Articles/LayerVisProps.html#//apple_ref/doc/uid/TP40006074-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Layer Style Properties</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006131-SW1</string>
+			<key>href</key>
+			<string>../../Conceptual/CoreAnimation_guide/Articles/Headstart.html#//apple_ref/doc/uid/TP40006131-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Example: Core Animation Kiosk Menu Style Application</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40005942-SW1</string>
+			<key>href</key>
+			<string>../../Conceptual/CoreAnimation_guide/Articles/AnimProps.html#//apple_ref/doc/uid/TP40005942-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Animatable Properties</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004513-CH2-DontLinkElementID_2</string>
+			<key>href</key>
+			<string>RevisionHistory.html#//apple_ref/doc/uid/TP40004513-CH2-DontLinkElementID_2</string>
+			<key>isPart</key>
+			<false/>
+			<key>title</key>
+			<string>Revision History</string>
+		</dict>
+	</array>
+	<key>shouldDisplayTOC</key>
+	<false/>
+	<key>technology</key>
+	<string>Graphics &amp; Imaging</string>
+	<key>title</key>
+	<string>Core Animation Reference Collection</string>
+	<key>type</key>
+	<string>Collection</string>
+	<key>uid</key>
+	<string>TP40004513</string>
+</dict>
+</plist>

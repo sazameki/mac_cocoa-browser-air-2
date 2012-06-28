@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PDF</key>
+	<dict>
+		<key>href</key>
+		<string>ExternalAccessoryFrameworkReference.pdf</string>
+	</dict>
+	<key>assignments</key>
+	<array>
+		<string>Type/Reference</string>
+		<string>Framework/Core OS Layer/ExternalAccessory</string>
+		<string>Topic/Data Management/Device Information</string>
+	</array>
+	<key>needsAdditionalLinksSeparator</key>
+	<false/>
+	<key>relatedBooks</key>
+	<array/>
+	<key>sections</key>
+	<array>
+		<dict>
+			<key>aref</key>
+			<string></string>
+			<key>href</key>
+			<string>&lt;@@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Introduction</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008196-CH1-SW1</string>
+			<key>href</key>
+			<string>&lt;@//apple_ref/doc/uid/TP40008196-CH1-SW1@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>EAAccessory Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008198-CH1-SW4</string>
+			<key>href</key>
+			<string>../EAAccessoryManager_class/Reference/Reference.html#//apple_ref/doc/uid/TP40008198-CH1-SW4</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>EAAccessoryManager Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008199-CH1-SW1</string>
+			<key>href</key>
+			<string>../EASession_class/Reference/Reference.html#//apple_ref/doc/uid/TP40008199-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>EASession Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008197-CH1-SW1</string>
+			<key>href</key>
+			<string>../EAAccessoryDelegate_protocol/Reference/Reference.html#//apple_ref/doc/uid/TP40008197-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>EAAccessoryDelegate Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008235-CH2-SW1</string>
+			<key>href</key>
+			<string>DocumentRevisionHistory.html#//apple_ref/doc/uid/TP40008235-CH2-SW1</string>
+			<key>isPart</key>
+			<false/>
+			<key>title</key>
+			<string>Revision History</string>
+		</dict>
+	</array>
+	<key>shouldDisplayTOC</key>
+	<false/>
+	<key>technology</key>
+	<string></string>
+	<key>title</key>
+	<string>External Accessory Framework Reference</string>
+	<key>type</key>
+	<string>Collection</string>
+	<key>uid</key>
+	<string>TP40008235</string>
+</dict>
+</plist>

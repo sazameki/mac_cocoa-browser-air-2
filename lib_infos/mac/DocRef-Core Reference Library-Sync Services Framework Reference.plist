@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PDF</key>
+	<dict>
+		<key>href</key>
+		<string>SyncServicesRef_ObjC.pdf</string>
+	</dict>
+	<key>assignments</key>
+	<array>
+		<string>Type/Reference</string>
+		<string>Framework/Core Services Layer/SyncServices</string>
+		<string>Topic/Data Management/Syncing</string>
+	</array>
+	<key>needsAdditionalLinksSeparator</key>
+	<false/>
+	<key>relatedBooks</key>
+	<array>
+		<dict>
+			<key>sections</key>
+			<array>
+				<dict>
+					<key>aref</key>
+					<string>//apple_ref/doc/uid/20001091</string>
+					<key>href</key>
+					<string>../Foundation/ObjC_classic/_index.html#//apple_ref/doc/uid/20001091</string>
+					<key>title</key>
+					<string>Foundation Framework Reference</string>
+				</dict>
+				<dict>
+					<key>aref</key>
+					<string>//apple_ref/doc/uid/TP40001178</string>
+					<key>href</key>
+					<string>../../Conceptual/SyncServices/SyncServices.html#//apple_ref/doc/uid/TP40001178</string>
+					<key>title</key>
+					<string>Sync Services Programming Guide</string>
+				</dict>
+			</array>
+			<key>title</key>
+			<string>COMPANION GUIDES</string>
+		</dict>
+	</array>
+	<key>sections</key>
+	<array>
+		<dict>
+			<key>aref</key>
+			<string></string>
+			<key>href</key>
+			<string>&lt;@@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Introduction</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40001685-BBCBADCE</string>
+			<key>href</key>
+			<string>&lt;@//apple_ref/doc/uid/TP40001685-BBCBADCE@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>ISyncChange Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40001679-BBCCHFGA</string>
+			<key>href</key>
+			<string>../SyncServicesFramework/Classes/ISyncClient_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40001679-BBCCHFGA</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>ISyncClient Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40001680-DontLinkElementID_5</string>
+			<key>href</key>
+			<string>../SyncServicesFramework/Classes/ISyncFilter_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40001680-DontLinkElementID_5</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>ISyncFilter Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40001681-CJBIHJJJ</string>
+			<key>href</key>
+			<string>../SyncServicesFramework/Classes/ISyncManager_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40001681-CJBIHJJJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>ISyncManager Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004600-CH3-DontLinkElementID_2</string>
+			<key>href</key>
+			<string>../ISyncRecordReference_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40004600-CH3-DontLinkElementID_2</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>ISyncRecordReference Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40001682-DontLinkElementID_9</string>
+			<key>href</key>
+			<string>../SyncServicesFramework/Classes/ISyncRecordSnapshot_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40001682-DontLinkElementID_9</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>ISyncRecordSnapshot Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40001683-CJBGGDAB</string>
+			<key>href</key>
+			<string>../SyncServicesFramework/Classes/ISyncSession_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40001683-CJBGGDAB</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>ISyncSession Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40003544-SW1</string>
+			<key>href</key>
+			<string>../SyncServicesFramework/Classes/ISyncSessionDriver_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40003544-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>ISyncSessionDriver Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40005177-CH3-DontLinkElementID_6</string>
+			<key>href</key>
+			<string>../NSPersistentStoreCoordinator_SyncServicesAdditions/NSPersistentStoreCoordinatorAdditions/NSPersistentStoreCoordinatorAdditions.html#//apple_ref/doc/uid/TP40005177-CH3-DontLinkElementID_6</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSPersistentStoreCoordinator Sync Services Additions Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40001684-DontLinkElementID_7</string>
+			<key>href</key>
+			<string>../SyncServicesFramework/Protocols/ISyncFiltering_Protocol/Reference/Reference.html#//apple_ref/doc/uid/TP40001684-DontLinkElementID_7</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>ISyncFiltering Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004601-CH3-SW8</string>
+			<key>href</key>
+			<string>../ISyncSessionDriverDataSource_Protocol/Reference/Reference.html#//apple_ref/doc/uid/TP40004601-CH3-SW8</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>ISyncSessionDriverDataSource Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008308-CH100-DontLinkElementID_15</string>
+			<key>href</key>
+			<string>../ISyncSessionDriverDelegate_Protocol/Reference/Reference.html#//apple_ref/doc/uid/TP40008308-CH100-DontLinkElementID_15</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>ISyncSessionDriverDelegate Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006633-CH1-SW3</string>
+			<key>href</key>
+			<string>../SyncUIHelper_Protocol/Introduction/Introduction.html#//apple_ref/doc/uid/TP40006633-CH1-SW3</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>ISyncUIHelper Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40005178-CH3-DontLinkElementID_10</string>
+			<key>href</key>
+			<string>../NSPersistentStoreCoordinatorSyncing_Protocol/NSPersistentStoreCoordinatorSyncing/NSPersistentStoreCoordinatorSyncing.html#//apple_ref/doc/uid/TP40005178-CH3-DontLinkElementID_10</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSPersistentStoreCoordinatorSyncing Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004417-DontLinkChapterID_1-DontLinkElementID_6</string>
+			<key>href</key>
+			<string>../SyncServicesFramework/Miscellaneous/SyncServices_Constants/Reference/reference.html#//apple_ref/doc/uid/TP40004417-DontLinkChapterID_1-DontLinkElementID_6</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Sync Services Constants Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40001177-RH1-SW1</string>
+			<key>href</key>
+			<string>History/History.html#//apple_ref/doc/uid/TP40001177-RH1-SW1</string>
+			<key>isPart</key>
+			<false/>
+			<key>title</key>
+			<string>Revision History</string>
+		</dict>
+	</array>
+	<key>shouldDisplayTOC</key>
+	<false/>
+	<key>technology</key>
+	<string>Cocoa</string>
+	<key>title</key>
+	<string>Sync Services Framework Reference</string>
+	<key>type</key>
+	<string>Collection</string>
+	<key>uid</key>
+	<string>TP40001177</string>
+</dict>
+</plist>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PDF</key>
+	<dict>
+		<key>href</key>
+		<string>CFNetwork_Framework.pdf</string>
+	</dict>
+	<key>assignments</key>
+	<array>
+		<string>Type/Reference</string>
+		<string>Framework/Core Services Layer/CFNetwork</string>
+		<string>Topic/Networking &amp; Internet</string>
+	</array>
+	<key>needsAdditionalLinksSeparator</key>
+	<false/>
+	<key>relatedBooks</key>
+	<array/>
+	<key>sections</key>
+	<array>
+		<dict>
+			<key>aref</key>
+			<string></string>
+			<key>href</key>
+			<string>&lt;@@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Introduction</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40003359-DontLinkChapterID_1-DontLinkElementID_3</string>
+			<key>href</key>
+			<string>&lt;@//apple_ref/doc/uid/TP40003359-DontLinkChapterID_1-DontLinkElementID_3@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CFFTPStream Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40003333-DontLinkChapterID_1-DontLinkElementID_10</string>
+			<key>href</key>
+			<string>../../../CoreFoundation/Reference/CFHostRef/Reference/reference.html#//apple_ref/doc/uid/TP40003333-DontLinkChapterID_1-DontLinkElementID_10</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CFHost Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40003335-DontLinkChapterID_1-DontLinkElementID_8</string>
+			<key>href</key>
+			<string>../../../CoreFoundation/Reference/CFHTTPAuthenticationRef/Reference/reference.html#//apple_ref/doc/uid/TP40003335-DontLinkChapterID_1-DontLinkElementID_8</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CFHTTPAuthentication Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40003336-DontLinkChapterID_1-DontLinkElementID_12</string>
+			<key>href</key>
+			<string>../../../CoreFoundation/Reference/CFMessageRef/Reference/reference.html#//apple_ref/doc/uid/TP40003336-DontLinkChapterID_1-DontLinkElementID_12</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CFHTTPMessage Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40003363-DontLinkChapterID_1-DontLinkElementID_4</string>
+			<key>href</key>
+			<string>../../../CoreFoundation/Reference/CFHTTPStreamRef/Reference/reference.html#//apple_ref/doc/uid/TP40003363-DontLinkChapterID_1-DontLinkElementID_4</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CFHTTPStream Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40003364-DontLinkChapterID_1-DontLinkElementID_8</string>
+			<key>href</key>
+			<string>../../../CoreFoundation/Reference/CFNetDiagnosticsRef/Reference/reference.html#//apple_ref/doc/uid/TP40003364-DontLinkChapterID_1-DontLinkElementID_8</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CFNetDiagnostics Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40003365-DontLinkChapterID_1-DontLinkElementID_12</string>
+			<key>href</key>
+			<string>../../../CoreFoundation/Reference/CFNetServiceRef/Reference/reference.html#//apple_ref/doc/uid/TP40003365-DontLinkChapterID_1-DontLinkElementID_12</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CFNetServices Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40003412-DontLinkChapterID_1-DontLinkElementID_12</string>
+			<key>href</key>
+			<string>../../../CoreFoundation/Reference/CFSocketStreamRef/Reference/reference.html#//apple_ref/doc/uid/TP40003412-DontLinkChapterID_1-DontLinkElementID_12</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CFStream Socket Additions</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40007845-DontLinkChapterID_1-DontLinkElementID_5</string>
+			<key>href</key>
+			<string>../../../Networking/Reference/CFNetworkErrors/Reference/reference.html#//apple_ref/doc/uid/TP40007845-DontLinkChapterID_1-DontLinkElementID_5</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CFNetwork Error Codes Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40007846-DontLinkChapterID_1-DontLinkElementID_9</string>
+			<key>href</key>
+			<string>../../../CoreFoundation/Reference/CFProxySupport/Reference/reference.html#//apple_ref/doc/uid/TP40007846-DontLinkChapterID_1-DontLinkElementID_9</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CFProxySupport Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40007128-CH2-SW1</string>
+			<key>href</key>
+			<string>RevisionHistory.html#//apple_ref/doc/uid/TP40007128-CH2-SW1</string>
+			<key>isPart</key>
+			<false/>
+			<key>title</key>
+			<string>Revision History</string>
+		</dict>
+	</array>
+	<key>shouldDisplayTOC</key>
+	<false/>
+	<key>technology</key>
+	<string>iPhone</string>
+	<key>title</key>
+	<string>CFNetwork Framework Reference</string>
+	<key>type</key>
+	<string>Collection</string>
+	<key>uid</key>
+	<string>TP40007128</string>
+</dict>
+</plist>

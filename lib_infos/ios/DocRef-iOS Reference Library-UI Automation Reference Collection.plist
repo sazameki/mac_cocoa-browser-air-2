@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PDF</key>
+	<dict>
+		<key>href</key>
+		<string>UIAutomationRef.pdf</string>
+	</dict>
+	<key>assignments</key>
+	<array>
+		<string>Type/Reference</string>
+		<string>Topic/Tools &amp; Languages</string>
+	</array>
+	<key>needsAdditionalLinksSeparator</key>
+	<false/>
+	<key>relatedBooks</key>
+	<array/>
+	<key>sections</key>
+	<array>
+		<dict>
+			<key>aref</key>
+			<string></string>
+			<key>href</key>
+			<string>&lt;@@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Introduction</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009895-CH1-SW1</string>
+			<key>href</key>
+			<string>&lt;@//apple_ref/doc/uid/TP40009895-CH1-SW1@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIAActionSheet Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009897-CH1-DontLinkElementID_2</string>
+			<key>href</key>
+			<string>../../../ToolsLanguages/Reference/UIAActivityIndicatorClassReference/UIAActivityIndicator/UIAActivityIndicator.html#//apple_ref/doc/uid/TP40009897-CH1-DontLinkElementID_2</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIAActivityIndicator Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009898-CH1-SW1</string>
+			<key>href</key>
+			<string>../../../ToolsLanguages/Reference/UIAAlertClassReference/UIAAlert/UIAAlert.html#//apple_ref/doc/uid/TP40009898-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIAAlert Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009899-CH1-SW1</string>
+			<key>href</key>
+			<string>../../../ToolsLanguages/Reference/UIAApplicationClassReference/Introduction/Introduction.html#//apple_ref/doc/uid/TP40009899-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIAApplication Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009900-CH1-DontLinkElementID_2</string>
+			<key>href</key>
+			<string>../../../ToolsLanguages/Reference/UIAButtonClassReference/UIAButton/UIAButton.html#//apple_ref/doc/uid/TP40009900-CH1-DontLinkElementID_2</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIAButton Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009901-CH1-DontLinkElementID_2</string>
+			<key>href</key>
+			<string>../../../ToolsLanguages/Reference/UIAEditingMenuClassReference/UIAEditingMenu/UIAEditingMenu.html#//apple_ref/doc/uid/TP40009901-CH1-DontLinkElementID_2</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIAEditingMenu Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009903-CH1-SW1</string>
+			<key>href</key>
+			<string>../../../ToolsLanguages/Reference/UIAElementClassReference/UIAElement/UIAElement.html#//apple_ref/doc/uid/TP40009903-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIAElement Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009902-CH1-SW1</string>
+			<key>href</key>
+			<string>../../../ToolsLanguages/Reference/UIAElementArrayClassReference/Introduction/Introduction.html#//apple_ref/doc/uid/TP40009902-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIAElementArray Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40010021-CH1-DontLinkElementID_2</string>
+			<key>href</key>
+			<string>../../../ToolsLanguages/Reference/UIAKeyClassReference/UIAKeyClassReference/UIAKeyClassReference.html#//apple_ref/doc/uid/TP40010021-CH1-DontLinkElementID_2</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIAKey Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009904-CH1-SW1</string>
+			<key>href</key>
+			<string>../../../ToolsLanguages/Reference/UIAKeyboardClassReference/UIAKeyboard/UIAKeyboard.html#//apple_ref/doc/uid/TP40009904-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIAKeyboard Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009905-CH1-DontLinkElementID_4</string>
+			<key>href</key>
+			<string>../../../ToolsLanguages/Reference/UIALinkClassReference/UIALink/UIALink.html#//apple_ref/doc/uid/TP40009905-CH1-DontLinkElementID_4</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIALink Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009906-CH1-DontLinkElementID_4</string>
+			<key>href</key>
+			<string>../../../ToolsLanguages/Reference/UIALoggerClassReference/UIALogger/UIALogger.html#//apple_ref/doc/uid/TP40009906-CH1-DontLinkElementID_4</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIALogger Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009907-CH1-SW1</string>
+			<key>href</key>
+			<string>../../../ToolsLanguages/Reference/UIANavigationBarClassReference/UIANavigationBar/UIANavigationBar.html#//apple_ref/doc/uid/TP40009907-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIANavigationBar Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009908-CH1-SW1</string>
+			<key>href</key>
+			<string>../../../ToolsLanguages/Reference/UIAPageIndicatorClassReference/UIAPageIndicator/UIAPageIndicator.html#//apple_ref/doc/uid/TP40009908-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIAPageIndicator Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009909-CH1-SW1</string>
+			<key>href</key>
+			<string>../../../ToolsLanguages/Reference/UIAPickerClassReference/UIAPicker/UIAPicker.html#//apple_ref/doc/uid/TP40009909-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIAPicker Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009910-CH1-SW1</string>
+			<key>href</key>
+			<string>../../../ToolsLanguages/Reference/UIAPickerWheelClassReference/UIAPickerWheel/UIAPickerWheel.html#//apple_ref/doc/uid/TP40009910-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIAPickerWheel Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40010391-CH2-SW1</string>
+			<key>href</key>
+			<string>../../../ToolsLanguages/Reference/UIAPopoverClassReference/UIAPopover/UIAPopover.html#//apple_ref/doc/uid/TP40010391-CH2-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIAPopover Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009911-CH1-DontLinkElementID_2</string>
+			<key>href</key>
+			<string>../../../ToolsLanguages/Reference/UIAProgressIndicatorClassReference/UIAProgressIndicator/UIAProgressIndicator.html#//apple_ref/doc/uid/TP40009911-CH1-DontLinkElementID_2</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIAProgressIndicator Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009912-CH1-SW1</string>
+			<key>href</key>
+			<string>../../../ToolsLanguages/Reference/UIAScrollViewClassReference/UIAScrollView/UIAScrollView.html#//apple_ref/doc/uid/TP40009912-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIAScrollView Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009913-CH1-DontLinkElementID_2</string>
+			<key>href</key>
+			<string>../../../ToolsLanguages/Reference/UIASearchBarClassReference/UIASearchBar/UIASearchBar.html#//apple_ref/doc/uid/TP40009913-CH1-DontLinkElementID_2</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIASearchBar Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009914-CH1-DontLinkElementID_2</string>
+			<key>href</key>
+			<string>../../../ToolsLanguages/Reference/UIASecureTextFieldClassReference/UIASecureTextField/UIASecureTextField.html#//apple_ref/doc/uid/TP40009914-CH1-DontLinkElementID_2</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIASecureTextField Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009915-CH1-SW1</string>
+			<key>href</key>
+			<string>../../../ToolsLanguages/Reference/UIASegmentedControlClassReference/UIASegmentedControl/UIASegmentedControl.html#//apple_ref/doc/uid/TP40009915-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIASegmentedControl Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009916-CH1-DontLinkElementID_4</string>
+			<key>href</key>
+			<string>../../../ToolsLanguages/Reference/UIASliderClassReference/UIASlider/UIASlider.html#//apple_ref/doc/uid/TP40009916-CH1-DontLinkElementID_4</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIASlider Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009917-CH1-DontLinkElementID_2</string>
+			<key>href</key>
+			<string>../../../ToolsLanguages/Reference/UIAStaticTextClassReference/UIAStaticText/UIAStaticText.html#//apple_ref/doc/uid/TP40009917-CH1-DontLinkElementID_2</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIAStaticText Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009918-CH1-DontLinkElementID_2</string>
+			<key>href</key>
+			<string>../../../ToolsLanguages/Reference/UIAStatusBarClassReference/UIAStatusBar/UIAStatusBar.html#//apple_ref/doc/uid/TP40009918-CH1-DontLinkElementID_2</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIAStatusBar Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009919-CH1-DontLinkElementID_4</string>
+			<key>href</key>
+			<string>../../../ToolsLanguages/Reference/UIASwitchClassReference/UIASwitch/UIASwitch.html#//apple_ref/doc/uid/TP40009919-CH1-DontLinkElementID_4</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIASwitch Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009920-CH1-SW1</string>
+			<key>href</key>
+			<string>../../../ToolsLanguages/Reference/UIATabBarClassReference/Introduction/Introduction.html#//apple_ref/doc/uid/TP40009920-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIATabBar Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009921-CH1-SW1</string>
+			<key>href</key>
+			<string>../../../ToolsLanguages/Reference/UIATableCellClassReference/UIATableCellClassReference/UIATableCellClassReference.html#//apple_ref/doc/uid/TP40009921-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIATableCell Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009922-CH1-DontLinkElementID_2</string>
+			<key>href</key>
+			<string>../../../ToolsLanguages/Reference/UIATableGroupClassReference/UIATableGroup/UIATableGroup.html#//apple_ref/doc/uid/TP40009922-CH1-DontLinkElementID_2</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIATableGroup Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009923-CH1-SW1</string>
+			<key>href</key>
+			<string>../../../ToolsLanguages/Reference/UIATableViewClassReference/UIATableView/UIATableView.html#//apple_ref/doc/uid/TP40009923-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIATableView Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009924-CH3-SW1</string>
+			<key>href</key>
+			<string>../../../ToolsLanguages/Reference/UIATargetClassReference/UIATargetClass/UIATargetClass.html#//apple_ref/doc/uid/TP40009924-CH3-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIATarget Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009925-CH1-SW1</string>
+			<key>href</key>
+			<string>../../../ToolsLanguages/Reference/UIATextFieldClassReference/UIATextField/UIATextField.html#//apple_ref/doc/uid/TP40009925-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIATextField Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009927-CH1-SW1</string>
+			<key>href</key>
+			<string>../../../ToolsLanguages/Reference/UIAToolbarClassReference/UIAToolbar/UIAToolbar.html#//apple_ref/doc/uid/TP40009927-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIAToolbar Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009929-CH1-DontLinkElementID_2</string>
+			<key>href</key>
+			<string>../../../ToolsLanguages/Reference/UIAWebViewClassReference/UIAWebView/UIAWebView.html#//apple_ref/doc/uid/TP40009929-CH1-DontLinkElementID_2</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIAWebView Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009930-CH1-SW1</string>
+			<key>href</key>
+			<string>../../../ToolsLanguages/Reference/UIAWindowClassReference/UIAWindow/UIAWindow.html#//apple_ref/doc/uid/TP40009930-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIAWindow Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009771-CH2-SW1</string>
+			<key>href</key>
+			<string>RevisionHistory/RevisionHistory.html#//apple_ref/doc/uid/TP40009771-CH2-SW1</string>
+			<key>isPart</key>
+			<false/>
+			<key>title</key>
+			<string>Revision History</string>
+		</dict>
+	</array>
+	<key>shouldDisplayTOC</key>
+	<false/>
+	<key>technology</key>
+	<string>Tools</string>
+	<key>title</key>
+	<string>UI Automation Reference Collection</string>
+	<key>type</key>
+	<string>Collection</string>
+	<key>uid</key>
+	<string>TP40009771</string>
+</dict>
+</plist>

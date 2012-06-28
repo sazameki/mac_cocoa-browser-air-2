@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Address Book C</key>
+	<string>/Applications/Address Book.app</string>
+	<key>Address Book Objective-C</key>
+	<string>/Applications/Address Book.app</string>
+	<key>Automator</key>
+	<string>/Applications/Automator.app</string>
+	<key>Bluetooth</key>
+	<string>/System/Library/PreferencePanes/Bluetooth.prefPane</string>
+	<key>Bluetooth User Interface</key>
+	<string>/System/Library/PreferencePanes/Bluetooth.prefPane</string>
+	<key>Calendar Store</key>
+	<string>/Applications/iCal.app</string>
+	<key>Event Kit</key>
+	<string>/Applications/iCal.app</string>
+	<key>Event Kit UI</key>
+	<string>/Applications/iCal.app</string>
+	<key>External Accessory</key>
+	<string>/Developer/Applications/Utilities/USB Prober.app</string>
+	<key>Collaboration</key>
+	<string>/System/Library/PreferencePanes/Accounts.prefPane</string>
+	<key>Core Text</key>
+	<string>/Applications/TextEdit.app</string>
+	<key>DVD Playback</key>
+	<string>/Applications/DVD Player.app</string>
+	<key>Exception Handling</key>
+	<string>/System/Library/CoreServices/Problem Reporter.app</string>
+	<key>Instant Message</key>
+	<string>/Applications/iChat.app</string>
+	<key>Message</key>
+	<string>/Applications/Mail.app</string>
+	<key>Message UI</key>
+	<string>/Applications/Mail.app</string>
+	<key>Identity Services</key>
+	<string>/Applications/Utilities/Keychain Access.app</string>
+	<key>PDF Kit</key>
+	<string>/Applications/Preview.app</string>
+	<key>Preference Panes</key>
+	<string>/Applications/System Preferences.app</string>
+	<key>Quartz Composer</key>
+	<string>/Developer/Applications/Quartz Composer.app</string>
+	<key>Quick Look</key>
+	<string>/System/Library/PreferencePanes/Spotlight.prefPane</string>
+	<key>Screen Saver</key>
+	<string>/System/Library/PreferencePanes/DesktopScreenEffectsPref.prefPane</string>
+	<key>Scripting Bridge</key>
+	<string>/Applications/Automator.app</string>
+	<key>Security</key>
+	<string>/System/Library/PreferencePanes/Security.prefPane</string>
+	<key>Security Foundation</key>
+	<string>/System/Library/PreferencePanes/Security.prefPane</string>
+	<key>Security Interface</key>
+	<string>/System/Library/PreferencePanes/Security.prefPane</string>
+	<key>Spotlight</key>
+	<string>/System/Library/PreferencePanes/Spotlight.prefPane</string>
+	<key>Store Kit</key>
+	<string>/Applications/App Store.app</string>
+	<key>Sync Services</key>
+	<string>/System/Library/CoreServices/File Sync.app</string>
+	<key>System Configuration</key>
+	<string>/Applications/System Preferences.app</string>
+	<key>UI Automation</key>
+	<string>/Applications/Automator.app</string>
+	<key>Web Kit Objective-C</key>
+	<string>/Applications/Safari.app</string>
+	<key>Web Kit</key>
+	<string>/Applications/Safari.app</string>
+	<key>Web Services Core</key>
+	<string>/Applications/Safari.app</string>
+	<key>WebKit Objective-C</key>
+	<string>/Applications/Safari.app</string>
+	<key>WebKit</key>
+	<string>/Applications/Safari.app</string>
+</dict>
+</plist>

@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PDF</key>
+	<dict>
+		<key>href</key>
+		<string>StoreKit_Collection.pdf</string>
+	</dict>
+	<key>assignments</key>
+	<array>
+		<string>Type/Reference</string>
+		<string>Framework/Core Services Layer/StoreKit</string>
+		<string>Topic/Networking &amp; Internet</string>
+	</array>
+	<key>needsAdditionalLinksSeparator</key>
+	<false/>
+	<key>relatedBooks</key>
+	<array/>
+	<key>sections</key>
+	<array>
+		<dict>
+			<key>aref</key>
+			<string></string>
+			<key>href</key>
+			<string>&lt;@@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Introduction</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008273-CH1-SW1</string>
+			<key>href</key>
+			<string>&lt;@//apple_ref/doc/uid/TP40008273-CH1-SW1@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>SKMutablePayment Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008255-CH1-SW1</string>
+			<key>href</key>
+			<string>../SKPaymentRequest_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40008255-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>SKPayment Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008257-CH1-SW1</string>
+			<key>href</key>
+			<string>../SKPaymentQueue_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40008257-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>SKPaymentQueue Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008256-CH1-SW1</string>
+			<key>href</key>
+			<string>../SKPaymentTransaction_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40008256-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>SKPaymentTransaction Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008414-CH1-SW1</string>
+			<key>href</key>
+			<string>../SKProduct_Reference/Reference/Reference.html#//apple_ref/doc/uid/TP40008414-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>SKProduct Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008417-CH1-SW1</string>
+			<key>href</key>
+			<string>../SKProductsRequest/Reference/Reference.html#//apple_ref/doc/uid/TP40008417-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>SKProductsRequest Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008425-CH1-SW1</string>
+			<key>href</key>
+			<string>../SKProductsResponse/Reference/Reference.html#//apple_ref/doc/uid/TP40008425-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>SKProductsResponse Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008415-CH1-SW1</string>
+			<key>href</key>
+			<string>../SKRequest/Reference/Reference.html#//apple_ref/doc/uid/TP40008415-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>SKRequest Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008262-CH1-SW1</string>
+			<key>href</key>
+			<string>../SKPaymentTransactionObserver_Protocol/Reference/Reference.html#//apple_ref/doc/uid/TP40008262-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>SKPaymentTransactionObserver Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008418-CH1-SW1</string>
+			<key>href</key>
+			<string>../SKProductsRequestDelegate/Reference/Reference.html#//apple_ref/doc/uid/TP40008418-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>SKProductsRequestDelegate Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008416-CH1-SW1</string>
+			<key>href</key>
+			<string>../SKRequestDelegate/Reference/Reference.html#//apple_ref/doc/uid/TP40008416-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>SKRequestDelegate Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008588-DontLinkChapterID_1-DontLinkElementID_5</string>
+			<key>href</key>
+			<string>../StoreKitTypes/Reference/reference.html#//apple_ref/doc/uid/TP40008588-DontLinkChapterID_1-DontLinkElementID_5</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Store Kit Constants Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008300-CH99-DontLinkElementID_2</string>
+			<key>href</key>
+			<string>RevisionHistory.html#//apple_ref/doc/uid/TP40008300-CH99-DontLinkElementID_2</string>
+			<key>isPart</key>
+			<false/>
+			<key>title</key>
+			<string>Revision History</string>
+		</dict>
+	</array>
+	<key>shouldDisplayTOC</key>
+	<false/>
+	<key>technology</key>
+	<string></string>
+	<key>title</key>
+	<string>Store Kit Framework Reference</string>
+	<key>type</key>
+	<string>Collection</string>
+	<key>uid</key>
+	<string>TP40008300</string>
+</dict>
+</plist>

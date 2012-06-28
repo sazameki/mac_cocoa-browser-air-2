@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PDF</key>
+	<dict>
+		<key>href</key>
+		<string>QTKitObjC.pdf</string>
+	</dict>
+	<key>assignments</key>
+	<array>
+		<string>Type/Reference</string>
+		<string>Framework/Media Layer/QTKit</string>
+		<string>Topic/Audio &amp; Video</string>
+	</array>
+	<key>needsAdditionalLinksSeparator</key>
+	<false/>
+	<key>relatedBooks</key>
+	<array/>
+	<key>sections</key>
+	<array>
+		<dict>
+			<key>aref</key>
+			<string></string>
+			<key>href</key>
+			<string>&lt;@@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Introduction</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20002411-DontLinkElementID_8</string>
+			<key>href</key>
+			<string>&lt;@//apple_ref/doc/uid/20002411-DontLinkElementID_8@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSCoder QTKit Additions Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20002412-DontLinkElementID_8</string>
+			<key>href</key>
+			<string>../QTKitFramework/Classes/NSValue_QTKitAdditions/Reference/Reference.html#//apple_ref/doc/uid/20002412-DontLinkElementID_8</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSValue QTKit Additions Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004563-CH3-DontLinkElementID_9</string>
+			<key>href</key>
+			<string>../QTCaptureAudioPreviewOutput_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40004563-CH3-DontLinkElementID_9</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>QTCaptureAudioPreviewOutput Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40005271-CH1-DontLinkElementID_22</string>
+			<key>href</key>
+			<string>../QTCaptureConnection_Ref/Introduction/Introduction.html#//apple_ref/doc/uid/TP40005271-CH1-DontLinkElementID_22</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>QTCaptureConnection Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008276-CH1-DontLinkElementID_9</string>
+			<key>href</key>
+			<string>../QTCaptureDecompressedAudioOutput_Ref/Introduction/Introduction.html#//apple_ref/doc/uid/TP40008276-CH1-DontLinkElementID_9</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>QTCaptureDecompressedAudioOutput Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40005268-CH1-SW4</string>
+			<key>href</key>
+			<string>../QTCaptureDecompressedVideoOutput_Ref/Introduction/Introduction.html#//apple_ref/doc/uid/TP40005268-CH1-SW4</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>QTCaptureDecompressedVideoOutput Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004565-CH3-DontLinkElementID_33</string>
+			<key>href</key>
+			<string>../QTCaptureDevice_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40004565-CH3-DontLinkElementID_33</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>QTCaptureDevice Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004566-CH3-DontLinkElementID_9</string>
+			<key>href</key>
+			<string>../QTCaptureDeviceInput_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40004566-CH3-DontLinkElementID_9</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>QTCaptureDeviceInput Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40005272-CH1-SW4</string>
+			<key>href</key>
+			<string>../QTCaptureFileOutput_Ref/Introduction/Introduction.html#//apple_ref/doc/uid/TP40005272-CH1-SW4</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>QTCaptureFileOutput Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004567-CH3-DontLinkElementID_6</string>
+			<key>href</key>
+			<string>../QTCaptureInput_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40004567-CH3-DontLinkElementID_6</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>QTCaptureInput Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006415-CH1-DontLinkElementID_10</string>
+			<key>href</key>
+			<string>../QTCaptureLayer/Introduction/Introduction.html#//apple_ref/doc/uid/TP40006415-CH1-DontLinkElementID_10</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>QTCaptureLayer Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40005270-CH1-DontLinkElementID_2</string>
+			<key>href</key>
+			<string>../QTCaptureMovieFileOutput_Ref/Introduction/Introduction.html#//apple_ref/doc/uid/TP40005270-CH1-DontLinkElementID_2</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>QTCaptureMovieFileOutput Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004569-CH3-DontLinkElementID_6</string>
+			<key>href</key>
+			<string>../QTCaptureOutput_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40004569-CH3-DontLinkElementID_6</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>QTCaptureOutput Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004571-CH3-DontLinkElementID_17</string>
+			<key>href</key>
+			<string>../QTCaptureSession_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40004571-CH3-DontLinkElementID_17</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>QTCaptureSession Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004570-CH3-DontLinkElementID_14</string>
+			<key>href</key>
+			<string>../QTCaptureVideoPreviewOutput_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40004570-CH3-DontLinkElementID_14</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>QTCaptureVideoPreviewOutput Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004572-CH3-DontLinkElementID_22</string>
+			<key>href</key>
+			<string>../QTCaptureView_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40004572-CH3-DontLinkElementID_22</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>QTCaptureView Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40005273-CH1-DontLinkElementID_13</string>
+			<key>href</key>
+			<string>../QTCompressionOptions_Ref/Introduction/Introduction.html#//apple_ref/doc/uid/TP40005273-CH1-DontLinkElementID_13</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>QTCompressionOptions Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20002395-BAJBIHJJ</string>
+			<key>href</key>
+			<string>../QTKitFramework/Classes/QTDataReference_Class/Reference/Reference.html#//apple_ref/doc/uid/20002395-BAJBIHJJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>QTDataReference Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40005269-CH1-DontLinkElementID_13</string>
+			<key>href</key>
+			<string>../QTFormatDescription_Ref/Introduction/Introduction.html#//apple_ref/doc/uid/TP40005269-CH1-DontLinkElementID_13</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>QTFormatDescription Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20002393-CJBGFHBB</string>
+			<key>href</key>
+			<string>../QTKitFramework/Classes/QTMedia_Class/Reference/Reference.html#//apple_ref/doc/uid/20002393-CJBGFHBB</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>QTMedia Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20002391-BBCIBEJG</string>
+			<key>href</key>
+			<string>../QTKitFramework/Classes/QTMovie_Class/Reference/Reference.html#//apple_ref/doc/uid/20002391-BBCIBEJG</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>QTMovie Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006416-CH1-DontLinkElementID_9</string>
+			<key>href</key>
+			<string>../QTMovieLayer/Introduction/Introduction.html#//apple_ref/doc/uid/TP40006416-CH1-DontLinkElementID_9</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>QTMovieLayer Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20002392-BCIFGDJH</string>
+			<key>href</key>
+			<string>../QTKitFramework/Classes/QTMovieView_Class/Reference/Reference.html#//apple_ref/doc/uid/20002392-BCIFGDJH</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>QTMovieView Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40005267-CH1-DontLinkElementID_20</string>
+			<key>href</key>
+			<string>../QTSampleBuffer_Ref/Introduction/Introduction.html#//apple_ref/doc/uid/TP40005267-CH1-DontLinkElementID_20</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>QTSampleBuffer Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20002394-BAJEGEBG</string>
+			<key>href</key>
+			<string>../QTKitFramework/Classes/QTTrack_Class/Reference/Reference.html#//apple_ref/doc/uid/20002394-BAJEGEBG</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>QTTrack Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40003802-DontLinkChapterID_1-DontLinkElementID_2</string>
+			<key>href</key>
+			<string>../QTKitFramework/Miscellaneous/QTKit_Functions/Reference/reference.html#//apple_ref/doc/uid/TP40003802-DontLinkChapterID_1-DontLinkElementID_2</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>QTKit Functions Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40003803-DontLinkChapterID_1-DontLinkElementID_4</string>
+			<key>href</key>
+			<string>../QTKitFramework/Miscellaneous/QTKit_DataTypes/Reference/reference.html#//apple_ref/doc/uid/TP40003803-DontLinkChapterID_1-DontLinkElementID_4</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>QTKit Data Types Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40005274-DontLinkChapterID_1-DontLinkElementID_1</string>
+			<key>href</key>
+			<string>../QTKitCaptureConstants_Ref/Reference/reference.html#//apple_ref/doc/uid/TP40005274-DontLinkChapterID_1-DontLinkElementID_1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>QTKit Constants Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40001164-RH1-DontLinkElementID_2</string>
+			<key>href</key>
+			<string>History/History.html#//apple_ref/doc/uid/TP40001164-RH1-DontLinkElementID_2</string>
+			<key>isPart</key>
+			<false/>
+			<key>title</key>
+			<string>Revision History</string>
+		</dict>
+	</array>
+	<key>shouldDisplayTOC</key>
+	<false/>
+	<key>technology</key>
+	<string>QuickTime</string>
+	<key>title</key>
+	<string>QTKit Framework Reference</string>
+	<key>type</key>
+	<string>Collection</string>
+	<key>uid</key>
+	<string>TP40001164</string>
+</dict>
+</plist>

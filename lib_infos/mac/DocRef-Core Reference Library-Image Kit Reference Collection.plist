@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PDF</key>
+	<dict>
+		<key>href</key>
+		<string>ImageKitReferenceCollection.pdf</string>
+	</dict>
+	<key>assignments</key>
+	<array>
+		<string>Type/Reference</string>
+		<string>Framework/Media Layer/Quartz</string>
+		<string>Topic/Graphics &amp; Animation/2D Drawing</string>
+	</array>
+	<key>needsAdditionalLinksSeparator</key>
+	<false/>
+	<key>relatedBooks</key>
+	<array>
+		<dict>
+			<key>sections</key>
+			<array>
+				<dict>
+					<key>aref</key>
+					<string>//apple_ref/doc/uid/TP40004907</string>
+					<key>href</key>
+					<string>../../Conceptual/ImageKitProgrammingGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40004907</string>
+					<key>title</key>
+					<string>Image Kit Programming Guide</string>
+				</dict>
+			</array>
+			<key>title</key>
+			<string>COMPANION GUIDE</string>
+		</dict>
+	</array>
+	<key>sections</key>
+	<array>
+		<dict>
+			<key>aref</key>
+			<string></string>
+			<key>href</key>
+			<string>&lt;@@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Introduction</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004667-CH3-BCIHFHHB</string>
+			<key>href</key>
+			<string>&lt;@//apple_ref/doc/uid/TP40004667-CH3-BCIHFHHB@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CIFilter Image Kit Additions</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009606-CH2-SW15</string>
+			<key>href</key>
+			<string>../../../Quartz/Reference/IKCameraDeviceView_Class/Reference.html#//apple_ref/doc/uid/TP40009606-CH2-SW15</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>IKCameraDeviceView Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009605-CH2-SW6</string>
+			<key>href</key>
+			<string>../../../Quartz/Reference/IKDeviceBrowserView_Class/Reference.html#//apple_ref/doc/uid/TP40009605-CH2-SW6</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>IKDeviceBrowserView Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004665-CH3-BCIHFHHB</string>
+			<key>href</key>
+			<string>../IKFilterBrowserPanel_Class/IKFilterBrowserPanel_Reference.html#//apple_ref/doc/uid/TP40004665-CH3-BCIHFHHB</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>IKFilterBrowserPanel Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004666-CH3-BCIHFHHB</string>
+			<key>href</key>
+			<string>../IKFilterBrowserView_Class/IKFilterBrowserView_Reference.html#//apple_ref/doc/uid/TP40004666-CH3-BCIHFHHB</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>IKFilterBrowserView Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004668-CH3-BCIHFHHB</string>
+			<key>href</key>
+			<string>../IKFilterUIView_Class/IKFIlterUIView_Ref.html#//apple_ref/doc/uid/TP40004668-CH3-BCIHFHHB</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>IKFilterUIView Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009533-CH4-SW1</string>
+			<key>href</key>
+			<string>../../../Quartz/Reference/IKImageBrowserCell_Class/IKImageBrowserCell.html#//apple_ref/doc/uid/TP40009533-CH4-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>IKImageBrowserCell Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004708-CH3-BCIHFHHB</string>
+			<key>href</key>
+			<string>../IKImageBrowserView/IKImageBrowserView_Reference.html#//apple_ref/doc/uid/TP40004708-CH3-BCIHFHHB</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>IKImageBrowserView Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004702-CH3-BCIHFHHB</string>
+			<key>href</key>
+			<string>../IKImageEditPanel/IKImageEditPanel_Reference.html#//apple_ref/doc/uid/TP40004702-CH3-BCIHFHHB</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>IKImageEditPanel Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004704-CH3-BCIHFHHB</string>
+			<key>href</key>
+			<string>../IKImageView/IKImageView_Reference.html#//apple_ref/doc/uid/TP40004704-CH3-BCIHFHHB</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>IKImageView Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004670-CH3-BCIHFHHB</string>
+			<key>href</key>
+			<string>../IKImagePicker_Class/IKImagePicker_Reference.html#//apple_ref/doc/uid/TP40004670-CH3-BCIHFHHB</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>IKPictureTaker Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004705-CH3-BCIHFHHB</string>
+			<key>href</key>
+			<string>../IKSaveOptions/IKSaveOptions_Reference.html#//apple_ref/doc/uid/TP40004705-CH3-BCIHFHHB</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>IKSaveOptions Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009607-CH2-SW1</string>
+			<key>href</key>
+			<string>../../../Quartz/Reference/IKScannerDeviceView_Class/Reference.html#//apple_ref/doc/uid/TP40009607-CH2-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>IKScannerDeviceView Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004706-CH3-BCIHFHHB</string>
+			<key>href</key>
+			<string>../IKSlideShow/IKSlideshow_Reference.html#//apple_ref/doc/uid/TP40004706-CH3-BCIHFHHB</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>IKSlideshow Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009610-CH2-SW1</string>
+			<key>href</key>
+			<string>../../../Quartz/Reference/IKCameraDeviceViewDelegate_Protocol/Reference.html#//apple_ref/doc/uid/TP40009610-CH2-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>IKCameraDeviceViewDelegate Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009609-CH2-SW1</string>
+			<key>href</key>
+			<string>../../../Quartz/Reference/IKDeviceBrowserViewDelegate_Protocol/Reference.html#//apple_ref/doc/uid/TP40009609-CH2-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>IKDeviceBrowserViewDelegate Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004841-CH3-BCIHFHHB</string>
+			<key>href</key>
+			<string>../IKFilterCustomUIProvider_Protocol/IKFilterCustomUIProvider_Reference.html#//apple_ref/doc/uid/TP40004841-CH3-BCIHFHHB</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>IKFilterCustomUIProvider Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004669-CH3-BCIHFHHB</string>
+			<key>href</key>
+			<string>../IKImageBrowserDataSource_Protocol/IKImageBrowserDataSource_Reference.html#//apple_ref/doc/uid/TP40004669-CH3-BCIHFHHB</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>IKImageBrowserDataSource Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004710-CH3-BCIHFHHB</string>
+			<key>href</key>
+			<string>../IKImageBrowserDelegate_Protocol/IKImageBrowserDelegate_Reference.html#//apple_ref/doc/uid/TP40004710-CH3-BCIHFHHB</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>IKImageBrowserDelegate Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004709-CH3-BCIHFHHB</string>
+			<key>href</key>
+			<string>../IKImageBrowserItem_Protocol/IKImageBrowserItem_Reference.html#//apple_ref/doc/uid/TP40004709-CH3-BCIHFHHB</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>IKImageBrowserItem Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004703-CH3-BCIHFHHB</string>
+			<key>href</key>
+			<string>../IKImageEditPanelDataSource/IKImageEditPanelDataSource_Ref.html#//apple_ref/doc/uid/TP40004703-CH3-BCIHFHHB</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>IKImageEditPanelDataSource Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009608-CH2-SW1</string>
+			<key>href</key>
+			<string>../../../Quartz/Reference/IKScannerDeviceViewDelegate_Protocol/Reference.html#//apple_ref/doc/uid/TP40009608-CH2-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>IKScannerDeviceViewDelegate Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004707-CH3-BCIHFHHB</string>
+			<key>href</key>
+			<string>../IKSlideShowDataSource/IKSlideshowDataSource_ref.html#//apple_ref/doc/uid/TP40004707-CH3-BCIHFHHB</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>IKSlideshowDataSource Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004664-RH1-DontLinkElementID_1</string>
+			<key>href</key>
+			<string>History/History.html#//apple_ref/doc/uid/TP40004664-RH1-DontLinkElementID_1</string>
+			<key>isPart</key>
+			<false/>
+			<key>title</key>
+			<string>Revision History</string>
+		</dict>
+	</array>
+	<key>shouldDisplayTOC</key>
+	<false/>
+	<key>technology</key>
+	<string>Graphics &amp; Imaging</string>
+	<key>title</key>
+	<string>Image Kit Reference Collection</string>
+	<key>type</key>
+	<string>Collection</string>
+	<key>uid</key>
+	<string>TP40004664</string>
+</dict>
+</plist>

@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PDF</key>
+	<dict>
+		<key>href</key>
+		<string>QuartzComposerRef.pdf</string>
+	</dict>
+	<key>assignments</key>
+	<array>
+		<string>Type/Reference</string>
+		<string>Framework/Media Layer/Quartz</string>
+		<string>Topic/Graphics &amp; Animation</string>
+	</array>
+	<key>needsAdditionalLinksSeparator</key>
+	<false/>
+	<key>relatedBooks</key>
+	<array>
+		<dict>
+			<key>sections</key>
+			<array>
+				<dict>
+					<key>aref</key>
+					<string>//apple_ref/doc/uid/TP40001357</string>
+					<key>href</key>
+					<string>../../Conceptual/QuartzComposer/qc_intro/qc_intro.html#//apple_ref/doc/uid/TP40001357</string>
+					<key>title</key>
+					<string>Quartz Composer Programming Guide</string>
+				</dict>
+				<dict>
+					<key>aref</key>
+					<string>//apple_ref/doc/uid/TP40004787</string>
+					<key>href</key>
+					<string>../../Conceptual/QuartzComposer_Patch_PlugIn_ProgGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40004787</string>
+					<key>title</key>
+					<string>Quartz Composer Custom Patch Programming Guide</string>
+				</dict>
+			</array>
+			<key>title</key>
+			<string>COMPANION GUIDES</string>
+		</dict>
+	</array>
+	<key>sections</key>
+	<array>
+		<dict>
+			<key>aref</key>
+			<string></string>
+			<key>href</key>
+			<string>&lt;@@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Introduction</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004788-CH1-DontLinkElementID_16</string>
+			<key>href</key>
+			<string>&lt;@//apple_ref/doc/uid/TP40004788-CH1-DontLinkElementID_16@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>QCComposition Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004624-CH1-DontLinkElementID_8</string>
+			<key>href</key>
+			<string>../QCCompositionLayer_class/Introduction/Introduction.html#//apple_ref/doc/uid/TP40004624-CH1-DontLinkElementID_8</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>QCCompositionLayer Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004790-CH1-DontLinkElementID_16</string>
+			<key>href</key>
+			<string>../../../Cocoa/Reference/QCCompositionParameterView_Class/Introduction/Introduction.html#//apple_ref/doc/uid/TP40004790-CH1-DontLinkElementID_16</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>QCCompositionParameterView Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004791-CH1-DontLinkElementID_11</string>
+			<key>href</key>
+			<string>../../../Cocoa/Reference/QCCompositionPickerPanel_Class/Introduction/Introduction.html#//apple_ref/doc/uid/TP40004791-CH1-DontLinkElementID_11</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>QCCompositionPickerPanel Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004792-CH1-DontLinkElementID_16</string>
+			<key>href</key>
+			<string>../../../Cocoa/Reference/QCCompositionPickerView_Class/Introduction/Introduction.html#//apple_ref/doc/uid/TP40004792-CH1-DontLinkElementID_16</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>QCCompositionPickerView Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004793-CH1-DontLinkElementID_9</string>
+			<key>href</key>
+			<string>../../../Cocoa/Reference/QCCompositionRepository_Class/Introduction/Introduction.html#//apple_ref/doc/uid/TP40004793-CH1-DontLinkElementID_9</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>QCCompositionRepository Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004794-CH1-SW36</string>
+			<key>href</key>
+			<string>../../../Cocoa/Reference/QCPlugIn_Class/Introduction/Introduction.html#//apple_ref/doc/uid/TP40004794-CH1-SW36</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>QCPlugIn Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004795-CH1-DontLinkElementID_8</string>
+			<key>href</key>
+			<string>../../../Cocoa/Reference/QCPlugInViewController_Class/Introduction/Introduction.html#//apple_ref/doc/uid/TP40004795-CH1-DontLinkElementID_8</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>QCPlugInViewController Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40003971-CH3g-BCIHFHHB</string>
+			<key>href</key>
+			<string>../QuartzFramework/Classes/QCRenderer_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40003971-CH3g-BCIHFHHB</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>QCRenderer Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40003972-CH4g-BCIHFHHB</string>
+			<key>href</key>
+			<string>../QuartzFramework/Classes/QCView_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40003972-CH4g-BCIHFHHB</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>QCView Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40005051-CH1-DontLinkElementID_6</string>
+			<key>href</key>
+			<string>../../../Cocoa/Reference/QCCompositionParameterViewDelegateProtocolRef/Introduction/Introduction.html#//apple_ref/doc/uid/TP40005051-CH1-DontLinkElementID_6</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>QCCompositionParameterViewDelegate Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004802-CH1-DontLinkElementID_9</string>
+			<key>href</key>
+			<string>../../../Cocoa/Reference/QCCompositionPickerViewDelegate_Protocol/Introduction/Introduction.html#//apple_ref/doc/uid/TP40004802-CH1-DontLinkElementID_9</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>QCCompositionPickerViewDelegate Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004786-CH3g-BCIHFHHB</string>
+			<key>href</key>
+			<string>../../../Cocoa/Reference/QCRenderer_Protocol/Reference/Reference.html#//apple_ref/doc/uid/TP40004786-CH3g-BCIHFHHB</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>QCCompositionRenderer Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004798-CH3g-BCIHFHHB</string>
+			<key>href</key>
+			<string>../../../Cocoa/Reference/QCPlugInContext_Protocol/Reference/Reference.html#//apple_ref/doc/uid/TP40004798-CH3g-BCIHFHHB</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>QCPlugInContext Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004799-CH3g-BCIHFHHB</string>
+			<key>href</key>
+			<string>../../../Cocoa/Reference/QCPlugInInputImageSource_Protocol/Reference/Reference.html#//apple_ref/doc/uid/TP40004799-CH3g-BCIHFHHB</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>QCPlugInInputImageSource Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004800-CH3g-BCIHFHHB</string>
+			<key>href</key>
+			<string>../../../Cocoa/Reference/QCPlugInOutputImageProvider_Protocol/Reference/Reference.html#//apple_ref/doc/uid/TP40004800-CH3g-BCIHFHHB</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>QCPlugInOutputImageProvider Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40001429-RH1-DontLinkElementID_1</string>
+			<key>href</key>
+			<string>History/History.html#//apple_ref/doc/uid/TP40001429-RH1-DontLinkElementID_1</string>
+			<key>isPart</key>
+			<false/>
+			<key>title</key>
+			<string>Revision History</string>
+		</dict>
+	</array>
+	<key>shouldDisplayTOC</key>
+	<false/>
+	<key>technology</key>
+	<string>Graphics &amp; Imaging</string>
+	<key>title</key>
+	<string>Quartz Composer Reference Collection</string>
+	<key>type</key>
+	<string>Collection</string>
+	<key>uid</key>
+	<string>TP40001429</string>
+</dict>
+</plist>

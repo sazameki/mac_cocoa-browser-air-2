@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PDF</key>
+	<dict>
+		<key>href</key>
+		<string>CACoreMIDIRef.pdf</string>
+	</dict>
+	<key>assignments</key>
+	<array>
+		<string>Type/Reference</string>
+		<string>Framework/Media Layer/CoreMIDI</string>
+		<string>Topic/Audio &amp; Video/Audio</string>
+	</array>
+	<key>needsAdditionalLinksSeparator</key>
+	<false/>
+	<key>relatedBooks</key>
+	<array/>
+	<key>sections</key>
+	<array>
+		<dict>
+			<key>aref</key>
+			<string></string>
+			<key>href</key>
+			<string>&lt;@@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Introduction</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40010386-CH1-SW1</string>
+			<key>href</key>
+			<string>&lt;@//apple_ref/doc/uid/TP40010386-CH1-SW1@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>MIDINetworkConnection Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40010385-CH1-SW1</string>
+			<key>href</key>
+			<string>../../../CoreMidi/Reference/MIDINetworkHost_ClassReference/Reference/Reference.html#//apple_ref/doc/uid/TP40010385-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>MIDINetworkHost Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40010387-CH1-SW2</string>
+			<key>href</key>
+			<string>../../../CoreMidi/Reference/MIDINetworkSession_ClassReference/Reference/Reference.html#//apple_ref/doc/uid/TP40010387-CH1-SW2</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>MIDINetworkSession Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40010316-DontLinkChapterID_1-DontLinkElementID_2</string>
+			<key>href</key>
+			<string>../../../CoreMidi/Reference/MIDIServices_Reference/Reference/reference.html#//apple_ref/doc/uid/TP40010316-DontLinkChapterID_1-DontLinkElementID_2</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>MIDI Services Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40010317-DontLinkChapterID_1-DontLinkElementID_1</string>
+			<key>href</key>
+			<string>../../../CoreMidi/Reference/MIDISetup_Reference/Reference/reference.html#//apple_ref/doc/uid/TP40010317-DontLinkChapterID_1-DontLinkElementID_1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>MIDI Setup Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40010318-DontLinkChapterID_1-DontLinkElementID_1</string>
+			<key>href</key>
+			<string>../../../CoreMidi/Reference/MIDIThruConnection_Reference/Reference/reference.html#//apple_ref/doc/uid/TP40010318-DontLinkChapterID_1-DontLinkElementID_1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>MIDI Thru Connection Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40002091-CH99-SW1</string>
+			<key>href</key>
+			<string>RevisionHistory/RevisionHistory.html#//apple_ref/doc/uid/TP40002091-CH99-SW1</string>
+			<key>isPart</key>
+			<false/>
+			<key>title</key>
+			<string>Revision History</string>
+		</dict>
+	</array>
+	<key>shouldDisplayTOC</key>
+	<false/>
+	<key>technology</key>
+	<string>Audio</string>
+	<key>title</key>
+	<string>Core MIDI Framework Reference</string>
+	<key>type</key>
+	<string>Collection</string>
+	<key>uid</key>
+	<string>TP40002091</string>
+</dict>
+</plist>

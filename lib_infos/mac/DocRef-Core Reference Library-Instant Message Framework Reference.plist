@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PDF</key>
+	<dict>
+		<key>href</key>
+		<string>iChatPresenceFramework.pdf</string>
+	</dict>
+	<key>assignments</key>
+	<array>
+		<string>Type/Reference</string>
+		<string>Framework/Media Layer/InstantMessage</string>
+		<string>Topic/Audio &amp; Video</string>
+	</array>
+	<key>needsAdditionalLinksSeparator</key>
+	<false/>
+	<key>relatedBooks</key>
+	<array/>
+	<key>sections</key>
+	<array>
+		<dict>
+			<key>aref</key>
+			<string></string>
+			<key>href</key>
+			<string>&lt;@@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Introduction</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008777-CH1-DontLinkElementID_10</string>
+			<key>href</key>
+			<string>&lt;@//apple_ref/doc/uid/TP40008777-CH1-DontLinkElementID_10@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>IMAVButton Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008775-CH1-SW17</string>
+			<key>href</key>
+			<string>../../../InstantMessage/Reference/IMAVControl_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40008775-CH1-SW17</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>IMAVControl Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008776-CH1-DontLinkElementID_7</string>
+			<key>href</key>
+			<string>../../../InstantMessage/Reference/IMAVControlBar_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40008776-CH1-DontLinkElementID_7</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>IMAVControlBar Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004722-CH3-DontLinkElementID_17</string>
+			<key>href</key>
+			<string>../../../Cocoa/Reference/IMManager_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40004722-CH3-DontLinkElementID_17</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>IMAVManager Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008778-CH1-DontLinkElementID_7</string>
+			<key>href</key>
+			<string>../../../InstantMessage/Reference/IMAVSlider_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40008778-CH1-DontLinkElementID_7</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>IMAVSlider Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/30001255-BBCHGAJB</string>
+			<key>href</key>
+			<string>../InstantMessageFrameworkRef/Classes/IMService_Class/Reference/Reference.html#//apple_ref/doc/uid/30001255-BBCHGAJB</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>IMService Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004742-CH3-SW5</string>
+			<key>href</key>
+			<string>../../../Cocoa/Reference/IMAVDataSource_Protocol/Reference/Reference.html#//apple_ref/doc/uid/TP40004742-CH3-SW5</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>IMVideoDataSource Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004730-DontLinkChapterID_1-DontLinkElementID_4</string>
+			<key>href</key>
+			<string>../../../Cocoa/Reference/InstantMessage_Functions/Reference/reference.html#//apple_ref/doc/uid/TP40004730-DontLinkChapterID_1-DontLinkElementID_4</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Instant Message Functions Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40001249-RH1-DontLinkElementID_2</string>
+			<key>href</key>
+			<string>History/History.html#//apple_ref/doc/uid/TP40001249-RH1-DontLinkElementID_2</string>
+			<key>isPart</key>
+			<false/>
+			<key>title</key>
+			<string>Revision History</string>
+		</dict>
+	</array>
+	<key>shouldDisplayTOC</key>
+	<false/>
+	<key>technology</key>
+	<string>Cocoa</string>
+	<key>title</key>
+	<string>Instant Message Framework Reference</string>
+	<key>type</key>
+	<string>Collection</string>
+	<key>uid</key>
+	<string>TP40001249</string>
+</dict>
+</plist>

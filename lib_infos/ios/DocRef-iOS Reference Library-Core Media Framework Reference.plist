@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PDF</key>
+	<dict>
+		<key>href</key>
+		<string>CoreMediaFramework.pdf</string>
+	</dict>
+	<key>assignments</key>
+	<array>
+		<string>Type/Reference</string>
+		<string>Framework/Core Services Layer/CoreMedia</string>
+		<string>Topic/Audio &amp; Video</string>
+	</array>
+	<key>needsAdditionalLinksSeparator</key>
+	<false/>
+	<key>relatedBooks</key>
+	<array/>
+	<key>sections</key>
+	<array>
+		<dict>
+			<key>aref</key>
+			<string></string>
+			<key>href</key>
+			<string>&lt;@@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Introduction</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009753-DontLinkChapterID_1-DontLinkElementID_1</string>
+			<key>href</key>
+			<string>&lt;@//apple_ref/doc/uid/TP40009753-DontLinkChapterID_1-DontLinkElementID_1@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CMBlockBuffer Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009752-DontLinkChapterID_1-DontLinkElementID_1</string>
+			<key>href</key>
+			<string>../CMBufferQueue/Reference/reference.html#//apple_ref/doc/uid/TP40009752-DontLinkChapterID_1-DontLinkElementID_1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CMBufferQueue Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009751-DontLinkChapterID_1-DontLinkElementID_2</string>
+			<key>href</key>
+			<string>../CMFormatDescription/Reference/reference.html#//apple_ref/doc/uid/TP40009751-DontLinkChapterID_1-DontLinkElementID_2</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CMFormatDescription Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009750-DontLinkChapterID_1-DontLinkElementID_11</string>
+			<key>href</key>
+			<string>../CMSampleBuffer/Reference/reference.html#//apple_ref/doc/uid/TP40009750-DontLinkChapterID_1-DontLinkElementID_11</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CMSampleBuffer Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009748-DontLinkChapterID_1-DontLinkElementID_3</string>
+			<key>href</key>
+			<string>../CMTime/Reference/reference.html#//apple_ref/doc/uid/TP40009748-DontLinkChapterID_1-DontLinkElementID_3</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CMTime Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009749-DontLinkChapterID_1-DontLinkElementID_2</string>
+			<key>href</key>
+			<string>../CMTimeRange/Reference/reference.html#//apple_ref/doc/uid/TP40009749-DontLinkChapterID_1-DontLinkElementID_2</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CMTimeRange Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009755-DontLinkChapterID_1-DontLinkElementID_4</string>
+			<key>href</key>
+			<string>../CoreMedia_DataTypes/Reference/reference.html#//apple_ref/doc/uid/TP40009755-DontLinkChapterID_1-DontLinkElementID_4</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Core Media Framework Data Types Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009754-DontLinkChapterID_1-DontLinkElementID_1</string>
+			<key>href</key>
+			<string>../CoreMedia_Constants/Reference/reference.html#//apple_ref/doc/uid/TP40009754-DontLinkChapterID_1-DontLinkElementID_1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Core Media Constants Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009757-DontLinkChapterID_1-DontLinkElementID_12</string>
+			<key>href</key>
+			<string>../CMAttachment/Reference/reference.html#//apple_ref/doc/uid/TP40009757-DontLinkChapterID_1-DontLinkElementID_12</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CMAttachment Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009756-CH2-SW1</string>
+			<key>href</key>
+			<string>RevisionHistory.html#//apple_ref/doc/uid/TP40009756-CH2-SW1</string>
+			<key>isPart</key>
+			<false/>
+			<key>title</key>
+			<string>Revision History</string>
+		</dict>
+	</array>
+	<key>shouldDisplayTOC</key>
+	<false/>
+	<key>technology</key>
+	<string></string>
+	<key>title</key>
+	<string>Core Media Framework Reference</string>
+	<key>type</key>
+	<string>Collection</string>
+	<key>uid</key>
+	<string>TP40009756</string>
+</dict>
+</plist>

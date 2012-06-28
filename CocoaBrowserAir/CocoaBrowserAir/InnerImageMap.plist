@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Application Kit</key>
+	<string>framework_appkit</string>
+	<key>UIKit</key>
+	<string>framework_appkit</string>
+	<key>Audio Toolbox</key>
+	<string>framework_coreaudio</string>
+	<key>Audio Unit</key>
+	<string>framework_coreaudio</string>
+	<key>AV Foundation</key>
+	<string>framework_quicktime</string>
+	<key>Core Animation</key>
+	<string>framework_quartz</string>
+	<key>Core Audio</key>
+	<string>framework_coreaudio</string>
+	<key>Core Audio Kit</key>
+	<string>framework_coreaudio</string>
+	<key>Core Data</key>
+	<string>framework_coredata</string>
+	<key>Core Foundation</key>
+	<string>framework_foundation</string>
+	<key>Core Graphics</key>
+	<string>framework_coreimage</string>
+	<key>Core Image</key>
+	<string>framework_coreimage</string>
+	<key>Core Video</key>
+	<string>framework_quicktime</string>
+	<key>Foundation</key>
+	<string>framework_foundation</string>
+	<key>Image I/O</key>
+	<string>framework_coreimage</string>
+	<key>Image Kit</key>
+	<string>framework_coreimage</string>
+	<key>Map Kit</key>
+	<string>framework_map</string>
+	<key>Media Player</key>
+	<string>framework_quicktime</string>
+	<key>QTKit</key>
+	<string>framework_quicktime</string>
+	<key>Quartz</key>
+	<string>framework_quartz</string>
+	<key>Quartz Core</key>
+	<string>framework_quartz</string>
+	<key>Quartz 2D</key>
+	<string>framework_quartz</string>
+	<key>QuickTime</key>
+	<string>framework_quicktime</string>
+	<key>QuickTime Kit</key>
+	<string>framework_quicktime</string>
+	<key>iAd</key>
+	<string>NSDotMac</string>
+	<key>Game Kit</key>
+	<string>framework_game</string>
+	<key>GLKit</key>
+	<string>framework_game</string>
+	<key>OpenGL ES</key>
+	<string>framework_game</string>
+	<key>Twitter</key>
+	<string>framework_twitter</string>
+</dict>
+</plist>

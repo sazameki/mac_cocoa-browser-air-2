@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PDF</key>
+	<dict>
+		<key>href</key>
+		<string>CoreFoundation_Collection.pdf</string>
+	</dict>
+	<key>assignments</key>
+	<array>
+		<string>Type/Reference</string>
+		<string>Framework/Core Services Layer/CoreFoundation</string>
+	</array>
+	<key>needsAdditionalLinksSeparator</key>
+	<false/>
+	<key>relatedBooks</key>
+	<array/>
+	<key>sections</key>
+	<array>
+		<dict>
+			<key>aref</key>
+			<string></string>
+			<key>href</key>
+			<string>&lt;@@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Introduction</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001202-DontLinkChapterID_1-DontLinkElementID_10</string>
+			<key>href</key>
+			<string>&lt;@//apple_ref/doc/uid/20001202-DontLinkChapterID_1-DontLinkElementID_10@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CFAllocator Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001192-DontLinkChapterID_1-DontLinkElementID_2</string>
+			<key>href</key>
+			<string>../CFArrayRef/Reference/reference.html#//apple_ref/doc/uid/20001192-DontLinkChapterID_1-DontLinkElementID_2</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CFArray Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40001430-DontLinkChapterID_1-DontLinkElementID_2</string>
+			<key>href</key>
+			<string>../CFAttributedString/Reference/reference.html#//apple_ref/doc/uid/TP40001430-DontLinkChapterID_1-DontLinkElementID_2</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CFAttributedString Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001193-DontLinkChapterID_1-DontLinkElementID_9</string>
+			<key>href</key>
+			<string>../CFBagRef/Reference/reference.html#//apple_ref/doc/uid/20001193-DontLinkChapterID_1-DontLinkElementID_9</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CFBag Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001434-DontLinkChapterID_1-DontLinkElementID_5</string>
+			<key>href</key>
+			<string>../CFBinaryHeapRef/Reference/reference.html#//apple_ref/doc/uid/20001434-DontLinkChapterID_1-DontLinkElementID_5</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CFBinaryHeap Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001435-DontLinkChapterID_1-DontLinkElementID_6</string>
+			<key>href</key>
+			<string>../CFBitVectorRef/Reference/reference.html#//apple_ref/doc/uid/20001435-DontLinkChapterID_1-DontLinkElementID_6</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CFBitVector Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001208-DontLinkChapterID_1-DontLinkElementID_4</string>
+			<key>href</key>
+			<string>../CFBooleanRef/Reference/reference.html#//apple_ref/doc/uid/20001208-DontLinkChapterID_1-DontLinkElementID_4</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CFBoolean Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001191-DontLinkChapterID_1-DontLinkElementID_10</string>
+			<key>href</key>
+			<string>../CFBundleRef/Reference/reference.html#//apple_ref/doc/uid/20001191-DontLinkChapterID_1-DontLinkElementID_10</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CFBundle Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40001434-DontLinkChapterID_1-DontLinkElementID_28</string>
+			<key>href</key>
+			<string>../CFCalendarRef/Reference/reference.html#//apple_ref/doc/uid/TP40001434-DontLinkChapterID_1-DontLinkElementID_28</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CFCalendar Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001212-DontLinkChapterID_1-DontLinkElementID_13</string>
+			<key>href</key>
+			<string>../CFCharacterSetRef/Reference/reference.html#//apple_ref/doc/uid/20001212-DontLinkChapterID_1-DontLinkElementID_13</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CFCharacterSet Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001194-DontLinkChapterID_1-DontLinkElementID_6</string>
+			<key>href</key>
+			<string>../CFDataRef/Reference/reference.html#//apple_ref/doc/uid/20001194-DontLinkChapterID_1-DontLinkElementID_6</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CFData Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001199-DontLinkChapterID_1-DontLinkElementID_1</string>
+			<key>href</key>
+			<string>../CFDateRef/Reference/reference.html#//apple_ref/doc/uid/20001199-DontLinkChapterID_1-DontLinkElementID_1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CFDate Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20002070-DontLinkChapterID_1-DontLinkElementID_20</string>
+			<key>href</key>
+			<string>../CFDateFormatterRef/Reference/reference.html#//apple_ref/doc/uid/20002070-DontLinkChapterID_1-DontLinkElementID_20</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CFDateFormatter Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001195-DontLinkChapterID_1-DontLinkElementID_9</string>
+			<key>href</key>
+			<string>../CFDictionaryRef/Reference/reference.html#//apple_ref/doc/uid/20001195-DontLinkChapterID_1-DontLinkElementID_9</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CFDictionary Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004341-DontLinkChapterID_1-DontLinkElementID_16</string>
+			<key>href</key>
+			<string>../CFErrorRef/Reference/reference.html#//apple_ref/doc/uid/TP40004341-DontLinkChapterID_1-DontLinkElementID_16</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CFError Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006147-DontLinkChapterID_1-DontLinkElementID_18</string>
+			<key>href</key>
+			<string>../CFFileDescriptorRef/Reference/reference.html#//apple_ref/doc/uid/TP40006147-DontLinkChapterID_1-DontLinkElementID_18</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CFFileDescriptor Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20002069-DontLinkChapterID_1-DontLinkElementID_2</string>
+			<key>href</key>
+			<string>../CFLocaleRef/Reference/reference.html#//apple_ref/doc/uid/20002069-DontLinkChapterID_1-DontLinkElementID_2</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CFLocale Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001436-DontLinkChapterID_1-DontLinkElementID_2</string>
+			<key>href</key>
+			<string>../CFMachPortRef/Reference/reference.html#//apple_ref/doc/uid/20001436-DontLinkChapterID_1-DontLinkElementID_2</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CFMachPort Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001437-DontLinkChapterID_1-DontLinkElementID_10</string>
+			<key>href</key>
+			<string>../CFMessagePortRef/Reference/reference.html#//apple_ref/doc/uid/20001437-DontLinkChapterID_1-DontLinkElementID_10</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CFMessagePort Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001502-DontLinkChapterID_1-DontLinkElementID_1</string>
+			<key>href</key>
+			<string>../CFMutableArrayRef/Reference/reference.html#//apple_ref/doc/uid/20001502-DontLinkChapterID_1-DontLinkElementID_1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CFMutableArray Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40001431-DontLinkChapterID_1-DontLinkElementID_2</string>
+			<key>href</key>
+			<string>../CFMutableAttributedString/Reference/reference.html#//apple_ref/doc/uid/TP40001431-DontLinkChapterID_1-DontLinkElementID_2</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CFMutableAttributedString Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001501-DontLinkChapterID_1-DontLinkElementID_5</string>
+			<key>href</key>
+			<string>../CFMutableBagRef/Reference/reference.html#//apple_ref/doc/uid/20001501-DontLinkChapterID_1-DontLinkElementID_5</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CFMutableBag Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001500-DontLinkChapterID_1-DontLinkElementID_2</string>
+			<key>href</key>
+			<string>../CFMutableBitVectorRef/Reference/reference.html#//apple_ref/doc/uid/20001500-DontLinkChapterID_1-DontLinkElementID_2</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CFMutableBitVector Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001499-DontLinkChapterID_1-DontLinkElementID_7</string>
+			<key>href</key>
+			<string>../CFMutableCharacterSetRef/Reference/reference.html#//apple_ref/doc/uid/20001499-DontLinkChapterID_1-DontLinkElementID_7</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CFMutableCharacterSet Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001498-DontLinkChapterID_1-DontLinkElementID_6</string>
+			<key>href</key>
+			<string>../CFMutableDataRef/Reference/reference.html#//apple_ref/doc/uid/20001498-DontLinkChapterID_1-DontLinkElementID_6</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CFMutableData Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001497-DontLinkChapterID_1-DontLinkElementID_2</string>
+			<key>href</key>
+			<string>../CFMutableDictionaryRef/Reference/reference.html#//apple_ref/doc/uid/20001497-DontLinkChapterID_1-DontLinkElementID_2</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CFMutableDictionary Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001503-DontLinkChapterID_1-DontLinkElementID_1</string>
+			<key>href</key>
+			<string>../CFMutableSetRef/Reference/reference.html#//apple_ref/doc/uid/20001503-DontLinkChapterID_1-DontLinkElementID_1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CFMutableSet Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001504-DontLinkChapterID_1-DontLinkElementID_1</string>
+			<key>href</key>
+			<string>../CFMutableStringRef/Reference/reference.html#//apple_ref/doc/uid/20001504-DontLinkChapterID_1-DontLinkElementID_1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CFMutableString Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001438-DontLinkChapterID_1-DontLinkElementID_8</string>
+			<key>href</key>
+			<string>../CFNotificationCenterRef/Reference/reference.html#//apple_ref/doc/uid/20001438-DontLinkChapterID_1-DontLinkElementID_8</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CFNotificationCenter Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001439-DontLinkChapterID_1-DontLinkElementID_4</string>
+			<key>href</key>
+			<string>../CFNullRef/Reference/reference.html#//apple_ref/doc/uid/20001439-DontLinkChapterID_1-DontLinkElementID_4</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CFNull Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001209-DontLinkChapterID_1-DontLinkElementID_8</string>
+			<key>href</key>
+			<string>../CFNumberRef/Reference/reference.html#//apple_ref/doc/uid/20001209-DontLinkChapterID_1-DontLinkElementID_8</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CFNumber Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20002071-DontLinkChapterID_1-DontLinkElementID_22</string>
+			<key>href</key>
+			<string>../CFNumberFormatterRef/Reference/reference.html#//apple_ref/doc/uid/20002071-DontLinkChapterID_1-DontLinkElementID_22</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CFNumberFormatter Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001205-DontLinkChapterID_1-DontLinkElementID_9</string>
+			<key>href</key>
+			<string>../CFPlugInRef/Reference/reference.html#//apple_ref/doc/uid/20001205-DontLinkChapterID_1-DontLinkElementID_9</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CFPlugIn Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001453-DontLinkChapterID_1-DontLinkElementID_4</string>
+			<key>href</key>
+			<string>../CFPlugInInstanceRef/Reference/reference.html#//apple_ref/doc/uid/20001453-DontLinkChapterID_1-DontLinkElementID_4</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CFPlugInInstance Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001210-DontLinkChapterID_1-DontLinkElementID_8</string>
+			<key>href</key>
+			<string>../CFPropertyListRef/Reference/reference.html#//apple_ref/doc/uid/20001210-DontLinkChapterID_1-DontLinkElementID_8</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CFPropertyList Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001440-DontLinkChapterID_1-DontLinkElementID_11</string>
+			<key>href</key>
+			<string>../CFReadStreamRef/Reference/reference.html#//apple_ref/doc/uid/20001440-DontLinkChapterID_1-DontLinkElementID_11</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CFReadStream Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001441-DontLinkChapterID_1-DontLinkElementID_2</string>
+			<key>href</key>
+			<string>../CFRunLoopRef/Reference/reference.html#//apple_ref/doc/uid/20001441-DontLinkChapterID_1-DontLinkElementID_2</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CFRunLoop Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001442-DontLinkChapterID_1-DontLinkElementID_4</string>
+			<key>href</key>
+			<string>../CFRunLoopObserverRef/Reference/reference.html#//apple_ref/doc/uid/20001442-DontLinkChapterID_1-DontLinkElementID_4</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CFRunLoopObserver Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001443-DontLinkChapterID_1-DontLinkElementID_4</string>
+			<key>href</key>
+			<string>../CFRunLoopSourceRef/Reference/reference.html#//apple_ref/doc/uid/20001443-DontLinkChapterID_1-DontLinkElementID_4</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CFRunLoopSource Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001444-DontLinkChapterID_1-DontLinkElementID_6</string>
+			<key>href</key>
+			<string>../CFRunLoopTimerRef/Reference/reference.html#//apple_ref/doc/uid/20001444-DontLinkChapterID_1-DontLinkElementID_6</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CFRunLoopTimer Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001196-DontLinkChapterID_1-DontLinkElementID_9</string>
+			<key>href</key>
+			<string>../CFSetRef/Reference/reference.html#//apple_ref/doc/uid/20001196-DontLinkChapterID_1-DontLinkElementID_9</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CFSet Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001445-DontLinkChapterID_1-DontLinkElementID_6</string>
+			<key>href</key>
+			<string>../CFSocketRef/Reference/reference.html#//apple_ref/doc/uid/20001445-DontLinkChapterID_1-DontLinkElementID_6</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CFSocket Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001211-DontLinkChapterID_1-DontLinkElementID_2</string>
+			<key>href</key>
+			<string>../CFStringRef/Reference/reference.html#//apple_ref/doc/uid/20001211-DontLinkChapterID_1-DontLinkElementID_2</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CFString Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40005095-DontLinkChapterID_1-DontLinkElementID_2</string>
+			<key>href</key>
+			<string>../CFStringTokenizerRef/Reference/reference.html#//apple_ref/doc/uid/TP40005095-DontLinkChapterID_1-DontLinkElementID_2</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CFStringTokenizer Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001201-DontLinkChapterID_1-DontLinkElementID_13</string>
+			<key>href</key>
+			<string>../CFTimeZoneRef/Reference/reference.html#//apple_ref/doc/uid/20001201-DontLinkChapterID_1-DontLinkElementID_13</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CFTimeZone Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001197-DontLinkChapterID_1-DontLinkElementID_10</string>
+			<key>href</key>
+			<string>../CFTreeRef/Reference/reference.html#//apple_ref/doc/uid/20001197-DontLinkChapterID_1-DontLinkElementID_10</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CFTree Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001203-DontLinkChapterID_1-DontLinkElementID_8</string>
+			<key>href</key>
+			<string>../CFTypeRef/Reference/reference.html#//apple_ref/doc/uid/20001203-DontLinkChapterID_1-DontLinkElementID_8</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CFType Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001206-DontLinkChapterID_1-DontLinkElementID_26</string>
+			<key>href</key>
+			<string>../CFURLRef/Reference/reference.html#//apple_ref/doc/uid/20001206-DontLinkChapterID_1-DontLinkElementID_26</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CFURL Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001207-DontLinkChapterID_1-DontLinkElementID_6</string>
+			<key>href</key>
+			<string>../CFUUIDRef/Reference/reference.html#//apple_ref/doc/uid/20001207-DontLinkChapterID_1-DontLinkElementID_6</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CFUUID Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001447-DontLinkChapterID_1-DontLinkElementID_11</string>
+			<key>href</key>
+			<string>../CFWriteStreamRef/Reference/reference.html#//apple_ref/doc/uid/20001447-DontLinkChapterID_1-DontLinkElementID_11</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CFWriteStream Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001448-DontLinkChapterID_1-DontLinkElementID_1</string>
+			<key>href</key>
+			<string>../CFBaseUtils/Reference/reference.html#//apple_ref/doc/uid/20001448-DontLinkChapterID_1-DontLinkElementID_1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Base Utilities Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001449-DontLinkChapterID_1-DontLinkElementID_25</string>
+			<key>href</key>
+			<string>../CFByteOrderUtils/Reference/reference.html#//apple_ref/doc/uid/20001449-DontLinkChapterID_1-DontLinkElementID_25</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Byte-Order Utilities Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001521-DontLinkChapterID_1-DontLinkElementID_3</string>
+			<key>href</key>
+			<string>../CFURLAccessUtils/Reference/reference.html#//apple_ref/doc/uid/20001521-DontLinkChapterID_1-DontLinkElementID_3</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Core Foundation URL Access Utilities Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001450-DontLinkChapterID_1-DontLinkElementID_9</string>
+			<key>href</key>
+			<string>../CFPreferencesUtils/Reference/reference.html#//apple_ref/doc/uid/20001450-DontLinkChapterID_1-DontLinkElementID_9</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Preferences Utilities Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001451-DontLinkChapterID_1-DontLinkElementID_7</string>
+			<key>href</key>
+			<string>../CFSocketNameServerUtils/Reference/reference.html#//apple_ref/doc/uid/20001451-DontLinkChapterID_1-DontLinkElementID_7</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Socket Name Server Utilities Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001452-DontLinkChapterID_1-DontLinkElementID_4</string>
+			<key>href</key>
+			<string>../CFTimeUtils/Reference/reference.html#//apple_ref/doc/uid/20001452-DontLinkChapterID_1-DontLinkElementID_4</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Time Utilities Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40003362-DontLinkChapterID_1-DontLinkElementID_1</string>
+			<key>href</key>
+			<string>../CFStreamConstants/Reference/reference.html#//apple_ref/doc/uid/TP40003362-DontLinkChapterID_1-DontLinkElementID_1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CFStream Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40003849-CH2-DontLinkElementID_2</string>
+			<key>href</key>
+			<string>RevisionHistory.html#//apple_ref/doc/uid/TP40003849-CH2-DontLinkElementID_2</string>
+			<key>isPart</key>
+			<false/>
+			<key>title</key>
+			<string>Revision History</string>
+		</dict>
+	</array>
+	<key>shouldDisplayTOC</key>
+	<false/>
+	<key>technology</key>
+	<string>Core Foundation</string>
+	<key>title</key>
+	<string>Core Foundation Framework Reference</string>
+	<key>type</key>
+	<string>Collection</string>
+	<key>uid</key>
+	<string>TP40003849</string>
+</dict>
+</plist>

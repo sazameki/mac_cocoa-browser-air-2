@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PDF</key>
+	<dict>
+		<key>href</key>
+		<string>QT_Framework_Ref.pdf</string>
+	</dict>
+	<key>assignments</key>
+	<array>
+		<string>Type/Reference</string>
+		<string>Framework/Media Layer/QuickTime</string>
+	</array>
+	<key>needsAdditionalLinksSeparator</key>
+	<false/>
+	<key>relatedBooks</key>
+	<array/>
+	<key>sections</key>
+	<array>
+		<dict>
+			<key>aref</key>
+			<string></string>
+			<key>href</key>
+			<string>&lt;@@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Introduction</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40003455-DontLinkChapterID_1-DontLinkElementID_3</string>
+			<key>href</key>
+			<string>&lt;@//apple_ref/doc/uid/TP40003455-DontLinkChapterID_1-DontLinkElementID_3@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>QuickTime Constants Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40003446-DontLinkChapterID_1-DontLinkElementID_6</string>
+			<key>href</key>
+			<string>../QTRef_MovieComponents/Reference/reference.html#//apple_ref/doc/uid/TP40003446-DontLinkChapterID_1-DontLinkElementID_6</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Component Creation Reference for QuickTime</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40003437-DontLinkChapterID_1-DontLinkElementID_6</string>
+			<key>href</key>
+			<string>../QTRef_CompDecomp/Reference/reference.html#//apple_ref/doc/uid/TP40003437-DontLinkChapterID_1-DontLinkElementID_6</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Compression and Decompression Reference for QuickTime</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40003447-DontLinkChapterID_1-DontLinkElementID_6</string>
+			<key>href</key>
+			<string>../QTRef_DataComponents/Reference/reference.html#//apple_ref/doc/uid/TP40003447-DontLinkChapterID_1-DontLinkElementID_6</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Data Components Reference for QuickTime</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40003436-DontLinkChapterID_1-DontLinkElementID_6</string>
+			<key>href</key>
+			<string>../QTRef_ImageCodec/Reference/reference.html#//apple_ref/doc/uid/TP40003436-DontLinkChapterID_1-DontLinkElementID_6</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Image Codec Reference for QuickTime</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40003439-DontLinkChapterID_1-DontLinkElementID_6</string>
+			<key>href</key>
+			<string>../QTRef_GraphicsImportExport/Reference/reference.html#//apple_ref/doc/uid/TP40003439-DontLinkChapterID_1-DontLinkElementID_6</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Import and Export Reference for QuickTime</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40003444-DontLinkChapterID_1-DontLinkElementID_6</string>
+			<key>href</key>
+			<string>../QTRef_MovieProperties/Reference/reference.html#//apple_ref/doc/uid/TP40003444-DontLinkChapterID_1-DontLinkElementID_6</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>QuickTime Movie Properties Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40003443-DontLinkChapterID_1-DontLinkElementID_6</string>
+			<key>href</key>
+			<string>../QTRef_TrackAndMedia/Reference/reference.html#//apple_ref/doc/uid/TP40003443-DontLinkChapterID_1-DontLinkElementID_6</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>QuickTime Movie Track and Media Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40003448-DontLinkChapterID_1-DontLinkElementID_6</string>
+			<key>href</key>
+			<string>../QTRef_VideoComponents/Reference/reference.html#//apple_ref/doc/uid/TP40003448-DontLinkChapterID_1-DontLinkElementID_6</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Video Components Reference for QuickTime</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40003453-DontLinkChapterID_1-DontLinkElementID_5</string>
+			<key>href</key>
+			<string>../QTRef_Windows/Reference/reference.html#//apple_ref/doc/uid/TP40003453-DontLinkChapterID_1-DontLinkElementID_5</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Windows API Reference for QuickTime</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004374-CH2-DontLinkElementID_3</string>
+			<key>href</key>
+			<string>RevisionHistory.html#//apple_ref/doc/uid/TP40004374-CH2-DontLinkElementID_3</string>
+			<key>isPart</key>
+			<false/>
+			<key>title</key>
+			<string>Revision History</string>
+		</dict>
+	</array>
+	<key>shouldDisplayTOC</key>
+	<false/>
+	<key>technology</key>
+	<string>QuickTime</string>
+	<key>title</key>
+	<string>QuickTime Framework Reference</string>
+	<key>type</key>
+	<string>Collection</string>
+	<key>uid</key>
+	<string>TP40004374</string>
+</dict>
+</plist>

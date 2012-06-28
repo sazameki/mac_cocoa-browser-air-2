@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PDF</key>
+	<dict>
+		<key>href</key>
+		<string>Quartz2D_Collection.pdf</string>
+	</dict>
+	<key>assignments</key>
+	<array>
+		<string>Type/Reference</string>
+		<string>Framework/Core Services Layer/ApplicationServices</string>
+		<string>Topic/Graphics &amp; Animation/2D Drawing</string>
+	</array>
+	<key>needsAdditionalLinksSeparator</key>
+	<false/>
+	<key>relatedBooks</key>
+	<array>
+		<dict>
+			<key>sections</key>
+			<array>
+				<dict>
+					<key>aref</key>
+					<string>//apple_ref/doc/uid/TP30001066</string>
+					<key>href</key>
+					<string>../../Conceptual/drawingwithquartz2d/Introduction/Introduction.html#//apple_ref/doc/uid/TP30001066</string>
+					<key>title</key>
+					<string>Quartz 2D Programming Guide</string>
+				</dict>
+			</array>
+			<key>title</key>
+			<string>COMPANION GUIDE</string>
+		</dict>
+	</array>
+	<key>sections</key>
+	<array>
+		<dict>
+			<key>aref</key>
+			<string></string>
+			<key>href</key>
+			<string>&lt;@@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Introduction</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP30000947-DontLinkChapterID_1-DontLinkElementID_2</string>
+			<key>href</key>
+			<string>&lt;@//apple_ref/doc/uid/TP30000947-DontLinkChapterID_1-DontLinkElementID_2@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CGBitmapContext Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP30000948-DontLinkChapterID_1-DontLinkElementID_15</string>
+			<key>href</key>
+			<string>../CGColor/Reference/reference.html#//apple_ref/doc/uid/TP30000948-DontLinkChapterID_1-DontLinkElementID_15</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CGColor Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP30000949-DontLinkChapterID_1-DontLinkElementID_2</string>
+			<key>href</key>
+			<string>../CGColorSpace/Reference/reference.html#//apple_ref/doc/uid/TP30000949-DontLinkChapterID_1-DontLinkElementID_2</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CGColorSpace Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP30000950-DontLinkChapterID_1-DontLinkElementID_2</string>
+			<key>href</key>
+			<string>../CGContext/Reference/reference.html#//apple_ref/doc/uid/TP30000950-DontLinkChapterID_1-DontLinkElementID_2</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CGContext Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP30000951-DontLinkChapterID_1-DontLinkElementID_7</string>
+			<key>href</key>
+			<string>../CGDataConsumer/Reference/reference.html#//apple_ref/doc/uid/TP30000951-DontLinkChapterID_1-DontLinkElementID_7</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CGDataConsumer Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP30000952-DontLinkChapterID_1-DontLinkElementID_2</string>
+			<key>href</key>
+			<string>../CGDataProvider/Reference/reference.html#//apple_ref/doc/uid/TP30000952-DontLinkChapterID_1-DontLinkElementID_2</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CGDataProvider Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP30000953-DontLinkChapterID_1-DontLinkElementID_2</string>
+			<key>href</key>
+			<string>../CGFont/Reference/reference.html#//apple_ref/doc/uid/TP30000953-DontLinkChapterID_1-DontLinkElementID_2</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CGFont Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP30000954-DontLinkChapterID_1-DontLinkElementID_8</string>
+			<key>href</key>
+			<string>../CGFunction/Reference/reference.html#//apple_ref/doc/uid/TP30000954-DontLinkChapterID_1-DontLinkElementID_8</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CGFunction Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP30001116-DontLinkChapterID_1-DontLinkElementID_4</string>
+			<key>href</key>
+			<string>../CGGLContext/Reference/reference.html#//apple_ref/doc/uid/TP30001116-DontLinkChapterID_1-DontLinkElementID_4</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CGGLContext Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004880-DontLinkChapterID_1-DontLinkElementID_9</string>
+			<key>href</key>
+			<string>../CGGradient/Reference/reference.html#//apple_ref/doc/uid/TP40004880-DontLinkChapterID_1-DontLinkElementID_9</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CGGradient Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP30000956-DontLinkChapterID_1-DontLinkElementID_2</string>
+			<key>href</key>
+			<string>../CGImage/Reference/reference.html#//apple_ref/doc/uid/TP30000956-DontLinkChapterID_1-DontLinkElementID_2</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CGImage Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40001400-DontLinkChapterID_1-DontLinkElementID_16</string>
+			<key>href</key>
+			<string>../CGImageDestination/Reference/reference.html#//apple_ref/doc/uid/TP40001400-DontLinkChapterID_1-DontLinkElementID_16</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CGImageDestination Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40001399-DontLinkChapterID_1-DontLinkElementID_13</string>
+			<key>href</key>
+			<string>../CGImageSource/Reference/reference.html#//apple_ref/doc/uid/TP40001399-DontLinkChapterID_1-DontLinkElementID_13</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CGImageSource Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40001406-DontLinkChapterID_1-DontLinkElementID_14</string>
+			<key>href</key>
+			<string>../CGLayer/Reference/reference.html#//apple_ref/doc/uid/TP40001406-DontLinkChapterID_1-DontLinkElementID_14</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CGLayer Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP30000959-DontLinkChapterID_1-DontLinkElementID_2</string>
+			<key>href</key>
+			<string>../CGPath/Reference/reference.html#//apple_ref/doc/uid/TP30000959-DontLinkChapterID_1-DontLinkElementID_2</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CGPath Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP30000960-DontLinkChapterID_1-DontLinkElementID_8</string>
+			<key>href</key>
+			<string>../CGPattern/Reference/reference.html#//apple_ref/doc/uid/TP30000960-DontLinkChapterID_1-DontLinkElementID_8</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CGPattern Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP30000962-DontLinkChapterID_1-DontLinkElementID_14</string>
+			<key>href</key>
+			<string>../CGPDFArray/Reference/reference.html#//apple_ref/doc/uid/TP30000962-DontLinkChapterID_1-DontLinkElementID_14</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CGPDFArray Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40001407-DontLinkChapterID_1-DontLinkElementID_2</string>
+			<key>href</key>
+			<string>../CGPDFContentStream/Reference/reference.html#//apple_ref/doc/uid/TP40001407-DontLinkChapterID_1-DontLinkElementID_2</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CGPDFContentStream Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP30000957-DontLinkChapterID_1-DontLinkElementID_2</string>
+			<key>href</key>
+			<string>../CGPDFContext/Reference/reference.html#//apple_ref/doc/uid/TP30000957-DontLinkChapterID_1-DontLinkElementID_2</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CGPDFContext Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP30000965-DontLinkChapterID_1-DontLinkElementID_16</string>
+			<key>href</key>
+			<string>../CGPDFDictionary/Reference/reference.html#//apple_ref/doc/uid/TP30000965-DontLinkChapterID_1-DontLinkElementID_16</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CGPDFDictionary Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP30000958-DontLinkChapterID_1-DontLinkElementID_9</string>
+			<key>href</key>
+			<string>../CGPDFDocument/Reference/reference.html#//apple_ref/doc/uid/TP30000958-DontLinkChapterID_1-DontLinkElementID_9</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CGPDFDocument Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP30001117-DontLinkChapterID_1-DontLinkElementID_1</string>
+			<key>href</key>
+			<string>../CGPDFObject/Reference/reference.html#//apple_ref/doc/uid/TP30001117-DontLinkChapterID_1-DontLinkElementID_1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CGPDFObject Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40001408-DontLinkChapterID_1-DontLinkElementID_10</string>
+			<key>href</key>
+			<string>../CGPDFOperatorTable/Reference/reference.html#//apple_ref/doc/uid/TP40001408-DontLinkChapterID_1-DontLinkElementID_10</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CGPDFOperatorTable Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP30001118-DontLinkChapterID_1-DontLinkElementID_16</string>
+			<key>href</key>
+			<string>../CGPDFPage/Reference/reference.html#//apple_ref/doc/uid/TP30001118-DontLinkChapterID_1-DontLinkElementID_16</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CGPDFPage Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40001409-DontLinkChapterID_1-DontLinkElementID_2</string>
+			<key>href</key>
+			<string>../CGPDFScanner/Reference/reference.html#//apple_ref/doc/uid/TP40001409-DontLinkChapterID_1-DontLinkElementID_2</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CGPDFScanner Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP30001119-DontLinkChapterID_1-DontLinkElementID_7</string>
+			<key>href</key>
+			<string>../CGPDFStream/Reference/reference.html#//apple_ref/doc/uid/TP30001119-DontLinkChapterID_1-DontLinkElementID_7</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CGPDFStream Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP30001120-DontLinkChapterID_1-DontLinkElementID_9</string>
+			<key>href</key>
+			<string>../CGPDFString/Reference/reference.html#//apple_ref/doc/uid/TP30001120-DontLinkChapterID_1-DontLinkElementID_9</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CGPDFString Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP30001121-DontLinkChapterID_1-DontLinkElementID_2</string>
+			<key>href</key>
+			<string>../CGPSConverter/Reference/reference.html#//apple_ref/doc/uid/TP30001121-DontLinkChapterID_1-DontLinkElementID_2</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CGPSConverter Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP30000961-DontLinkChapterID_1-DontLinkElementID_6</string>
+			<key>href</key>
+			<string>../CGShading/Reference/reference.html#//apple_ref/doc/uid/TP30000961-DontLinkChapterID_1-DontLinkElementID_6</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CGShading Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP30000946-DontLinkChapterID_1-DontLinkElementID_2</string>
+			<key>href</key>
+			<string>../CGAffineTransform/Reference/reference.html#//apple_ref/doc/uid/TP30000946-DontLinkChapterID_1-DontLinkElementID_2</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CGAffineTransform Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP30000955-DontLinkChapterID_1-DontLinkElementID_2</string>
+			<key>href</key>
+			<string>../CGGeometry/Reference/reference.html#//apple_ref/doc/uid/TP30000955-DontLinkChapterID_1-DontLinkElementID_2</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CGGeometry Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40005103-DontLinkChapterID_1-DontLinkElementID_8</string>
+			<key>href</key>
+			<string>../CGImageProperties_Reference/Reference/reference.html#//apple_ref/doc/uid/TP40005103-DontLinkChapterID_1-DontLinkElementID_8</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CGImageProperties Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40003853-CH2-DontLinkElementID_2</string>
+			<key>href</key>
+			<string>RevisionHistory.html#//apple_ref/doc/uid/TP40003853-CH2-DontLinkElementID_2</string>
+			<key>isPart</key>
+			<false/>
+			<key>title</key>
+			<string>Revision History</string>
+		</dict>
+	</array>
+	<key>shouldDisplayTOC</key>
+	<false/>
+	<key>technology</key>
+	<string>Graphics &amp; Imaging</string>
+	<key>title</key>
+	<string>Quartz 2D Reference Collection</string>
+	<key>type</key>
+	<string>Collection</string>
+	<key>uid</key>
+	<string>TP40003853</string>
+</dict>
+</plist>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PDF</key>
+	<dict>
+		<key>href</key>
+		<string>CoreMotion_Reference.pdf</string>
+	</dict>
+	<key>assignments</key>
+	<array>
+		<string>Type/Reference</string>
+		<string>Framework/Core Services Layer/CoreMotion</string>
+		<string>Topic/Data Management/Event Handling</string>
+	</array>
+	<key>needsAdditionalLinksSeparator</key>
+	<false/>
+	<key>relatedBooks</key>
+	<array/>
+	<key>sections</key>
+	<array>
+		<dict>
+			<key>aref</key>
+			<string></string>
+			<key>href</key>
+			<string>&lt;@@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Introduction</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009671-CH1-SW2</string>
+			<key>href</key>
+			<string>&lt;@//apple_ref/doc/uid/TP40009671-CH1-SW2@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CMAccelerometerData Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009943-CH1-SW7</string>
+			<key>href</key>
+			<string>../CMAttitude_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40009943-CH1-SW7</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CMAttitude Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009942-CH1-SW5</string>
+			<key>href</key>
+			<string>../CMDeviceMotion_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40009942-CH1-SW5</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CMDeviceMotion Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009941-CH1-SW1</string>
+			<key>href</key>
+			<string>../CMGyroData_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40009941-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CMGyroData Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009675-CH1-SW2</string>
+			<key>href</key>
+			<string>../CMLogItem_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40009675-CH1-SW2</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CMLogItem Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009670-CH1-SW8</string>
+			<key>href</key>
+			<string>../CMMotionManager_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40009670-CH1-SW8</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CMMotionManager Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009686-CH2-SW1</string>
+			<key>href</key>
+			<string>RevisionHistory.html#//apple_ref/doc/uid/TP40009686-CH2-SW1</string>
+			<key>isPart</key>
+			<false/>
+			<key>title</key>
+			<string>Revision History</string>
+		</dict>
+	</array>
+	<key>shouldDisplayTOC</key>
+	<false/>
+	<key>technology</key>
+	<string></string>
+	<key>title</key>
+	<string>Core Motion Framework Reference</string>
+	<key>type</key>
+	<string>Collection</string>
+	<key>uid</key>
+	<string>TP40009686</string>
+</dict>
+</plist>

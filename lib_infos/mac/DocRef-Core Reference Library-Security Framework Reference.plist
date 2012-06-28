@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PDF</key>
+	<dict>
+		<key>href</key>
+		<string>SecurityFrameworkReference.pdf</string>
+	</dict>
+	<key>assignments</key>
+	<array>
+		<string>Type/Reference</string>
+		<string>Framework/Core Services Layer/Security</string>
+		<string>Topic/Security</string>
+	</array>
+	<key>needsAdditionalLinksSeparator</key>
+	<false/>
+	<key>relatedBooks</key>
+	<array/>
+	<key>sections</key>
+	<array>
+		<dict>
+			<key>aref</key>
+			<string></string>
+			<key>href</key>
+			<string>&lt;@@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Introduction</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP30000826-DontLinkChapterID_1-DontLinkElementID_4</string>
+			<key>href</key>
+			<string>&lt;@//apple_ref/doc/uid/TP30000826-DontLinkChapterID_1-DontLinkElementID_4@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Authorization Services C Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP30000157-DontLinkChapterID_1-DontLinkElementID_2</string>
+			<key>href</key>
+			<string>../certifkeytrustservices/Reference/reference.html#//apple_ref/doc/uid/TP30000157-DontLinkChapterID_1-DontLinkElementID_2</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Certificate, Key, and Trust Services Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP30000898-DontLinkChapterID_1-DontLinkElementID_2</string>
+			<key>href</key>
+			<string>../keychainservices/Reference/reference.html#//apple_ref/doc/uid/TP30000898-DontLinkChapterID_1-DontLinkElementID_2</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Keychain Services Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP30000155-DontLinkChapterID_1-DontLinkElementID_4</string>
+			<key>href</key>
+			<string>../secureTransportRef/Reference/reference.html#//apple_ref/doc/uid/TP30000155-DontLinkChapterID_1-DontLinkElementID_4</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Secure Transport Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004330-CH2-DontLinkElementID_2</string>
+			<key>href</key>
+			<string>RevisionHistory.html#//apple_ref/doc/uid/TP40004330-CH2-DontLinkElementID_2</string>
+			<key>isPart</key>
+			<false/>
+			<key>title</key>
+			<string>Revision History</string>
+		</dict>
+	</array>
+	<key>shouldDisplayTOC</key>
+	<false/>
+	<key>technology</key>
+	<string>Security</string>
+	<key>title</key>
+	<string>Security Framework Reference</string>
+	<key>type</key>
+	<string>Collection</string>
+	<key>uid</key>
+	<string>TP40004330</string>
+</dict>
+</plist>

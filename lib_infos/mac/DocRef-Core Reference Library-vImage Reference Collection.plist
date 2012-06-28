@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PDF</key>
+	<dict>
+		<key>href</key>
+		<string>vImageRefCollecton.pdf</string>
+	</dict>
+	<key>assignments</key>
+	<array>
+		<string>Type/Reference</string>
+		<string>Framework/Core OS Layer/Accelerate</string>
+		<string>Topic/Mathematical Computation</string>
+	</array>
+	<key>needsAdditionalLinksSeparator</key>
+	<false/>
+	<key>relatedBooks</key>
+	<array>
+		<dict>
+			<key>sections</key>
+			<array>
+				<dict>
+					<key>aref</key>
+					<string>//apple_ref/doc/uid/TP30001001</string>
+					<key>href</key>
+					<string>../../../Performance/Conceptual/vImage/Introduction/Introduction.html#//apple_ref/doc/uid/TP30001001</string>
+					<key>title</key>
+					<string>vImage Programming Guide</string>
+				</dict>
+			</array>
+			<key>title</key>
+			<string>COMPANION GUIDE</string>
+		</dict>
+	</array>
+	<key>sections</key>
+	<array>
+		<dict>
+			<key>aref</key>
+			<string></string>
+			<key>href</key>
+			<string>&lt;@@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Introduction</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40005495-DontLinkChapterID_1-DontLinkElementID_9</string>
+			<key>href</key>
+			<string>&lt;@//apple_ref/doc/uid/TP40005495-DontLinkChapterID_1-DontLinkElementID_9@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>vImage Data Types and Constants Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40005487-DontLinkChapterID_1-DontLinkElementID_22</string>
+			<key>href</key>
+			<string>../../../Performance/Reference/vImage_alpha/Reference/reference.html#//apple_ref/doc/uid/TP40005487-DontLinkChapterID_1-DontLinkElementID_22</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>vImage Alpha Compositing Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40005488-DontLinkChapterID_1-DontLinkElementID_44</string>
+			<key>href</key>
+			<string>../../../Performance/Reference/vImage_conversion/Reference/reference.html#//apple_ref/doc/uid/TP40005488-DontLinkChapterID_1-DontLinkElementID_44</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>vImage Conversion Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40005489-DontLinkChapterID_1-DontLinkElementID_10</string>
+			<key>href</key>
+			<string>../../../Performance/Reference/vImage_convolution/Reference/reference.html#//apple_ref/doc/uid/TP40005489-DontLinkChapterID_1-DontLinkElementID_10</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>vImage Convolution Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40005957-DontLinkChapterID_1-DontLinkElementID_5</string>
+			<key>href</key>
+			<string>../../../Performance/Reference/vImage_decompression/Reference/reference.html#//apple_ref/doc/uid/TP40005957-DontLinkChapterID_1-DontLinkElementID_5</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>vImage Decompression Filtering Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40005490-DontLinkChapterID_1-DontLinkElementID_10</string>
+			<key>href</key>
+			<string>../../../Performance/Reference/vImage_geometric/Reference/reference.html#//apple_ref/doc/uid/TP40005490-DontLinkChapterID_1-DontLinkElementID_10</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>vImage Geometry Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40005491-DontLinkChapterID_1-DontLinkElementID_7</string>
+			<key>href</key>
+			<string>../../../Performance/Reference/vImage_histogram/Reference/reference.html#//apple_ref/doc/uid/TP40005491-DontLinkChapterID_1-DontLinkElementID_7</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>vImage Histogram Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40005492-DontLinkChapterID_1-DontLinkElementID_7</string>
+			<key>href</key>
+			<string>../../../Performance/Reference/vImage_morphological/Reference/reference.html#//apple_ref/doc/uid/TP40005492-DontLinkChapterID_1-DontLinkElementID_7</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>vImage Morphology Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40005493-DontLinkChapterID_1-DontLinkElementID_11</string>
+			<key>href</key>
+			<string>../../../Performance/Reference/vImage_transform/Reference/reference.html#//apple_ref/doc/uid/TP40005493-DontLinkChapterID_1-DontLinkElementID_11</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>vImage Transform Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40005536-CH2-DontLinkElementID_2</string>
+			<key>href</key>
+			<string>RevisionHistory.html#//apple_ref/doc/uid/TP40005536-CH2-DontLinkElementID_2</string>
+			<key>isPart</key>
+			<false/>
+			<key>title</key>
+			<string>Revision History</string>
+		</dict>
+	</array>
+	<key>shouldDisplayTOC</key>
+	<false/>
+	<key>technology</key>
+	<string>Graphics &amp; Imaging</string>
+	<key>title</key>
+	<string>vImage Reference Collection</string>
+	<key>type</key>
+	<string>Collection</string>
+	<key>uid</key>
+	<string>TP40005536</string>
+</dict>
+</plist>

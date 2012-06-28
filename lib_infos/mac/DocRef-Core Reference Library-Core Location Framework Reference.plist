@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PDF</key>
+	<dict>
+		<key>href</key>
+		<string>CoreLocation_Framework.pdf</string>
+	</dict>
+	<key>assignments</key>
+	<array>
+		<string>Type/Reference</string>
+		<string>Framework/Core Services Layer/CoreLocation</string>
+		<string>Topic/Data Management/Device Information</string>
+	</array>
+	<key>needsAdditionalLinksSeparator</key>
+	<false/>
+	<key>relatedBooks</key>
+	<array/>
+	<key>sections</key>
+	<array>
+		<dict>
+			<key>aref</key>
+			<string></string>
+			<key>href</key>
+			<string>&lt;@@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Introduction</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40007126-CH3-SW3</string>
+			<key>href</key>
+			<string>&lt;@//apple_ref/doc/uid/TP40007126-CH3-SW3@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CLLocation Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40007125-CH3-SW4</string>
+			<key>href</key>
+			<string>../CLLocationManager_Class/CLLocationManager/CLLocationManager.html#//apple_ref/doc/uid/TP40007125-CH3-SW4</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CLLocationManager Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40007124-CH3-SW1</string>
+			<key>href</key>
+			<string>../CLLocationManagerDelegate_Protocol/CLLocationManagerDelegate/CLLocationManagerDelegate.html#//apple_ref/doc/uid/TP40007124-CH3-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CLLocationManagerDelegate Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40010238-DontLinkChapterID_1-DontLinkElementID_1</string>
+			<key>href</key>
+			<string>../CoreLocationDataTypesRef/Reference/reference.html#//apple_ref/doc/uid/TP40010238-DontLinkChapterID_1-DontLinkElementID_1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Core Location Data Types Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40010237-DontLinkChapterID_1-DontLinkElementID_1</string>
+			<key>href</key>
+			<string>../CoreLocationConstantsRef/Reference/reference.html#//apple_ref/doc/uid/TP40010237-DontLinkChapterID_1-DontLinkElementID_1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Core Location Constants Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40007123-CH2-SW1</string>
+			<key>href</key>
+			<string>RevisionHistory.html#//apple_ref/doc/uid/TP40007123-CH2-SW1</string>
+			<key>isPart</key>
+			<false/>
+			<key>title</key>
+			<string>Revision History</string>
+		</dict>
+	</array>
+	<key>shouldDisplayTOC</key>
+	<false/>
+	<key>technology</key>
+	<string>iPhone</string>
+	<key>title</key>
+	<string>Core Location Framework Reference</string>
+	<key>type</key>
+	<string>Collection</string>
+	<key>uid</key>
+	<string>TP40007123</string>
+</dict>
+</plist>

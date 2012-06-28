@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PDF</key>
+	<dict>
+		<key>href</key>
+		<string>EventKitFrameworkRef.pdf</string>
+	</dict>
+	<key>assignments</key>
+	<array>
+		<string>Type/Reference</string>
+		<string>Framework/Core Services Layer/EventKit</string>
+		<string>Topic/Data Management/Dates, Times, &amp; Numbers</string>
+	</array>
+	<key>needsAdditionalLinksSeparator</key>
+	<false/>
+	<key>relatedBooks</key>
+	<array/>
+	<key>sections</key>
+	<array>
+		<dict>
+			<key>aref</key>
+			<string></string>
+			<key>href</key>
+			<string>&lt;@@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Introduction</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009560-CH1-SW1</string>
+			<key>href</key>
+			<string>&lt;@//apple_ref/doc/uid/TP40009560-CH1-SW1@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>EKAlarm Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009564-CH1-DontLinkElementID_11</string>
+			<key>href</key>
+			<string>../../../DataManagement/Reference/EKCalendarClassRef/Reference/Reference.html#//apple_ref/doc/uid/TP40009564-CH1-DontLinkElementID_11</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>EKCalendar Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009566-CH1-DontLinkElementID_30</string>
+			<key>href</key>
+			<string>../EKEventClassRef/Reference/Reference.html#//apple_ref/doc/uid/TP40009566-CH1-DontLinkElementID_30</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>EKEvent Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009567-CH1-DontLinkElementID_16</string>
+			<key>href</key>
+			<string>../EKEventStoreClassRef/Reference/Reference.html#//apple_ref/doc/uid/TP40009567-CH1-DontLinkElementID_16</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>EKEventStore Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009568-CH1-DontLinkElementID_12</string>
+			<key>href</key>
+			<string>../EKParticipantClassRef/Reference/Reference.html#//apple_ref/doc/uid/TP40009568-CH1-DontLinkElementID_12</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>EKParticipant Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009732-CH1-DontLinkElementID_11</string>
+			<key>href</key>
+			<string>../EKRecurrenceDayOfWeekClassRef/Reference/Reference.html#//apple_ref/doc/uid/TP40009732-CH1-DontLinkElementID_11</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>EKRecurrenceDayOfWeek Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009731-CH1-DontLinkElementID_11</string>
+			<key>href</key>
+			<string>../EKRecurrenceEndClassRef/Reference/Reference.html#//apple_ref/doc/uid/TP40009731-CH1-DontLinkElementID_11</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>EKRecurrenceEnd Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009569-CH1-DontLinkElementID_19</string>
+			<key>href</key>
+			<string>../EKRecurrenceRuleClassRef/Reference/Reference.html#//apple_ref/doc/uid/TP40009569-CH1-DontLinkElementID_19</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>EKRecurrenceRule Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009733-DontLinkChapterID_1-DontLinkElementID_4</string>
+			<key>href</key>
+			<string>../EventKit_Constants/Reference/reference.html#//apple_ref/doc/uid/TP40009733-DontLinkChapterID_1-DontLinkElementID_4</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Event Kit Constants Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009662-CH99-DontLinkElementID_2</string>
+			<key>href</key>
+			<string>RevisionHistory.html#//apple_ref/doc/uid/TP40009662-CH99-DontLinkElementID_2</string>
+			<key>isPart</key>
+			<false/>
+			<key>title</key>
+			<string>Revision History</string>
+		</dict>
+	</array>
+	<key>shouldDisplayTOC</key>
+	<false/>
+	<key>technology</key>
+	<string></string>
+	<key>title</key>
+	<string>Event Kit Framework Reference</string>
+	<key>type</key>
+	<string>Collection</string>
+	<key>uid</key>
+	<string>TP40009662</string>
+</dict>
+</plist>

@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PDF</key>
+	<dict>
+		<key>href</key>
+		<string>WebKit_ObjC.pdf</string>
+	</dict>
+	<key>assignments</key>
+	<array>
+		<string>Type/Reference</string>
+		<string>Framework/Core Services Layer/WebKit</string>
+		<string>Topic/Networking, Internet, &amp; Web/Web Client</string>
+	</array>
+	<key>needsAdditionalLinksSeparator</key>
+	<false/>
+	<key>relatedBooks</key>
+	<array>
+		<dict>
+			<key>sections</key>
+			<array>
+				<dict>
+					<key>aref</key>
+					<string>//apple_ref/doc/uid/10000164i</string>
+					<key>href</key>
+					<string>../../../Conceptual/DisplayWebContent/DisplayWebContent.html#//apple_ref/doc/uid/10000164i</string>
+					<key>title</key>
+					<string>WebKit Objective-C Programming Guide</string>
+				</dict>
+				<dict>
+					<key>aref</key>
+					<string>//apple_ref/doc/uid/TP40001521</string>
+					<key>href</key>
+					<string>../../../../InternetWeb/Conceptual/WebKit_PluginProgTopic/WebKitPluginTopics.html#//apple_ref/doc/uid/TP40001521</string>
+					<key>title</key>
+					<string>WebKit Plug-In Programming Topics</string>
+				</dict>
+			</array>
+			<key>title</key>
+			<string>COMPANION GUIDES</string>
+		</dict>
+	</array>
+	<key>sections</key>
+	<array>
+		<dict>
+			<key>aref</key>
+			<string></string>
+			<key>href</key>
+			<string>&lt;@@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Introduction</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40001331-CJBIHJJJ</string>
+			<key>href</key>
+			<string>&lt;@//apple_ref/doc/uid/TP40001331-CJBIHJJJ@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>DOMDocument Additions Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008030-CH1-DontLinkElementID_6</string>
+			<key>href</key>
+			<string>../../DOMElement_WebKitAdditions/Reference/Reference.html#//apple_ref/doc/uid/TP40008030-CH1-DontLinkElementID_6</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>DOMElement Additions Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008031-CH1-DontLinkElementID_7</string>
+			<key>href</key>
+			<string>../../DOMHTMLDocument_WebKitAdditions/Reference/Reference.html#//apple_ref/doc/uid/TP40008031-CH1-DontLinkElementID_7</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>DOMHTMLDocument Additions Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40001332-CJBIHJJJ</string>
+			<key>href</key>
+			<string>../Classes/DOMHTMLFrameElement_WebKitAdditions/Reference/Reference.html#//apple_ref/doc/uid/TP40001332-CJBIHJJJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>DOMHTMLFrameElement Additions Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40001333-CJBIHJJJ</string>
+			<key>href</key>
+			<string>../Classes/DOMHTMLIFrameElement_WebKitAdditions/Reference/Reference.html#//apple_ref/doc/uid/TP40001333-CJBIHJJJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>DOMHTMLIFrameElement Additions Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40001335-CJBIHJJJ</string>
+			<key>href</key>
+			<string>../Classes/DOMHTMLObjectElement_WebKitAdditions/Reference/Reference.html#//apple_ref/doc/uid/TP40001335-CJBIHJJJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>DOMHTMLObjectElement Additions Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40001336-CJBIHJJJ</string>
+			<key>href</key>
+			<string>../Classes/DOMNode_WebKitAdditions/Reference/Reference.html#//apple_ref/doc/uid/TP40001336-CJBIHJJJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>DOMNode Additions Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40001334-CJBIHJJJ</string>
+			<key>href</key>
+			<string>../Classes/DOMRange_WebKitAdditions/Reference/Reference.html#//apple_ref/doc/uid/TP40001334-CJBIHJJJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>DOMRange Additions Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40001560-CJBIHJJJ</string>
+			<key>href</key>
+			<string>../Classes/WebArchive_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40001560-CJBIHJJJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>WebArchive Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001892-SW1</string>
+			<key>href</key>
+			<string>../Classes/WebBackForwardList_Class/Reference/Reference.html#//apple_ref/doc/uid/20001892-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>WebBackForwardList Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001893-DontLinkElementID_11</string>
+			<key>href</key>
+			<string>../Classes/WebDataSource_Class/Reference/Reference.html#//apple_ref/doc/uid/20001893-DontLinkElementID_11</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>WebDataSource Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001894-CJBIHJJJ</string>
+			<key>href</key>
+			<string>../Classes/WebDownload_Class/Reference/Reference.html#//apple_ref/doc/uid/20001894-CJBIHJJJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>WebDownload Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001895-DontLinkElementID_12</string>
+			<key>href</key>
+			<string>../Classes/WebFrame_Class/Reference/Reference.html#//apple_ref/doc/uid/20001895-DontLinkElementID_12</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>WebFrame Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001896-DontLinkElementID_10</string>
+			<key>href</key>
+			<string>../Classes/WebFrameView_Class/Reference/Reference.html#//apple_ref/doc/uid/20001896-DontLinkElementID_10</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>WebFrameView Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001897-CJBGACHG</string>
+			<key>href</key>
+			<string>../Classes/WebHistory_Class/Reference/Reference.html#//apple_ref/doc/uid/20001897-CJBGACHG</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>WebHistory Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001898-DontLinkElementID_9</string>
+			<key>href</key>
+			<string>../Classes/WebHistoryItem_Class/Reference/Reference.html#//apple_ref/doc/uid/20001898-DontLinkElementID_9</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>WebHistoryItem Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001900-BCIBGEIJ</string>
+			<key>href</key>
+			<string>../Classes/WebPreferences_Class/Reference/Reference.html#//apple_ref/doc/uid/20001900-BCIBGEIJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>WebPreferences Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40001559-CJBIHJJJ</string>
+			<key>href</key>
+			<string>../Classes/WebResource_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40001559-CJBIHJJJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>WebResource Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40001558-CJBIHJJJ</string>
+			<key>href</key>
+			<string>../Classes/WebScriptObject_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40001558-CJBIHJJJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>WebScriptObject Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40001561-CJBIHJJJ</string>
+			<key>href</key>
+			<string>../Classes/WebUndefined_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40001561-CJBIHJJJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>WebUndefined Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001903-BABDAFIB</string>
+			<key>href</key>
+			<string>../Classes/WebView_Class/Reference/Reference.html#//apple_ref/doc/uid/20001903-BABDAFIB</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>WebView Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001905-DontLinkElementID_8</string>
+			<key>href</key>
+			<string>../Protocols/WebDocumentRepresentation_Protocol/Reference/Reference.html#//apple_ref/doc/uid/20001905-DontLinkElementID_8</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>WebDocumentRepresentation Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001904-DontLinkElementID_5</string>
+			<key>href</key>
+			<string>../Protocols/WebDocumentSearching_Protocol/Reference/Reference.html#//apple_ref/doc/uid/20001904-DontLinkElementID_5</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>WebDocumentSearching Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001906-DontLinkElementID_7</string>
+			<key>href</key>
+			<string>../Protocols/WebDocumentText_Protocol/Reference/Reference.html#//apple_ref/doc/uid/20001906-DontLinkElementID_7</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>WebDocumentText Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001907-BABGBACI</string>
+			<key>href</key>
+			<string>../Protocols/WebDocumentView_Protocol/Reference/Reference.html#//apple_ref/doc/uid/20001907-BABGBACI</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>WebDocumentView Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40001566-CHDBEFCH</string>
+			<key>href</key>
+			<string>../Protocols/WebEditingDelegate_Protocol/Reference/Reference.html#//apple_ref/doc/uid/TP40001566-CHDBEFCH</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>WebEditingDelegate Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001910-CIAJEDAH</string>
+			<key>href</key>
+			<string>../Protocols/WebFrameLoadDelegate_Protocol/Reference/Reference.html#//apple_ref/doc/uid/20001910-CIAJEDAH</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>WebFrameLoadDelegate Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40001686-CHDBEFCH</string>
+			<key>href</key>
+			<string>../Protocols/WebJavaPlugIn_Protocol/Reference/Reference.html#//apple_ref/doc/uid/TP40001686-CHDBEFCH</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>WebJavaPlugIn Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001911-CCHHICFC</string>
+			<key>href</key>
+			<string>../Protocols/WebOpenPanelResultListener_Protocol/Reference/Reference.html#//apple_ref/doc/uid/20001911-CCHHICFC</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>WebOpenPanelResultListener Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40001565-CHDBEFCH</string>
+			<key>href</key>
+			<string>../Protocols/WebPlugIn_Protocol/Reference/Reference.html#//apple_ref/doc/uid/TP40001565-CHDBEFCH</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>WebPlugIn Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40001564-CHDBEFCH</string>
+			<key>href</key>
+			<string>../Protocols/WebPlugInContainer_Protocol/Reference/Reference.html#//apple_ref/doc/uid/TP40001564-CHDBEFCH</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>WebPlugInContainer Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40001563-CHDBEFCH</string>
+			<key>href</key>
+			<string>../Protocols/WebPlugInViewFactory_Protocol/Reference/Reference.html#//apple_ref/doc/uid/TP40001563-CHDBEFCH</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>WebPlugInViewFactory Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001913-BABGBJFG</string>
+			<key>href</key>
+			<string>../Protocols/WebPolicyDecisionListener_Protocol/Reference/Reference.html#//apple_ref/doc/uid/20001913-BABGBJFG</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>WebPolicyDecisionListener Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001912-CIAJAFEC</string>
+			<key>href</key>
+			<string>../Protocols/WebPolicyDelegate_Protocol/Reference/Reference.html#//apple_ref/doc/uid/20001912-CIAJAFEC</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>WebPolicyDelegate Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001914-CHDHBBFJ</string>
+			<key>href</key>
+			<string>../Protocols/WebResourceLoadDelegate_Protocol/Reference/Reference.html#//apple_ref/doc/uid/20001914-CHDHBBFJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>WebResourceLoadDelegate Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40001562-CHDBEFCH</string>
+			<key>href</key>
+			<string>../Protocols/WebScripting_Protocol/Reference/Reference.html#//apple_ref/doc/uid/TP40001562-CHDBEFCH</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>WebScripting Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001915-CHDBEFCH</string>
+			<key>href</key>
+			<string>../Protocols/WebUIDelegate_Protocol/Reference/Reference.html#//apple_ref/doc/uid/20001915-CHDBEFCH</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>WebUIDelegate Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40003839-DontLinkChapterID_1-DontLinkElementID_1</string>
+			<key>href</key>
+			<string>../Miscellaneous/WebKit_Constants/Reference/reference.html#//apple_ref/doc/uid/TP40003839-DontLinkChapterID_1-DontLinkElementID_1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>WebKit Constants Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP30000745-RH1-DontLinkElementID_1</string>
+			<key>href</key>
+			<string>History/History.html#//apple_ref/doc/uid/TP30000745-RH1-DontLinkElementID_1</string>
+			<key>isPart</key>
+			<false/>
+			<key>title</key>
+			<string>Revision History</string>
+		</dict>
+	</array>
+	<key>shouldDisplayTOC</key>
+	<false/>
+	<key>technology</key>
+	<string>Cocoa</string>
+	<key>title</key>
+	<string>WebKit Objective-C Framework Reference</string>
+	<key>type</key>
+	<string>Collection</string>
+	<key>uid</key>
+	<string>TP30000745</string>
+</dict>
+</plist>

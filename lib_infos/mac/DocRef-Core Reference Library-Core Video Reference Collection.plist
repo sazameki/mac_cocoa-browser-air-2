@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PDF</key>
+	<dict>
+		<key>href</key>
+		<string>CVCollectionRef.pdf</string>
+	</dict>
+	<key>assignments</key>
+	<array>
+		<string>Type/Reference</string>
+		<string>Framework/Media Layer/QuartzCore</string>
+		<string>Topic/Audio &amp; Video/Video</string>
+	</array>
+	<key>needsAdditionalLinksSeparator</key>
+	<false/>
+	<key>relatedBooks</key>
+	<array/>
+	<key>sections</key>
+	<array>
+		<dict>
+			<key>aref</key>
+			<string></string>
+			<key>href</key>
+			<string>&lt;@@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Introduction</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40010024-DontLinkChapterID_1-DontLinkElementID_1</string>
+			<key>href</key>
+			<string>&lt;@//apple_ref/doc/uid/TP40010024-DontLinkChapterID_1-DontLinkElementID_1@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CVBuffer Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40010025-DontLinkChapterID_1-DontLinkElementID_1</string>
+			<key>href</key>
+			<string>../CVDisplayLinkRef/Reference/reference.html#//apple_ref/doc/uid/TP40010025-DontLinkChapterID_1-DontLinkElementID_1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CVDisplayLink Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40010026-DontLinkChapterID_1-DontLinkElementID_1</string>
+			<key>href</key>
+			<string>../CVImageBufferRef/Reference/reference.html#//apple_ref/doc/uid/TP40010026-DontLinkChapterID_1-DontLinkElementID_1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CVImageBuffer Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40010028-DontLinkChapterID_1-DontLinkElementID_1</string>
+			<key>href</key>
+			<string>../CVOpenGLBufferRef/Reference/reference.html#//apple_ref/doc/uid/TP40010028-DontLinkChapterID_1-DontLinkElementID_1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CVOpenGLBuffer Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40010027-DontLinkChapterID_1-DontLinkElementID_1</string>
+			<key>href</key>
+			<string>../CVOpenGLBufferPoolRef/Reference/reference.html#//apple_ref/doc/uid/TP40010027-DontLinkChapterID_1-DontLinkElementID_1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CVOpenGLBufferPool Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40010029-DontLinkChapterID_1-DontLinkElementID_1</string>
+			<key>href</key>
+			<string>../CVOpenGLTextureRef/Reference/reference.html#//apple_ref/doc/uid/TP40010029-DontLinkChapterID_1-DontLinkElementID_1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CVOpenGLTexture Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40010033-DontLinkChapterID_1-DontLinkElementID_1</string>
+			<key>href</key>
+			<string>../CVPixelBufferRef/Reference/reference.html#//apple_ref/doc/uid/TP40010033-DontLinkChapterID_1-DontLinkElementID_1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CVPixelBuffer Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40010030-DontLinkChapterID_1-DontLinkElementID_1</string>
+			<key>href</key>
+			<string>../CVPixelBufferPoolRef/Reference/reference.html#//apple_ref/doc/uid/TP40010030-DontLinkChapterID_1-DontLinkElementID_1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CVPixelBufferPool Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40010164-DontLinkChapterID_1-DontLinkElementID_1</string>
+			<key>href</key>
+			<string>../CVConstantsRef/Reference/reference.html#//apple_ref/doc/uid/TP40010164-DontLinkChapterID_1-DontLinkElementID_1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Core Video Constants Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40010034-DontLinkChapterID_1-DontLinkElementID_1</string>
+			<key>href</key>
+			<string>../CVPixelFormatDescriptionRef/Reference/reference.html#//apple_ref/doc/uid/TP40010034-DontLinkChapterID_1-DontLinkElementID_1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CVPixelFormatDescription Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40010035-DontLinkChapterID_1-DontLinkElementID_1</string>
+			<key>href</key>
+			<string>../CVTimeRef/Reference/reference.html#//apple_ref/doc/uid/TP40010035-DontLinkChapterID_1-DontLinkElementID_1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CVTime Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40010037-CH2-SW1</string>
+			<key>href</key>
+			<string>RevisionHistory.html#//apple_ref/doc/uid/TP40010037-CH2-SW1</string>
+			<key>isPart</key>
+			<false/>
+			<key>title</key>
+			<string>Revision History</string>
+		</dict>
+	</array>
+	<key>shouldDisplayTOC</key>
+	<false/>
+	<key>technology</key>
+	<string></string>
+	<key>title</key>
+	<string>Core Video Reference Collection</string>
+	<key>type</key>
+	<string>Collection</string>
+	<key>uid</key>
+	<string>TP40010037</string>
+</dict>
+</plist>

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PDF</key>
+	<dict>
+		<key>href</key>
+		<string>SysConfig.pdf</string>
+	</dict>
+	<key>assignments</key>
+	<array>
+		<string>Type/Reference</string>
+		<string>Framework/Core OS Layer/SystemConfiguration</string>
+		<string>Topic/Networking, Internet, &amp; Web</string>
+	</array>
+	<key>needsAdditionalLinksSeparator</key>
+	<false/>
+	<key>relatedBooks</key>
+	<array/>
+	<key>sections</key>
+	<array>
+		<dict>
+			<key>aref</key>
+			<string></string>
+			<key>href</key>
+			<string>&lt;@@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Introduction</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008287-DontLinkChapterID_1-DontLinkElementID_31</string>
+			<key>href</key>
+			<string>&lt;@//apple_ref/doc/uid/TP40008287-DontLinkChapterID_1-DontLinkElementID_31@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>SCDynamicStore Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008288-DontLinkChapterID_1-DontLinkElementID_4</string>
+			<key>href</key>
+			<string>../SCDynamicStoreCopyDHCPInfo/Reference/reference.html#//apple_ref/doc/uid/TP40008288-DontLinkChapterID_1-DontLinkElementID_4</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>SCDynamicStoreCopyDHCPInfo Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008289-DontLinkChapterID_1-DontLinkElementID_8</string>
+			<key>href</key>
+			<string>../SCDynamicStoreCopySpecific/Reference/reference.html#//apple_ref/doc/uid/TP40008289-DontLinkChapterID_1-DontLinkElementID_8</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>SCDynamicStoreCopySpecific Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008290-DontLinkChapterID_1-DontLinkElementID_13</string>
+			<key>href</key>
+			<string>../SCDynamicStoreKey/Reference/reference.html#//apple_ref/doc/uid/TP40008290-DontLinkChapterID_1-DontLinkElementID_13</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>SCDynamicStoreKey Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008291-DontLinkChapterID_1-DontLinkElementID_7</string>
+			<key>href</key>
+			<string>../SCNetwork/Reference/reference.html#//apple_ref/doc/uid/TP40008291-DontLinkChapterID_1-DontLinkElementID_7</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>SCNetwork Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008292-DontLinkChapterID_1-DontLinkElementID_102</string>
+			<key>href</key>
+			<string>../SCNetworkConfiguration/Reference/reference.html#//apple_ref/doc/uid/TP40008292-DontLinkChapterID_1-DontLinkElementID_102</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>SCNetworkConfiguration Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008293-DontLinkChapterID_1-DontLinkElementID_25</string>
+			<key>href</key>
+			<string>../SCNetworkConnection/Reference/reference.html#//apple_ref/doc/uid/TP40008293-DontLinkChapterID_1-DontLinkElementID_25</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>SCNetworkConnection Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40007260-DontLinkChapterID_1-DontLinkElementID_2</string>
+			<key>href</key>
+			<string>../../../SystemConfiguration/Reference/SCNetworkReachabilityRef/Reference/reference.html#//apple_ref/doc/uid/TP40007260-DontLinkChapterID_1-DontLinkElementID_2</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>SCNetworkReachability Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008295-DontLinkChapterID_1-DontLinkElementID_24</string>
+			<key>href</key>
+			<string>../SCPreferences/Reference/reference.html#//apple_ref/doc/uid/TP40008295-DontLinkChapterID_1-DontLinkElementID_24</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>SCPreferences Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008296-DontLinkChapterID_1-DontLinkElementID_12</string>
+			<key>href</key>
+			<string>../SCPreferencesPath/Reference/reference.html#//apple_ref/doc/uid/TP40008296-DontLinkChapterID_1-DontLinkElementID_12</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>SCPreferencesPath Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008297-DontLinkChapterID_1-DontLinkElementID_5</string>
+			<key>href</key>
+			<string>../SCPreferencesSetSpecific/Reference/reference.html#//apple_ref/doc/uid/TP40008297-DontLinkChapterID_1-DontLinkElementID_5</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>SCPreferencesSetSpecific Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008298-DontLinkChapterID_1-DontLinkElementID_29</string>
+			<key>href</key>
+			<string>../SCSchemaDefinitions/Reference/reference.html#//apple_ref/doc/uid/TP40008298-DontLinkChapterID_1-DontLinkElementID_29</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>SCSchemaDefinitions Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40007261-DontLinkChapterID_1-DontLinkElementID_6</string>
+			<key>href</key>
+			<string>../../../SystemConfiguration/Reference/SystemConfiguration_Utilities/Reference/reference.html#//apple_ref/doc/uid/TP40007261-DontLinkChapterID_1-DontLinkElementID_6</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>System Configuration Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40001027-CH1-DontLinkElementID_2</string>
+			<key>href</key>
+			<string>RevisionHistory.html#//apple_ref/doc/uid/TP40001027-CH1-DontLinkElementID_2</string>
+			<key>isPart</key>
+			<false/>
+			<key>title</key>
+			<string>Revision History</string>
+		</dict>
+	</array>
+	<key>shouldDisplayTOC</key>
+	<false/>
+	<key>technology</key>
+	<string>Networking</string>
+	<key>title</key>
+	<string>System Configuration Framework Reference</string>
+	<key>type</key>
+	<string>Collection</string>
+	<key>uid</key>
+	<string>TP40001027</string>
+</dict>
+</plist>

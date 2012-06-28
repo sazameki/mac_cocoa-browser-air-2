@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PDF</key>
+	<dict>
+		<key>href</key>
+		<string>QuartzCoreRefCollection.pdf</string>
+	</dict>
+	<key>assignments</key>
+	<array>
+		<string>Type/Reference</string>
+		<string>Framework/Media Layer/QuartzCore</string>
+		<string>Topic/Graphics &amp; Animation/2D Drawing</string>
+	</array>
+	<key>needsAdditionalLinksSeparator</key>
+	<false/>
+	<key>relatedBooks</key>
+	<array/>
+	<key>sections</key>
+	<array>
+		<dict>
+			<key>aref</key>
+			<string></string>
+			<key>href</key>
+			<string>&lt;@@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Introduction</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004494-CH1-DontLinkElementID_21</string>
+			<key>href</key>
+			<string>&lt;@//apple_ref/doc/uid/TP40004494-CH1-DontLinkElementID_21@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CAAnimation Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004495-CH1-DontLinkElementID_5</string>
+			<key>href</key>
+			<string>../CAAnimationGroup_class/Introduction/Introduction.html#//apple_ref/doc/uid/TP40004495-CH1-DontLinkElementID_5</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CAAnimationGroup Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004496-CH1-DontLinkElementID_5</string>
+			<key>href</key>
+			<string>../CABasicAnimation_class/Introduction/Introduction.html#//apple_ref/doc/uid/TP40004496-CH1-DontLinkElementID_5</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CABasicAnimation Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004497-CH1-DontLinkElementID_20</string>
+			<key>href</key>
+			<string>../CAConstraint_class/Introduction/Introduction.html#//apple_ref/doc/uid/TP40004497-CH1-DontLinkElementID_20</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CAConstraint Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004498-CH1-DontLinkElementID_6</string>
+			<key>href</key>
+			<string>../CAConstraintLayoutManager_class/Introduction/Introduction.html#//apple_ref/doc/uid/TP40004498-CH1-DontLinkElementID_6</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CAConstraintLayoutManager Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004499-CH1-SW12</string>
+			<key>href</key>
+			<string>../CAKeyframeAnimation_class/Introduction/Introduction.html#//apple_ref/doc/uid/TP40004499-CH1-SW12</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CAKeyframeAnimation Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004500-CH1-SW57</string>
+			<key>href</key>
+			<string>../CALayer_class/Introduction/Introduction.html#//apple_ref/doc/uid/TP40004500-CH1-SW57</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CALayer Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004505-CH1-DontLinkElementID_11</string>
+			<key>href</key>
+			<string>../../../Cocoa/Reference/CAMediaTimingFunction_class/Introduction/Introduction.html#//apple_ref/doc/uid/TP40004505-CH1-DontLinkElementID_11</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CAMediaTimingFunction Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004501-CH1-SW6</string>
+			<key>href</key>
+			<string>../CAOpenGLLayer_class/Introduction/Introduction.html#//apple_ref/doc/uid/TP40004501-CH1-SW6</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CAOpenGLLayer Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004502-CH1-DontLinkElementID_10</string>
+			<key>href</key>
+			<string>../CAPropertyAnimation_class/Introduction/Introduction.html#//apple_ref/doc/uid/TP40004502-CH1-DontLinkElementID_10</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CAPropertyAnimation Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004895-CH1-DontLinkElementID_19</string>
+			<key>href</key>
+			<string>../CARenderer_class/Introduction/Introduction.html#//apple_ref/doc/uid/TP40004895-CH1-DontLinkElementID_19</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CARenderer Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004503-CH1-DontLinkElementID_10</string>
+			<key>href</key>
+			<string>../CAScrollLayer_class/Introduction/Introduction.html#//apple_ref/doc/uid/TP40004503-CH1-DontLinkElementID_10</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CAScrollLayer Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004504-CH1-SW10</string>
+			<key>href</key>
+			<string>../CATextLayer_class/Introduction/Introduction.html#//apple_ref/doc/uid/TP40004504-CH1-SW10</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CATextLayer Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004896-CH1-DontLinkElementID_12</string>
+			<key>href</key>
+			<string>../CATiledLayer_class/Introduction/Introduction.html#//apple_ref/doc/uid/TP40004896-CH1-DontLinkElementID_12</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CATiledLayer Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004506-CH1-SW18</string>
+			<key>href</key>
+			<string>../CATransaction_class/Introduction/Introduction.html#//apple_ref/doc/uid/TP40004506-CH1-SW18</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CATransaction Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004507-CH1-DontLinkElementID_9</string>
+			<key>href</key>
+			<string>../CATransition_class/Introduction/Introduction.html#//apple_ref/doc/uid/TP40004507-CH1-DontLinkElementID_9</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CATransition Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40001309-BCIHFHHB</string>
+			<key>href</key>
+			<string>../QuartzCoreFramework/Classes/CIColor_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40001309-BCIHFHHB</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CIColor Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40001310-BCIHFHHB</string>
+			<key>href</key>
+			<string>../QuartzCoreFramework/Classes/CIContext_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40001310-BCIHFHHB</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CIContext Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40003960-RH2-BCIHFHHB</string>
+			<key>href</key>
+			<string>../QuartzCoreFramework/Classes/CIFilter_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40003960-RH2-BCIHFHHB</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CIFilter Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004493-CH1-DontLinkElementID_9</string>
+			<key>href</key>
+			<string>../CIFilter_CA_Additions/Introduction/Introduction.html#//apple_ref/doc/uid/TP40004493-CH1-DontLinkElementID_9</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CIFilter Core Animation Additions</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004671-CH3-BCIHFHHB</string>
+			<key>href</key>
+			<string>../CIFilterGenerator_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40004671-CH3-BCIHFHHB</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CIFilterGenerator Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40001312-BCIHFHHB</string>
+			<key>href</key>
+			<string>../QuartzCoreFramework/Classes/CIFilterShape_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40001312-BCIHFHHB</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CIFilterShape Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006665-BCIHFHHB</string>
+			<key>href</key>
+			<string>../QuartzCoreFramework/Classes/CIImage_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40006665-BCIHFHHB</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CIImage Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40003963-CH4g-BCIHFHHB</string>
+			<key>href</key>
+			<string>../QuartzCoreFramework/Classes/CIImageAccumulator_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40003963-CH4g-BCIHFHHB</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CIImageAccumulator Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40001314-BCIHFHHB</string>
+			<key>href</key>
+			<string>../QuartzCoreFramework/Classes/CIKernel_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40001314-BCIHFHHB</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CIKernel Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40001315-BCIHFHHB</string>
+			<key>href</key>
+			<string>../QuartzCoreFramework/Classes/CIPlugIn_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40001315-BCIHFHHB</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CIPlugIn Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40001316-BCIHFHHB</string>
+			<key>href</key>
+			<string>../QuartzCoreFramework/Classes/CISampler_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40001316-BCIHFHHB</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CISampler Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40001317-BCIHFHHB</string>
+			<key>href</key>
+			<string>../QuartzCoreFramework/Classes/CIVector_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40001317-BCIHFHHB</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CIVector Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004846-CH1-DontLinkElementID_9</string>
+			<key>href</key>
+			<string>../NSValue_CA_additions/Introduction/Introduction.html#//apple_ref/doc/uid/TP40004846-CH1-DontLinkElementID_9</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSValue Core Animation Additions</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004508-CH1-DontLinkElementID_5</string>
+			<key>href</key>
+			<string>../CAAction_protocol/Introduction/Introduction.html#//apple_ref/doc/uid/TP40004508-CH1-DontLinkElementID_5</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CAAction Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004509-CH1-DontLinkElementID_9</string>
+			<key>href</key>
+			<string>../CALayoutManager_protocol/Introduction/Introduction.html#//apple_ref/doc/uid/TP40004509-CH1-DontLinkElementID_9</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CALayoutManager Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004511-CH1-DontLinkElementID_14</string>
+			<key>href</key>
+			<string>../CAMediaTiming_protocol/Introduction/Introduction.html#//apple_ref/doc/uid/TP40004511-CH1-DontLinkElementID_14</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CAMediaTiming Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40003968-CH5g-BCIHFHHB</string>
+			<key>href</key>
+			<string>../QuartzCoreFramework/Protocols/CIImageProvider_Protocol/Reference/Reference.html#//apple_ref/doc/uid/TP40003968-CH5g-BCIHFHHB</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CIImageProvider Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40001318-BCIBCDJC</string>
+			<key>href</key>
+			<string>../QuartzCoreFramework/Protocols/CIPlugInRegistration_Protocol/Reference/Reference.html#//apple_ref/doc/uid/TP40001318-BCIBCDJC</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CIPlugInRegistration Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004512-DontLinkChapterID_1-DontLinkElementID_20</string>
+			<key>href</key>
+			<string>../../../Cocoa/Reference/CoreAnimation_functions/Reference/reference.html#//apple_ref/doc/uid/TP40004512-DontLinkChapterID_1-DontLinkElementID_20</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Core Animation Function Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004291-CH2-SW1</string>
+			<key>href</key>
+			<string>RevisionHistory.html#//apple_ref/doc/uid/TP40004291-CH2-SW1</string>
+			<key>isPart</key>
+			<false/>
+			<key>title</key>
+			<string>Revision History</string>
+		</dict>
+	</array>
+	<key>shouldDisplayTOC</key>
+	<false/>
+	<key>technology</key>
+	<string>Graphics &amp; Imaging</string>
+	<key>title</key>
+	<string>Quartz Core Framework Reference</string>
+	<key>type</key>
+	<string>Collection</string>
+	<key>uid</key>
+	<string>TP40004291</string>
+</dict>
+</plist>

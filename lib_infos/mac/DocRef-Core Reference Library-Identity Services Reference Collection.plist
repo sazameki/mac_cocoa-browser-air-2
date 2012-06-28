@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PDF</key>
+	<dict>
+		<key>href</key>
+		<string>IdentityServices_RefCollection.pdf</string>
+	</dict>
+	<key>assignments</key>
+	<array>
+		<string>Type/Reference</string>
+		<string>Framework/Core Services Layer/Collaboration</string>
+		<string>Topic/Networking, Internet, &amp; Web/Services &amp; Discovery</string>
+	</array>
+	<key>needsAdditionalLinksSeparator</key>
+	<false/>
+	<key>relatedBooks</key>
+	<array>
+		<dict>
+			<key>sections</key>
+			<array>
+				<dict>
+					<key>aref</key>
+					<string>//apple_ref/doc/uid/TP40004490</string>
+					<key>href</key>
+					<string>../../Conceptual/IdentityServices_ProgGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40004490</string>
+					<key>title</key>
+					<string>Identity Services Programming Guide</string>
+				</dict>
+			</array>
+			<key>title</key>
+			<string>COMPANION GUIDE</string>
+		</dict>
+	</array>
+	<key>sections</key>
+	<array>
+		<dict>
+			<key>aref</key>
+			<string></string>
+			<key>href</key>
+			<string>&lt;@@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Introduction</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40005341-CH3-DontLinkElementID_10</string>
+			<key>href</key>
+			<string>&lt;@//apple_ref/doc/uid/TP40005341-CH3-DontLinkElementID_10@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CBGroupIdentity Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40005287-CH3-DontLinkElementID_17</string>
+			<key>href</key>
+			<string>../CBIdentity_Ref/CBIdentity/CBIdentity.html#//apple_ref/doc/uid/TP40005287-CH3-DontLinkElementID_17</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CBIdentity Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40005290-CH3-DontLinkElementID_11</string>
+			<key>href</key>
+			<string>../CBIdentityAuthority_Ref/CBIdentityAuthority/CBIdentityAuthority.html#//apple_ref/doc/uid/TP40005290-CH3-DontLinkElementID_11</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CBIdentityAuthority Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40005291-CH3-DontLinkElementID_14</string>
+			<key>href</key>
+			<string>../CBIdentityPicker_Ref/CBIdentityPicker/CBIdentityPicker.html#//apple_ref/doc/uid/TP40005291-CH3-DontLinkElementID_14</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CBIdentityPicker Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40005340-CH3-DontLinkElementID_12</string>
+			<key>href</key>
+			<string>../CBUserIdentity/CBUserIdentity/CBUserIdentity.html#//apple_ref/doc/uid/TP40005340-CH3-DontLinkElementID_12</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CBUserIdentity Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40005498-CH2-DontLinkElementID_2</string>
+			<key>href</key>
+			<string>RevisionHistory.html#//apple_ref/doc/uid/TP40005498-CH2-DontLinkElementID_2</string>
+			<key>isPart</key>
+			<false/>
+			<key>title</key>
+			<string>Revision History</string>
+		</dict>
+	</array>
+	<key>shouldDisplayTOC</key>
+	<false/>
+	<key>technology</key>
+	<string>Networking</string>
+	<key>title</key>
+	<string>Identity Services Reference Collection</string>
+	<key>type</key>
+	<string>Collection</string>
+	<key>uid</key>
+	<string>TP40005498</string>
+</dict>
+</plist>

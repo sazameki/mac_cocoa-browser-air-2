@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PDF</key>
+	<dict>
+		<key>href</key>
+		<string>ScreenSaver_ObjC.pdf</string>
+	</dict>
+	<key>assignments</key>
+	<array>
+		<string>Type/Reference</string>
+		<string>Framework/Cocoa Layer/ScreenSaver</string>
+		<string>Topic/User Experience</string>
+	</array>
+	<key>needsAdditionalLinksSeparator</key>
+	<false/>
+	<key>relatedBooks</key>
+	<array/>
+	<key>sections</key>
+	<array>
+		<dict>
+			<key>aref</key>
+			<string></string>
+			<key>href</key>
+			<string>&lt;@@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Introduction</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001847-BABFGDAJ</string>
+			<key>href</key>
+			<string>&lt;@//apple_ref/doc/uid/20001847-BABFGDAJ@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>ScreenSaverDefaults Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001848-BABFGDAJ</string>
+			<key>href</key>
+			<string>../Classes/ScreenSaverView_Class/Reference/Reference.html#//apple_ref/doc/uid/20001848-BABFGDAJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>ScreenSaverView Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40003975-DontLinkChapterID_1-DontLinkElementID_8</string>
+			<key>href</key>
+			<string>../Miscellaneous/ScreenSaver_Functions/Reference/reference.html#//apple_ref/doc/uid/TP40003975-DontLinkChapterID_1-DontLinkElementID_8</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Screen Saver Functions Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001822-RH1-DontLinkElementID_1</string>
+			<key>href</key>
+			<string>History/History.html#//apple_ref/doc/uid/20001822-RH1-DontLinkElementID_1</string>
+			<key>isPart</key>
+			<false/>
+			<key>title</key>
+			<string>Revision History</string>
+		</dict>
+	</array>
+	<key>shouldDisplayTOC</key>
+	<false/>
+	<key>technology</key>
+	<string>Cocoa</string>
+	<key>title</key>
+	<string>Screen Saver Framework Reference</string>
+	<key>type</key>
+	<string>Collection</string>
+	<key>uid</key>
+	<string>20001822</string>
+</dict>
+</plist>

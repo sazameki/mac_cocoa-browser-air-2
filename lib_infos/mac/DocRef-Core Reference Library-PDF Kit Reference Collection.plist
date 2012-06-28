@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PDF</key>
+	<dict>
+		<key>href</key>
+		<string>PDFKit_Ref.pdf</string>
+	</dict>
+	<key>assignments</key>
+	<array>
+		<string>Type/Reference</string>
+		<string>Framework/Media Layer/Quartz</string>
+		<string>Topic/Graphics &amp; Animation/2D Drawing</string>
+	</array>
+	<key>needsAdditionalLinksSeparator</key>
+	<false/>
+	<key>relatedBooks</key>
+	<array>
+		<dict>
+			<key>sections</key>
+			<array>
+				<dict>
+					<key>aref</key>
+					<string>//apple_ref/doc/uid/TP40001863</string>
+					<key>href</key>
+					<string>../../Conceptual/PDFKitGuide/PDFKit_Prog_Intro/PDFKit_Prog_Intro.html#//apple_ref/doc/uid/TP40001863</string>
+					<key>title</key>
+					<string>PDF Kit Programming Guide</string>
+				</dict>
+			</array>
+			<key>title</key>
+			<string>COMPANION GUIDE</string>
+		</dict>
+	</array>
+	<key>sections</key>
+	<array>
+		<dict>
+			<key>aref</key>
+			<string></string>
+			<key>href</key>
+			<string>&lt;@@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Introduction</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006200-RH2-CJBIAEDJ</string>
+			<key>href</key>
+			<string>&lt;@//apple_ref/doc/uid/TP40006200-RH2-CJBIAEDJ@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>PDFAction Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006201-RH2-CJBIAEDJ</string>
+			<key>href</key>
+			<string>../PDFActionGoTo_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40006201-RH2-CJBIAEDJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>PDFActionGoTo Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006202-RH2-CJBIAEDJ</string>
+			<key>href</key>
+			<string>../PDFActionNamed_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40006202-RH2-CJBIAEDJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>PDFActionNamed Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006203-CH3-DontLinkElementID_13</string>
+			<key>href</key>
+			<string>../PDFActionRemoteGoTo_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40006203-CH3-DontLinkElementID_13</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>PDFActionRemoteGoTo Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006204-CH3-CJBIAEDJ</string>
+			<key>href</key>
+			<string>../PDFActionResetForm_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40006204-CH3-CJBIAEDJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>PDFActionResetForm Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006205-CH3-CJBIAEDJ</string>
+			<key>href</key>
+			<string>../PDFActionURL_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40006205-CH3-CJBIAEDJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>PDFActionURL Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40003860-RH2-CJBIAEDJ</string>
+			<key>href</key>
+			<string>../QuartzFramework/Classes/PDFAnnotation_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40003860-RH2-CJBIAEDJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>PDFAnnotation Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40003861-RH2-CJBIAEDJ</string>
+			<key>href</key>
+			<string>../QuartzFramework/Classes/PDFAnnotationButtonWidget_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40003861-RH2-CJBIAEDJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>PDFAnnotationButtonWidget Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006206-CH3-DontLinkElementID_24</string>
+			<key>href</key>
+			<string>../PDFAnnotationChoiceWidget_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40006206-CH3-DontLinkElementID_24</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>PDFAnnotationChoiceWidget Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40001341-CJBIAEDJ</string>
+			<key>href</key>
+			<string>../QuartzFramework/Classes/PDFAnnotationCircle_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40001341-CJBIAEDJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>PDFAnnotationCircle Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40003863-RH2-CJBIAEDJ</string>
+			<key>href</key>
+			<string>../QuartzFramework/Classes/PDFAnnotationFreeText_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40003863-RH2-CJBIAEDJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>PDFAnnotationFreeText Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40001343-CJBIAEDJ</string>
+			<key>href</key>
+			<string>../QuartzFramework/Classes/PDFAnnotationInk_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40001343-CJBIAEDJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>PDFAnnotationInk Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40003865-RH2-CJBIAEDJ</string>
+			<key>href</key>
+			<string>../QuartzFramework/Classes/PDFAnnotationLine_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40003865-RH2-CJBIAEDJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>PDFAnnotationLine Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40001345-CJBIAEDJ</string>
+			<key>href</key>
+			<string>../QuartzFramework/Classes/PDFAnnotationLink_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40001345-CJBIAEDJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>PDFAnnotationLink Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40001346-CJBIAEDJ</string>
+			<key>href</key>
+			<string>../QuartzFramework/Classes/PDFAnnotationMarkup_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40001346-CJBIAEDJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>PDFAnnotationMarkup Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006207-CH3-DontLinkElementID_6</string>
+			<key>href</key>
+			<string>../PDFAnnotationPopup_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40006207-CH3-DontLinkElementID_6</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>PDFAnnotationPopup Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40001348-CJBIAEDJ</string>
+			<key>href</key>
+			<string>../QuartzFramework/Classes/PDFAnnotationSquare_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40001348-CJBIAEDJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>PDFAnnotationSquare Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006208-CH3-CJBIAEDJ</string>
+			<key>href</key>
+			<string>../PDFAnnotationStamp_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40006208-CH3-CJBIAEDJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>PDFAnnotationStamp Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40003869-RH2-CJBIAEDJ</string>
+			<key>href</key>
+			<string>../QuartzFramework/Classes/PDFAnnotationText_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40003869-RH2-CJBIAEDJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>PDFAnnotationText Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40003870-RH2-CJBIAEDJ</string>
+			<key>href</key>
+			<string>../QuartzFramework/Classes/PDFAnnotationTextWidget_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40003870-RH2-CJBIAEDJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>PDFAnnotationTextWidget Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40001351-CJBIAEDJ</string>
+			<key>href</key>
+			<string>../QuartzFramework/Classes/PDFBorder_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40001351-CJBIAEDJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>PDFBorder Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40003872-RH2-CJBIAEDJ</string>
+			<key>href</key>
+			<string>../QuartzFramework/Classes/PDFDestination_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40003872-RH2-CJBIAEDJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>PDFDestination Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40003873-RH2-CJBIAEDJ</string>
+			<key>href</key>
+			<string>../QuartzFramework/Classes/PDFDocument_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40003873-RH2-CJBIAEDJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>PDFDocument Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40003874-RH2-CJBIAEDJ</string>
+			<key>href</key>
+			<string>../QuartzFramework/Classes/PDFOutline_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40003874-RH2-CJBIAEDJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>PDFOutline Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40003875-RH2-CJBIAEDJ</string>
+			<key>href</key>
+			<string>../QuartzFramework/Classes/PDFPage_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40003875-RH2-CJBIAEDJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>PDFPage Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40003876-RH2-CJBIAEDJ</string>
+			<key>href</key>
+			<string>../QuartzFramework/Classes/PDFSelection_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40003876-RH2-CJBIAEDJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>PDFSelection Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006209-CH3-DontLinkElementID_11</string>
+			<key>href</key>
+			<string>../PDFThumbnailView_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40006209-CH3-DontLinkElementID_11</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>PDFThumbnailView Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40003877-RH2-CJBIAEDJ</string>
+			<key>href</key>
+			<string>../QuartzFramework/Classes/PDFView_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40003877-RH2-CJBIAEDJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>PDFView Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40001179-RH1-DontLinkElementID_1</string>
+			<key>href</key>
+			<string>History/History.html#//apple_ref/doc/uid/TP40001179-RH1-DontLinkElementID_1</string>
+			<key>isPart</key>
+			<false/>
+			<key>title</key>
+			<string>Revision History</string>
+		</dict>
+	</array>
+	<key>shouldDisplayTOC</key>
+	<false/>
+	<key>technology</key>
+	<string>Graphics &amp; Imaging</string>
+	<key>title</key>
+	<string>PDF Kit Reference Collection</string>
+	<key>type</key>
+	<string>Collection</string>
+	<key>uid</key>
+	<string>TP40001179</string>
+</dict>
+</plist>

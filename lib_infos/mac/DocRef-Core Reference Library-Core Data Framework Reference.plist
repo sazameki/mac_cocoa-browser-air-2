@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PDF</key>
+	<dict>
+		<key>href</key>
+		<string>CoreData_ObjC.pdf</string>
+	</dict>
+	<key>assignments</key>
+	<array>
+		<string>Type/Reference</string>
+		<string>Framework/Core Services Layer/CoreData</string>
+		<string>Topic/Data Management</string>
+	</array>
+	<key>needsAdditionalLinksSeparator</key>
+	<false/>
+	<key>relatedBooks</key>
+	<array>
+		<dict>
+			<key>sections</key>
+			<array>
+				<dict>
+					<key>aref</key>
+					<string>//apple_ref/doc/uid/TP40001075</string>
+					<key>href</key>
+					<string>../../Conceptual/CoreData/cdProgrammingGuide.html#//apple_ref/doc/uid/TP40001075</string>
+					<key>title</key>
+					<string>Core Data Programming Guide</string>
+				</dict>
+			</array>
+			<key>title</key>
+			<string>COMPANION GUIDE</string>
+		</dict>
+	</array>
+	<key>sections</key>
+	<array>
+		<dict>
+			<key>aref</key>
+			<string></string>
+			<key>href</key>
+			<string>&lt;@@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Introduction</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004519-CH3-SW10</string>
+			<key>href</key>
+			<string>&lt;@//apple_ref/doc/uid/TP40004519-CH3-SW10@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSAtomicStore Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004520-CH3-DontLinkElementID_7</string>
+			<key>href</key>
+			<string>../NSAtomicStoreCacheNode_class/Reference/NSAtomicStoreCacheNode.html#//apple_ref/doc/uid/TP40004520-CH3-DontLinkElementID_7</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSAtomicStoreCacheNode Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP30001175-BBCBJBIF</string>
+			<key>href</key>
+			<string>../CoreDataFramework/Classes/NSAttributeDescription_Class/reference.html#//apple_ref/doc/uid/TP30001175-BBCBJBIF</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSAttributeDescription Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP30001173-BCIEIAGE</string>
+			<key>href</key>
+			<string>../CoreDataFramework/Classes/NSEntityDescription_Class/NSEntityDescription.html#//apple_ref/doc/uid/TP30001173-BCIEIAGE</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSEntityDescription Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004610-CH1-DontLinkElementID_8</string>
+			<key>href</key>
+			<string>../NSEntityMapping_class/Reference/NSEntityMapping.html#//apple_ref/doc/uid/TP40004610-CH1-DontLinkElementID_8</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSEntityMapping Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004612-CH1-SW8</string>
+			<key>href</key>
+			<string>../NSEntityMigrationPolicy_class/NSEntityMigrationPolicy.html#//apple_ref/doc/uid/TP40004612-CH1-SW8</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSEntityMigrationPolicy Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40007720-CH1-SW3</string>
+			<key>href</key>
+			<string>../NSExpressionDescription_Class/NSExpressionDescription.html#//apple_ref/doc/uid/TP40007720-CH1-SW3</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSExpressionDescription</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP30001181-BAJFJJAF</string>
+			<key>href</key>
+			<string>../CoreDataFramework/Classes/NSFetchedPropertyDescription_Class/Reference/Reference.html#//apple_ref/doc/uid/TP30001181-BAJFJJAF</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSFetchedPropertyDescription Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP30001170-BCIEIAGE</string>
+			<key>href</key>
+			<string>../CoreDataFramework/Classes/NSFetchRequest_Class/NSFetchRequest.html#//apple_ref/doc/uid/TP30001170-BCIEIAGE</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSFetchRequest Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004614-CH1-DontLinkElementID_8</string>
+			<key>href</key>
+			<string>../NSFetchRequestExpression_class/Reference/NSFetchRequestExpression.html#//apple_ref/doc/uid/TP40004614-CH1-DontLinkElementID_8</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSFetchRequestExpression Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP30001171-BCIEIAGE</string>
+			<key>href</key>
+			<string>../CoreDataFramework/Classes/NSManagedObject_Class/Reference/NSManagedObject.html#//apple_ref/doc/uid/TP30001171-BCIEIAGE</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSManagedObject Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP30001182-BAJFJJAF</string>
+			<key>href</key>
+			<string>../CoreDataFramework/Classes/NSManagedObjectContext_Class/NSManagedObjectContext.html#//apple_ref/doc/uid/TP30001182-BAJFJJAF</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSManagedObjectContext Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP30001172-BCIEIAGE</string>
+			<key>href</key>
+			<string>../CoreDataFramework/Classes/NSManagedObjectID_Class/Reference/NSManagedObjectID.html#//apple_ref/doc/uid/TP30001172-BCIEIAGE</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSManagedObjectID Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP30001174-BCIEIAGE</string>
+			<key>href</key>
+			<string>../CoreDataFramework/Classes/NSManagedObjectModel_Class/Reference/Reference.html#//apple_ref/doc/uid/TP30001174-BCIEIAGE</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSManagedObjectModel Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004609-CH1-SW6</string>
+			<key>href</key>
+			<string>../NSMappingModel_class/NSMappingModel.html#//apple_ref/doc/uid/TP40004609-CH1-SW6</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSMappingModel Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004613-CH1-DontLinkElementID_12</string>
+			<key>href</key>
+			<string>../NSMigrationManager_class/Reference/NSMigrationManager.html#//apple_ref/doc/uid/TP40004613-CH1-DontLinkElementID_12</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSMigrationManager Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004913-CH3-SW11</string>
+			<key>href</key>
+			<string>../NSPersistentStore_Class/NSPersistentStore.html#//apple_ref/doc/uid/TP40004913-CH3-SW11</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSPersistentStore Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP30001180-BAJFJJAF</string>
+			<key>href</key>
+			<string>../CoreDataFramework/Classes/NSPersistentStoreCoordinator_Class/NSPersistentStoreCoordinator.html#//apple_ref/doc/uid/TP30001180-BAJFJJAF</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSPersistentStoreCoordinator Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP30001178-BAJBJJEG</string>
+			<key>href</key>
+			<string>../CoreDataFramework/Classes/NSPropertyDescription_Class/NSPropertyDescription.html#//apple_ref/doc/uid/TP30001178-BAJBJJEG</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSPropertyDescription Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004611-CH1-DontLinkElementID_5</string>
+			<key>href</key>
+			<string>../NSPropertyMapping_class/Reference/NSPropertyMapping.html#//apple_ref/doc/uid/TP40004611-CH1-DontLinkElementID_5</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSPropertyMapping Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP30001176-BAJGGJID</string>
+			<key>href</key>
+			<string>../CoreDataFramework/Classes/NSRelationshipDescription_Class/Reference/Reference.html#//apple_ref/doc/uid/TP30001176-BAJGGJID</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSRelationshipDescription Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40003614-DontLinkChapterID_1-DontLinkElementID_1</string>
+			<key>href</key>
+			<string>../CoreDataFramework/Miscellaneous/CoreData_Constants/Reference/reference.html#//apple_ref/doc/uid/TP40003614-DontLinkChapterID_1-DontLinkElementID_1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Core Data Constants Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40001181-RH1-DontLinkElementID_1</string>
+			<key>href</key>
+			<string>history.html#//apple_ref/doc/uid/TP40001181-RH1-DontLinkElementID_1</string>
+			<key>isPart</key>
+			<false/>
+			<key>title</key>
+			<string>Revision History</string>
+		</dict>
+	</array>
+	<key>shouldDisplayTOC</key>
+	<false/>
+	<key>technology</key>
+	<string>Cocoa</string>
+	<key>title</key>
+	<string>Core Data Framework Reference</string>
+	<key>type</key>
+	<string>Collection</string>
+	<key>uid</key>
+	<string>TP40001181</string>
+</dict>
+</plist>

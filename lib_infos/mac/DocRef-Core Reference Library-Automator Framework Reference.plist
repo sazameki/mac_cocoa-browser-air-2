@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PDF</key>
+	<dict>
+		<key>href</key>
+		<string>AutomatorReference.pdf</string>
+	</dict>
+	<key>assignments</key>
+	<array>
+		<string>Type/Reference</string>
+		<string>Framework/Core Services Layer/Automator</string>
+		<string>Topic/Interapplication Communication</string>
+	</array>
+	<key>needsAdditionalLinksSeparator</key>
+	<false/>
+	<key>relatedBooks</key>
+	<array>
+		<dict>
+			<key>sections</key>
+			<array>
+				<dict>
+					<key>aref</key>
+					<string>//apple_ref/doc/uid/TP40001450</string>
+					<key>href</key>
+					<string>../../Conceptual/AutomatorConcepts/Automator.html#//apple_ref/doc/uid/TP40001450</string>
+					<key>title</key>
+					<string>Automator Programming Guide</string>
+				</dict>
+			</array>
+			<key>title</key>
+			<string>COMPANION GUIDE</string>
+		</dict>
+	</array>
+	<key>sections</key>
+	<array>
+		<dict>
+			<key>aref</key>
+			<string></string>
+			<key>href</key>
+			<string>&lt;@@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Introduction</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40001597-BAJFEHJE</string>
+			<key>href</key>
+			<string>&lt;@//apple_ref/doc/uid/TP40001597-BAJFEHJE@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>AMAction Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40001599-BAJFEHJE</string>
+			<key>href</key>
+			<string>../AutomatorFramework/Classes/AMAppleScriptAction_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40001599-BAJFEHJE</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>AMAppleScriptAction Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40001598-BAJFEHJE</string>
+			<key>href</key>
+			<string>../AutomatorFramework/Classes/AMBundleAction_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40001598-BAJFEHJE</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>AMBundleAction Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40002144-BAJFEHJE</string>
+			<key>href</key>
+			<string>../AutomatorFramework/Classes/AMShellScriptAction_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40002144-BAJFEHJE</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>AMShellScriptAction Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004616-RH2-BABGGFFA</string>
+			<key>href</key>
+			<string>../AMWorkflow_class/Reference/Reference.html#//apple_ref/doc/uid/TP40004616-RH2-BABGGFFA</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>AMWorkflow Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004617-RH2-BABGGFFA</string>
+			<key>href</key>
+			<string>../AMWorkflowController_class/Reference/Reference.html#//apple_ref/doc/uid/TP40004617-RH2-BABGGFFA</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>AMWorkflowController Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004923-CH1-DontLinkElementID_10</string>
+			<key>href</key>
+			<string>../AMWorkflowView_Class/Reference/Introduction.html#//apple_ref/doc/uid/TP40004923-CH1-DontLinkElementID_10</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>AMWorkflowView Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004647-DontLinkChapterID_1-DontLinkElementID_4</string>
+			<key>href</key>
+			<string>../Automator_constants/Reference/reference.html#//apple_ref/doc/uid/TP40004647-DontLinkChapterID_1-DontLinkElementID_4</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Automator Constants Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40001452-RH1-DontLinkElementID_1</string>
+			<key>href</key>
+			<string>History/History.html#//apple_ref/doc/uid/TP40001452-RH1-DontLinkElementID_1</string>
+			<key>isPart</key>
+			<false/>
+			<key>title</key>
+			<string>Revision History</string>
+		</dict>
+	</array>
+	<key>shouldDisplayTOC</key>
+	<false/>
+	<key>technology</key>
+	<string>Apple Applications</string>
+	<key>title</key>
+	<string>Automator Framework Reference</string>
+	<key>type</key>
+	<string>Collection</string>
+	<key>uid</key>
+	<string>TP40001452</string>
+</dict>
+</plist>

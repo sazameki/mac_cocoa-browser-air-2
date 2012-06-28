@@ -1,0 +1,744 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PDF</key>
+	<dict>
+		<key>href</key>
+		<string>AVFoundationFramework.pdf</string>
+	</dict>
+	<key>assignments</key>
+	<array>
+		<string>Type/Reference</string>
+		<string>Framework/Media Layer/AVFoundation</string>
+		<string>Topic/Audio &amp; Video</string>
+	</array>
+	<key>needsAdditionalLinksSeparator</key>
+	<false/>
+	<key>relatedBooks</key>
+	<array/>
+	<key>sections</key>
+	<array>
+		<dict>
+			<key>aref</key>
+			<string></string>
+			<key>href</key>
+			<string>&lt;@@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Introduction</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009508-CH1-SW6</string>
+			<key>href</key>
+			<string>&lt;@//apple_ref/doc/uid/TP40009508-CH1-SW6@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>AVAsset Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009513-CH1-SW1</string>
+			<key>href</key>
+			<string>../AVAssetExportSession_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40009513-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>AVAssetExportSession Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009514-CH1-SW1</string>
+			<key>href</key>
+			<string>../AVAssetImageGenerator_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40009514-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>AVAssetImageGenerator Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009515-CH1-SW1</string>
+			<key>href</key>
+			<string>../AVAssetReader_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40009515-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>AVAssetReader Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009689-CH1-SW6</string>
+			<key>href</key>
+			<string>../AVAssetReaderAudioMixOutput_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40009689-CH1-SW6</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>AVAssetReaderAudioMixOutput Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009516-CH1-SW1</string>
+			<key>href</key>
+			<string>../AVAssetReaderOutput_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40009516-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>AVAssetReaderOutput Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009691-CH1-SW6</string>
+			<key>href</key>
+			<string>../AVAssetReaderTrackOutput_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40009691-CH1-SW6</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>AVAssetReaderTrackOutput Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009690-CH1-SW6</string>
+			<key>href</key>
+			<string>../AVAssetReaderVideoCompositionOutput_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40009690-CH1-SW6</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>AVAssetReaderVideoCompositionOutput Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009517-CH1-SW1</string>
+			<key>href</key>
+			<string>../AVAssetTrack_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40009517-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>AVAssetTrack Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009611-CH1-SW1</string>
+			<key>href</key>
+			<string>../AVAssetTrackSegment_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40009611-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>AVAssetTrackSegment Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009518-CH1-SW1</string>
+			<key>href</key>
+			<string>../AVAssetWriter_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40009518-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>AVAssetWriter Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009519-CH1-SW1</string>
+			<key>href</key>
+			<string>../AVAssetWriterInput_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40009519-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>AVAssetWriterInput Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40010169-CH1-SW6</string>
+			<key>href</key>
+			<string>../AVAssetWriterInputPixelBufferAdaptor_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40010169-CH1-SW6</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>AVAssetWriterInputPixelBufferAdaptor Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009736-CH1-SW1</string>
+			<key>href</key>
+			<string>../AVAudioMix_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40009736-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>AVAudioMix Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009742-CH1-SW1</string>
+			<key>href</key>
+			<string>../AVAudioMixInputParameters_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40009742-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>AVAudioMixInputParameters Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008067-CH1-SW9</string>
+			<key>href</key>
+			<string>../AVAudioPlayerClassReference/Reference/Reference.html#//apple_ref/doc/uid/TP40008067-CH1-SW9</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>AVAudioPlayer Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008238-CH1-SW13</string>
+			<key>href</key>
+			<string>../AVAudioRecorder_ClassReference/Reference/Reference.html#//apple_ref/doc/uid/TP40008238-CH1-SW13</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>AVAudioRecorder Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009547-CH1-SW1</string>
+			<key>href</key>
+			<string>../AVCaptureAudioDataOutput_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40009547-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>AVCaptureAudioDataOutput Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009522-CH1-SW1</string>
+			<key>href</key>
+			<string>../AVCaptureConnection_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40009522-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>AVCaptureConnection Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009520-CH1-SW1</string>
+			<key>href</key>
+			<string>../AVCaptureDevice_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40009520-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>AVCaptureDevice Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009550-CH1-SW1</string>
+			<key>href</key>
+			<string>../AVCaptureFileOutput_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40009550-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>AVCaptureFileOutput Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009538-CH1-SW1</string>
+			<key>href</key>
+			<string>../AVCaptureInput_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40009538-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>AVCaptureInput Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009551-CH1-SW1</string>
+			<key>href</key>
+			<string>../AVCaptureMovieFileOutput_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40009551-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>AVCaptureMovieFileOutput Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009543-CH1-SW1</string>
+			<key>href</key>
+			<string>../AVCaptureOutput_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40009543-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>AVCaptureOutput Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009521-CH1-SW1</string>
+			<key>href</key>
+			<string>../AVCaptureSession_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40009521-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>AVCaptureSession Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009552-CH1-SW1</string>
+			<key>href</key>
+			<string>../AVCaptureStillImageOutput_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40009552-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>AVCaptureStillImageOutput Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009544-CH1-SW1</string>
+			<key>href</key>
+			<string>../AVCaptureVideoDataOutput_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40009544-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>AVCaptureVideoDataOutput Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009524-CH1-SW1</string>
+			<key>href</key>
+			<string>../AVCaptureVideoPreviewLayer_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40009524-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>AVCaptureVideoPreviewLayer Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009525-CH1-SW1</string>
+			<key>href</key>
+			<string>../AVComposition_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40009525-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>AVComposition Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009527-CH1-SW1</string>
+			<key>href</key>
+			<string>../AVCompositionTrack_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40009527-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>AVCompositionTrack Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009612-CH1-SW1</string>
+			<key>href</key>
+			<string>../AVCompositionTrackSegment_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40009612-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>AVCompositionTrackSegment Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009636-CH1-SW1</string>
+			<key>href</key>
+			<string>../AVMetadataItem_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40009636-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>AVMetadataItem Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009740-CH1-SW1</string>
+			<key>href</key>
+			<string>../AVMutableAudioMix_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40009740-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>AVMutableAudioMix Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009741-CH1-SW1</string>
+			<key>href</key>
+			<string>../AVMutableAudioMixInputParameters_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40009741-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>AVMutableAudioMixInputParameters Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009526-CH1-SW1</string>
+			<key>href</key>
+			<string>../AVMutableComposition_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40009526-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>AVMutableComposition Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009528-CH1-SW1</string>
+			<key>href</key>
+			<string>../AVMutableCompositionTrack_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40009528-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>AVMutableCompositionTrack Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009637-CH1-SW1</string>
+			<key>href</key>
+			<string>../AVMutableMetadataItem_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40009637-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>AVMutableMetadataItem Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40010605-CH1-SW1</string>
+			<key>href</key>
+			<string>../AVMutableTimedMetadataGroup_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40010605-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>AVMutableTimedMetadataGroup Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009643-CH1-SW1</string>
+			<key>href</key>
+			<string>../AVMutableVideoComposition_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40009643-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>AVMutableVideoComposition Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009783-CH1-SW1</string>
+			<key>href</key>
+			<string>../AVMutableVideoCompositionInstruction_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40009783-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>AVMutableVideoCompositionInstruction Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009795-CH1-SW1</string>
+			<key>href</key>
+			<string>../AVMutableVideoCompositionLayerInstruction_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40009795-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>AVMutableVideoCompositionLayerInstruction Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009530-CH1-SW1</string>
+			<key>href</key>
+			<string>../AVPlayer_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40009530-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>AVPlayer Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009532-CH1-SW1</string>
+			<key>href</key>
+			<string>../AVPlayerItem_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40009532-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>AVPlayerItem Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40010606-CH1-SW1</string>
+			<key>href</key>
+			<string>../AVPlayerItemAccessLog_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40010606-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>AVPlayerItemAccessLog Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40010607-CH1-SW1</string>
+			<key>href</key>
+			<string>../AVPlayerItemAccessLogEvent_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40010607-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>AVPlayerItemAccessLogEvent Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40010608-CH1-SW1</string>
+			<key>href</key>
+			<string>../AVPlayerItemErrorLog_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40010608-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>AVPlayerItemErrorLog Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40010609-CH1-SW1</string>
+			<key>href</key>
+			<string>../AVPlayerItemErrorLogEvent_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40010609-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>AVPlayerItemErrorLogEvent Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009737-CH1-SW1</string>
+			<key>href</key>
+			<string>../AVPlayerItemTrack_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40009737-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>AVPlayerItemTrack Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009738-CH1-SW1</string>
+			<key>href</key>
+			<string>../AVPlayerLayer_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40009738-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>AVPlayerLayer Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40010168-CH1-SW6</string>
+			<key>href</key>
+			<string>../AVQueuePlayer_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40010168-CH1-SW6</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>AVQueuePlayer Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009537-CH1-SW1</string>
+			<key>href</key>
+			<string>../AVSynchronizedLayer_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40009537-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>AVSynchronizedLayer Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40010610-CH1-SW1</string>
+			<key>href</key>
+			<string>../AVTimedMetadataGroup_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40010610-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>AVTimedMetadataGroup Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009682-CH1-SW6</string>
+			<key>href</key>
+			<string>../AVURLAsset_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40009682-CH1-SW6</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>AVURLAsset Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009642-CH1-SW1</string>
+			<key>href</key>
+			<string>../AVVideoComposition_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40009642-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>AVVideoComposition Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009644-CH1-SW1</string>
+			<key>href</key>
+			<string>../AVVideoCompositionInstruction_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40009644-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>AVVideoCompositionInstruction Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009536-CH1-SW1</string>
+			<key>href</key>
+			<string>../NSCoder_AVFoundation_Additions/Reference/Reference.html#//apple_ref/doc/uid/TP40009536-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSCoder AV Foundation Additions Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009535-CH1-SW1</string>
+			<key>href</key>
+			<string>../NSValue_AVFoundation_Additions/Reference/Reference.html#//apple_ref/doc/uid/TP40009535-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSValue AV Foundation Additions Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009779-CH1-SW1</string>
+			<key>href</key>
+			<string>../AVAsynchronousKeyValueLoading_Protocol/Reference/Reference.html#//apple_ref/doc/uid/TP40009779-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>AVAsynchronousKeyValueLoading Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008068-CH1-SW3</string>
+			<key>href</key>
+			<string>../AVAudioPlayerDelegateProtocolReference/Reference/Reference.html#//apple_ref/doc/uid/TP40008068-CH1-SW3</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>AVAudioPlayerDelegate Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008239-CH1-SW2</string>
+			<key>href</key>
+			<string>../AVAudioRecorderDelegate_ProtocolReference/Reference/Reference.html#//apple_ref/doc/uid/TP40008239-CH1-SW2</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>AVAudioRecorderDelegate Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009743-CH1-SW1</string>
+			<key>href</key>
+			<string>../AVCaptureAudioDataOutputSampleBufferDelegate_Protocol/Reference/Reference.html#//apple_ref/doc/uid/TP40009743-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>AVCaptureAudioDataOutputSampleBufferDelegate Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009549-CH1-SW1</string>
+			<key>href</key>
+			<string>../AVCaptureFileOutputRecordingDelegate_Protocol/Reference/Reference.html#//apple_ref/doc/uid/TP40009549-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>AVCaptureFileOutputRecordingDelegate Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009540-DontLinkChapterID_1-DontLinkElementID_3</string>
+			<key>href</key>
+			<string>../AVFoundation_Functions/Reference/reference.html#//apple_ref/doc/uid/TP40009540-DontLinkChapterID_1-DontLinkElementID_3</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>AV Foundation Functions Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009937-DontLinkChapterID_1-DontLinkElementID_2</string>
+			<key>href</key>
+			<string>../AVFoundationAudioSettings_Constants/Reference/reference.html#//apple_ref/doc/uid/TP40009937-DontLinkChapterID_1-DontLinkElementID_2</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>AV Foundation Audio Settings Constants</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009539-DontLinkChapterID_1-DontLinkElementID_1</string>
+			<key>href</key>
+			<string>../AVFoundation_Constants/Reference/reference.html#//apple_ref/doc/uid/TP40009539-DontLinkChapterID_1-DontLinkElementID_1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>AV Foundation Constants Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009935-DontLinkChapterID_1-DontLinkElementID_1</string>
+			<key>href</key>
+			<string>../AVFoundation_ErrorConstants/Reference/reference.html#//apple_ref/doc/uid/TP40009935-DontLinkChapterID_1-DontLinkElementID_1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>AV Foundation Error Constants</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009953-DontLinkChapterID_1-DontLinkElementID_1</string>
+			<key>href</key>
+			<string>../AVFoundation_ID3Constants/Reference/reference.html#//apple_ref/doc/uid/TP40009953-DontLinkChapterID_1-DontLinkElementID_1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>AV Foundation ID3 Constants</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009951-DontLinkChapterID_1-DontLinkElementID_1</string>
+			<key>href</key>
+			<string>../AVFoundation_iTunesMetadataConstants/Reference/reference.html#//apple_ref/doc/uid/TP40009951-DontLinkChapterID_1-DontLinkElementID_1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>AV Foundation iTunes Metadata Constants</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009952-DontLinkChapterID_1-DontLinkElementID_1</string>
+			<key>href</key>
+			<string>../AVFoundation_QuickTimeConstants/Reference/reference.html#//apple_ref/doc/uid/TP40009952-DontLinkChapterID_1-DontLinkElementID_1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>AV Foundation QuickTime Constants</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008072-CH2-SW1</string>
+			<key>href</key>
+			<string>RevisionHistory.html#//apple_ref/doc/uid/TP40008072-CH2-SW1</string>
+			<key>isPart</key>
+			<false/>
+			<key>title</key>
+			<string>Revision History</string>
+		</dict>
+	</array>
+	<key>shouldDisplayTOC</key>
+	<false/>
+	<key>technology</key>
+	<string>Audio</string>
+	<key>title</key>
+	<string>AV Foundation Framework Reference</string>
+	<key>type</key>
+	<string>Collection</string>
+	<key>uid</key>
+	<string>TP40008072</string>
+</dict>
+</plist>

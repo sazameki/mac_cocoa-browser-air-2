@@ -1,0 +1,1367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PDF</key>
+	<dict>
+		<key>href</key>
+		<string>FoundationObjC.pdf</string>
+	</dict>
+	<key>assignments</key>
+	<array>
+		<string>Type/Reference</string>
+		<string>Framework/Core Services Layer/Foundation</string>
+	</array>
+	<key>needsAdditionalLinksSeparator</key>
+	<false/>
+	<key>relatedBooks</key>
+	<array>
+		<dict>
+			<key>sections</key>
+			<array>
+				<dict>
+					<key>aref</key>
+					<string>//apple_ref/doc/uid/TP40002974</string>
+					<key>href</key>
+					<string>../../../Conceptual/CocoaFundamentals/Introduction/Introduction.html#//apple_ref/doc/uid/TP40002974</string>
+					<key>title</key>
+					<string>Cocoa Fundamentals Guide</string>
+				</dict>
+				<dict>
+					<key>aref</key>
+					<string>//apple_ref/doc/uid/TP30000742</string>
+					<key>href</key>
+					<string>../../../../../releasenotes/Cocoa/Foundation.html#//apple_ref/doc/uid/TP30000742</string>
+					<key>title</key>
+					<string>Foundation Release Notes</string>
+				</dict>
+			</array>
+			<key>title</key>
+			<string>COMPANION GUIDES</string>
+		</dict>
+	</array>
+	<key>sections</key>
+	<array>
+		<dict>
+			<key>aref</key>
+			<string></string>
+			<key>href</key>
+			<string>&lt;@@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Introduction</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20000137-BCIHFHHB</string>
+			<key>href</key>
+			<string>&lt;@//apple_ref/doc/uid/20000137-BCIHFHHB@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSArray Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20000066-DontLinkElementID_7</string>
+			<key>href</key>
+			<string>../Classes/NSAssertionHandler_Class/Reference/Reference.html#//apple_ref/doc/uid/20000066-DontLinkElementID_7</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSAssertionHandler Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20000166-BAJGHFIF</string>
+			<key>href</key>
+			<string>../Classes/NSAttributedString_Class/Reference/Reference.html#//apple_ref/doc/uid/20000166-BAJGHFIF</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSAttributedString Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20000051-BAJGFIEB</string>
+			<key>href</key>
+			<string>../Classes/NSAutoreleasePool_Class/Reference/Reference.html#//apple_ref/doc/uid/20000051-BAJGFIEB</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSAutoreleasePool Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008157-CH1-SW2</string>
+			<key>href</key>
+			<string>../../NSBlockOperation_class/Reference/Reference.html#//apple_ref/doc/uid/TP40008157-CH1-SW2</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSBlockOperation Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20000214-BCIEIAGE</string>
+			<key>href</key>
+			<string>../Classes/NSBundle_Class/Reference/Reference.html#//apple_ref/doc/uid/20000214-BCIEIAGE</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSBundle Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008976-CH1-SW15</string>
+			<key>href</key>
+			<string>../../NSCache_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40008976-CH1-SW15</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSCache Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001698-CJBIAEDJ</string>
+			<key>href</key>
+			<string>../Classes/NSCachedURLResponse_Class/Reference/Reference.html#//apple_ref/doc/uid/20001698-CJBIAEDJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSCachedURLResponse Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40001451-BCIJAFCG</string>
+			<key>href</key>
+			<string>../Classes/NSCalendar_Class/Reference/NSCalendar.html#//apple_ref/doc/uid/TP40001451-BCIJAFCG</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSCalendar Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20000157-BBCDFEHE</string>
+			<key>href</key>
+			<string>../Classes/NSCharacterSet_Class/Reference/Reference.html#//apple_ref/doc/uid/20000157-BBCDFEHE</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSCharacterSet Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20000293-BCIIDGBI</string>
+			<key>href</key>
+			<string>../Classes/NSCoder_Class/Reference/NSCoder.html#//apple_ref/doc/uid/20000293-BCIIDGBI</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSCoder Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP30001189-BAJCECEI</string>
+			<key>href</key>
+			<string>../Classes/NSComparisonPredicate_Class/Reference/NSComparisonPredicate.html#//apple_ref/doc/uid/TP30001189-BAJCECEI</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSComparisonPredicate Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP30001188-BAJCECEI</string>
+			<key>href</key>
+			<string>../Classes/NSCompoundPredicate_Class/Reference/Reference.html#//apple_ref/doc/uid/TP30001188-BAJCECEI</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSCompoundPredicate Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004593-RH2-BABECICG</string>
+			<key>href</key>
+			<string>../../NSCondition_class/Reference/Reference.html#//apple_ref/doc/uid/TP40004593-RH2-BABECICG</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSCondition Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20000315-BBCGICHD</string>
+			<key>href</key>
+			<string>../Classes/NSConditionLock_Class/Reference/Reference.html#//apple_ref/doc/uid/20000315-BBCGICHD</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSConditionLock Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20000139-SW1</string>
+			<key>href</key>
+			<string>../Classes/NSCountedSet_Class/Reference/Reference.html#//apple_ref/doc/uid/20000139-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSCountedSet Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20000172-BBCHAGJD</string>
+			<key>href</key>
+			<string>../Classes/NSData_Class/Reference/Reference.html#//apple_ref/doc/uid/20000172-BBCHAGJD</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSData Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009936-CH1-SW4</string>
+			<key>href</key>
+			<string>../../../../Foundation/Reference/NSDataDetector_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40009936-CH1-SW4</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSDataDetector Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20000188-BBCGJFHA</string>
+			<key>href</key>
+			<string>../Classes/NSDate_Class/Reference/Reference.html#//apple_ref/doc/uid/20000188-BBCGJFHA</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSDate Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40001502-BCIJAFCG</string>
+			<key>href</key>
+			<string>../Classes/NSDateComponents_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40001502-BCIJAFCG</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSDateComponents Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20000447-BCIJAFCG</string>
+			<key>href</key>
+			<string>../Classes/NSDateFormatter_Class/Reference/Reference.html#//apple_ref/doc/uid/20000447-BCIJAFCG</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSDateFormatter Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20000179-BCIJCEIH</string>
+			<key>href</key>
+			<string>../Classes/NSDecimalNumber_Class/Reference/Reference.html#//apple_ref/doc/uid/20000179-BCIJCEIH</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSDecimalNumber Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20000180-BBCFIFIC</string>
+			<key>href</key>
+			<string>../Classes/NSDecimalNumberHandler_Class/Reference/Reference.html#//apple_ref/doc/uid/20000180-BBCFIFIC</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSDecimalNumberHandler Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20000140-BCIDBAGC</string>
+			<key>href</key>
+			<string>../Classes/NSDictionary_Class/Reference/Reference.html#//apple_ref/doc/uid/20000140-BCIDBAGC</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSDictionary Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20000307-SW1</string>
+			<key>href</key>
+			<string>../Classes/NSDirectoryEnumerator_Class/Reference/Reference.html#//apple_ref/doc/uid/20000307-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSDirectoryEnumerator Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20000142-DontLinkElementID_5</string>
+			<key>href</key>
+			<string>../Classes/NSEnumerator_Class/Reference/Reference.html#//apple_ref/doc/uid/20000142-DontLinkElementID_5</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSEnumerator Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001704-CJBIAEDJ</string>
+			<key>href</key>
+			<string>../Classes/NSError_Class/Reference/Reference.html#//apple_ref/doc/uid/20001704-CJBIAEDJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSError Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20000061-BCIEAACF</string>
+			<key>href</key>
+			<string>../Classes/NSException_Class/Reference/Reference.html#//apple_ref/doc/uid/20000061-BCIEAACF</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSException Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP30001190-BAJCECEI</string>
+			<key>href</key>
+			<string>../Classes/NSExpression_Class/Reference/NSExpression.html#//apple_ref/doc/uid/TP30001190-BAJCECEI</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSExpression Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20000304-SW1</string>
+			<key>href</key>
+			<string>../Classes/NSFileHandle_Class/Reference/Reference.html#//apple_ref/doc/uid/20000304-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSFileHandle Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20000305-CJBEJDCD</string>
+			<key>href</key>
+			<string>../Classes/NSFileManager_Class/Reference/Reference.html#//apple_ref/doc/uid/20000305-CJBEJDCD</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSFileManager Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20000310-BAJIHBIJ</string>
+			<key>href</key>
+			<string>../../ApplicationKit/Classes/NSFileWrapper_Class/Reference/Reference.html#//apple_ref/doc/uid/20000310-BAJIHBIJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSFileWrapper Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20000204-BCIFCFEH</string>
+			<key>href</key>
+			<string>../Classes/NSFormatter_Class/Reference/Reference.html#//apple_ref/doc/uid/20000204-BCIFCFEH</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSFormatter Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001702-CJBIAEDJ</string>
+			<key>href</key>
+			<string>../Classes/NSHTTPCookie_Class/Reference/Reference.html#//apple_ref/doc/uid/20001702-CJBIAEDJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSHTTPCookie Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001703-CJBIAEDJ</string>
+			<key>href</key>
+			<string>../Classes/NSHTTPCookieStorage_Class/Reference/Reference.html#//apple_ref/doc/uid/20001703-CJBIAEDJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSHTTPCookieStorage Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001694-CJBIAEDJ</string>
+			<key>href</key>
+			<string>../Classes/NSHTTPURLResponse_Class/Reference/Reference.html#//apple_ref/doc/uid/20001694-CJBIAEDJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSHTTPURLResponse Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40001505-CJBIAEDJ</string>
+			<key>href</key>
+			<string>../Classes/NSIndexPath_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40001505-CJBIAEDJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSIndexPath Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20002197-SW1</string>
+			<key>href</key>
+			<string>../Classes/NSIndexSet_Class/Reference/Reference.html#//apple_ref/doc/uid/20002197-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSIndexSet Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001982-CJBCFACB</string>
+			<key>href</key>
+			<string>../Classes/NSInputStream_Class/Reference/Reference.html#//apple_ref/doc/uid/20001982-CJBCFACB</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSInputStream Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20000212-BCIHIEHE</string>
+			<key>href</key>
+			<string>../Classes/NSInvocation_Class/Reference/Reference.html#//apple_ref/doc/uid/20000212-BCIHIEHE</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSInvocation Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40005505-RH2-BABECICG</string>
+			<key>href</key>
+			<string>../../NSInvocationOperation_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40005505-RH2-BABECICG</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSInvocationOperation Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20000837-BCIIDGBI</string>
+			<key>href</key>
+			<string>../Classes/NSKeyedArchiver_Class/Reference/Reference.html#//apple_ref/doc/uid/20000837-BCIIDGBI</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSKeyedArchiver Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20000838-BCIIDGBI</string>
+			<key>href</key>
+			<string>../Classes/NSKeyedUnarchiver_Class/Reference/Reference.html#//apple_ref/doc/uid/20000838-BCIIDGBI</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSKeyedUnarchiver Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP30001224-BCIJAFCG</string>
+			<key>href</key>
+			<string>../Classes/NSLocale_Class/Reference/Reference.html#//apple_ref/doc/uid/TP30001224-BCIJAFCG</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSLocale Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20000312-BBCDCJFE</string>
+			<key>href</key>
+			<string>../Classes/NSLock_Class/Reference/Reference.html#//apple_ref/doc/uid/20000312-BBCDCJFE</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSLock Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20000414-SW2</string>
+			<key>href</key>
+			<string>../Classes/NSMachPort_Class/Reference/Reference.html#//apple_ref/doc/uid/20000414-SW2</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSMachPort Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20000415-DontLinkElementID_2</string>
+			<key>href</key>
+			<string>../Classes/NSMessagePort_Class/Reference/Reference.html#//apple_ref/doc/uid/20000415-DontLinkElementID_2</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSMessagePort Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20000417-BAJIDJED</string>
+			<key>href</key>
+			<string>../Classes/NSMethodSignature_Class/Reference/Reference.html#//apple_ref/doc/uid/20000417-BAJIDJED</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSMethodSignature Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20000138-BAJIEFEB</string>
+			<key>href</key>
+			<string>../Classes/NSMutableArray_Class/Reference/Reference.html#//apple_ref/doc/uid/20000138-BAJIEFEB</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSMutableArray Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20000169-BCICGFJI</string>
+			<key>href</key>
+			<string>../Classes/NSMutableAttributedString_Class/Reference/Reference.html#//apple_ref/doc/uid/20000169-BCICGFJI</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSMutableAttributedString Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20000158-CJBJJAAA</string>
+			<key>href</key>
+			<string>../Classes/NSMutableCharacterSet_Class/Reference/Reference.html#//apple_ref/doc/uid/20000158-CJBJJAAA</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSMutableCharacterSet Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20000173-CJBCBJGI</string>
+			<key>href</key>
+			<string>../Classes/NSMutableData_Class/Reference/NSMutableData.html#//apple_ref/doc/uid/20000173-CJBCBJGI</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSMutableData Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20000141-BBCJIJBE</string>
+			<key>href</key>
+			<string>../Classes/NSMutableDictionary_Class/Reference/Reference.html#//apple_ref/doc/uid/20000141-BBCJIJBE</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSMutableDictionary Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001920-CJBJBJBB</string>
+			<key>href</key>
+			<string>../Classes/NSMutableIndexSet_Class/Reference/Reference.html#//apple_ref/doc/uid/20001920-CJBJBJBB</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSMutableIndexSet Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20000144-BCIBEHIG</string>
+			<key>href</key>
+			<string>../Classes/NSMutableSet_Class/Reference/NSMutableSet.html#//apple_ref/doc/uid/20000144-BCIBEHIG</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSMutableSet Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20000156-BAJEDJFG</string>
+			<key>href</key>
+			<string>../Classes/NSMutableString_Class/Reference/Reference.html#//apple_ref/doc/uid/20000156-BAJEDJFG</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSMutableString Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001696-CJBIAEDJ</string>
+			<key>href</key>
+			<string>../Classes/NSMutableURLRequest_Class/Reference/Reference.html#//apple_ref/doc/uid/20001696-CJBIAEDJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSMutableURLRequest Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20000918-BCIBEGGG</string>
+			<key>href</key>
+			<string>../Classes/NSNetService_Class/Reference/Reference.html#//apple_ref/doc/uid/20000918-BCIBEGGG</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSNetService Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20000941-SW1</string>
+			<key>href</key>
+			<string>../Classes/NSNetServiceBrowser_Class/Reference/Reference.html#//apple_ref/doc/uid/20000941-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSNetServiceBrowser Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20000218-BBCGHGEE</string>
+			<key>href</key>
+			<string>../Classes/NSNotification_Class/Reference/Reference.html#//apple_ref/doc/uid/20000218-BBCGHGEE</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSNotification Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20000219-CJBDAFAJ</string>
+			<key>href</key>
+			<string>../Classes/NSNotificationCenter_Class/Reference/Reference.html#//apple_ref/doc/uid/20000219-CJBDAFAJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSNotificationCenter Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20000220-BCIJBBJG</string>
+			<key>href</key>
+			<string>../Classes/NSNotificationQueue_Class/Reference/Reference.html#//apple_ref/doc/uid/20000220-BCIJBBJG</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSNotificationQueue Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20000499-DontLinkElementID_5</string>
+			<key>href</key>
+			<string>../Classes/NSNull_Class/Reference/Reference.html#//apple_ref/doc/uid/20000499-DontLinkElementID_5</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSNull Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20000178-DontLinkElementID_18</string>
+			<key>href</key>
+			<string>../Classes/NSNumber_Class/Reference/Reference.html#//apple_ref/doc/uid/20000178-DontLinkElementID_18</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSNumber Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20000202-CJBBIIAE</string>
+			<key>href</key>
+			<string>../Classes/NSNumberFormatter_Class/Reference/Reference.html#//apple_ref/doc/uid/20000202-CJBBIIAE</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSNumberFormatter Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20000050-SW1</string>
+			<key>href</key>
+			<string>../Classes/NSObject_Class/Reference/Reference.html#//apple_ref/doc/uid/20000050-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSObject Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004591-RH2-BABECICG</string>
+			<key>href</key>
+			<string>../../NSOperation_class/Reference/Reference.html#//apple_ref/doc/uid/TP40004591-RH2-BABECICG</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSOperation Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004592-RH2-BABECICG</string>
+			<key>href</key>
+			<string>../../NSOperationQueue_class/Reference/Reference.html#//apple_ref/doc/uid/TP40004592-RH2-BABECICG</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSOperationQueue Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008774-CH1-SW1</string>
+			<key>href</key>
+			<string>../../NSOrthography_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40008774-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSOrthography Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001983-CJBCFACB</string>
+			<key>href</key>
+			<string>../Classes/NSOutputStream_Class/Reference/Reference.html#//apple_ref/doc/uid/20001983-CJBCFACB</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSOutputStream Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20000306-BBCFFIEB</string>
+			<key>href</key>
+			<string>../Classes/NSPipe_Class/Reference/Reference.html#//apple_ref/doc/uid/20000306-BBCFFIEB</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSPipe Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20000418-BBCJGHHH</string>
+			<key>href</key>
+			<string>../Classes/NSPort_Class/Reference/Reference.html#//apple_ref/doc/uid/20000418-BBCJGHHH</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSPort Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP30001187-BAJFJJAF</string>
+			<key>href</key>
+			<string>../Classes/NSPredicate_Class/Reference/NSPredicate.html#//apple_ref/doc/uid/TP30001187-BAJFJJAF</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSPredicate Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20000316-CJBCJAAD</string>
+			<key>href</key>
+			<string>../Classes/NSProcessInfo_Class/Reference/Reference.html#//apple_ref/doc/uid/20000316-CJBCJAAD</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSProcessInfo Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20000942-BAJEGEBJ</string>
+			<key>href</key>
+			<string>../Classes/NSPropertyListSerialization_Class/Reference/Reference.html#//apple_ref/doc/uid/20000942-BAJEGEBJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSPropertyListSerialization Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20000423-DontLinkElementID_11</string>
+			<key>href</key>
+			<string>../Classes/NSProxy_Class/Reference/Reference.html#//apple_ref/doc/uid/20000423-DontLinkElementID_11</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSProxy Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008981-CH1-DontLinkElementID_3</string>
+			<key>href</key>
+			<string>../../NSPurgeableData_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40008981-CH1-DontLinkElementID_3</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSPurgeableData Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20000314-BCIGHAHG</string>
+			<key>href</key>
+			<string>../Classes/NSRecursiveLock_Class/Reference/Reference.html#//apple_ref/doc/uid/20000314-BCIGHAHG</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSRecursiveLock Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009708-CH1-SW24</string>
+			<key>href</key>
+			<string>../../../../Foundation/Reference/NSRegularExpression_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40009708-CH1-SW24</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSRegularExpression Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20000321-CJBHHGJC</string>
+			<key>href</key>
+			<string>../Classes/NSRunLoop_Class/Reference/Reference.html#//apple_ref/doc/uid/20000321-CJBHHGJC</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSRunLoop Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20000159-BAJJHGBE</string>
+			<key>href</key>
+			<string>../Classes/NSScanner_Class/Reference/Reference.html#//apple_ref/doc/uid/20000159-BAJJHGBE</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSScanner Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20000143-SW8</string>
+			<key>href</key>
+			<string>../Classes/NSSet_Class/Reference/Reference.html#//apple_ref/doc/uid/20000143-SW8</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSSet Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001921-BCIBHEEA</string>
+			<key>href</key>
+			<string>../Classes/NSSortDescriptor_Class/Reference/Reference.html#//apple_ref/doc/uid/20001921-BCIBHEEA</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSSortDescriptor Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001981-CJBCFACB</string>
+			<key>href</key>
+			<string>../Classes/NSStream_Class/Reference/Reference.html#//apple_ref/doc/uid/20001981-CJBCFACB</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSStream Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20000154-CJBIAEDJ</string>
+			<key>href</key>
+			<string>../Classes/NSString_Class/Reference/NSString.html#//apple_ref/doc/uid/20000154-CJBIAEDJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSString Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008798-CH1-SW23</string>
+			<key>href</key>
+			<string>../../../../AppKit/Reference/NSTextCheckingResult_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40008798-CH1-SW23</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSTextCheckingResult Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20000311-SW15</string>
+			<key>href</key>
+			<string>../Classes/NSThread_Class/Reference/Reference.html#//apple_ref/doc/uid/20000311-SW15</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSThread Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20000319-BBCIHEDI</string>
+			<key>href</key>
+			<string>../Classes/NSTimer_Class/Reference/NSTimer.html#//apple_ref/doc/uid/20000319-BBCIHEDI</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSTimer Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20000190-SW6</string>
+			<key>href</key>
+			<string>../Classes/NSTimeZone_Class/Reference/Reference.html#//apple_ref/doc/uid/20000190-SW6</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSTimeZone Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20000211-SW1</string>
+			<key>href</key>
+			<string>../Classes/NSUndoManager_Class/Reference/Reference.html#//apple_ref/doc/uid/20000211-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSUndoManager Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20000301-SW8</string>
+			<key>href</key>
+			<string>../Classes/NSURL_Class/Reference/Reference.html#//apple_ref/doc/uid/20000301-SW8</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSURL Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001707-CJBIAEDJ</string>
+			<key>href</key>
+			<string>../Classes/NSURLAuthenticationChallenge_Class/Reference/Reference.html#//apple_ref/doc/uid/20001707-CJBIAEDJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSURLAuthenticationChallenge Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001699-CJBIAEDJ</string>
+			<key>href</key>
+			<string>../Classes/NSURLCache_Class/Reference/Reference.html#//apple_ref/doc/uid/20001699-CJBIAEDJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSURLCache Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001697-CJBIAEDJ</string>
+			<key>href</key>
+			<string>../Classes/NSURLConnection_Class/Reference/Reference.html#//apple_ref/doc/uid/20001697-CJBIAEDJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSURLConnection Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001829-CJBIAEDJ</string>
+			<key>href</key>
+			<string>../Classes/NSURLCredential_Class/Reference/Reference.html#//apple_ref/doc/uid/20001829-CJBIAEDJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSURLCredential Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001827-CJBIAEDJ</string>
+			<key>href</key>
+			<string>../Classes/NSURLCredentialStorage_Class/Reference/Reference.html#//apple_ref/doc/uid/20001827-CJBIAEDJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSURLCredentialStorage Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001828-CJBIAEDJ</string>
+			<key>href</key>
+			<string>../Classes/NSURLProtectionSpace_Class/Reference/Reference.html#//apple_ref/doc/uid/20001828-CJBIAEDJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSURLProtectionSpace Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001700-CJBIAEDJ</string>
+			<key>href</key>
+			<string>../Classes/NSURLProtocol_Class/Reference/Reference.html#//apple_ref/doc/uid/20001700-CJBIAEDJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSURLProtocol Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001695-CJBIAEDJ</string>
+			<key>href</key>
+			<string>../Classes/NSURLRequest_Class/Reference/Reference.html#//apple_ref/doc/uid/20001695-CJBIAEDJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSURLRequest Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001831-CJBIAEDJ</string>
+			<key>href</key>
+			<string>../Classes/NSURLResponse_Class/Reference/Reference.html#//apple_ref/doc/uid/20001831-CJBIAEDJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSURLResponse Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20000318-BAJGCABF</string>
+			<key>href</key>
+			<string>../Classes/NSUserDefaults_Class/Reference/Reference.html#//apple_ref/doc/uid/20000318-BAJGCABF</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSUserDefaults Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20000177-DontLinkElementID_8</string>
+			<key>href</key>
+			<string>../Classes/NSValue_Class/Reference/Reference.html#//apple_ref/doc/uid/20000177-DontLinkElementID_8</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSValue Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001922-CJBCFACB</string>
+			<key>href</key>
+			<string>../Classes/NSValueTransformer_Class/Reference/Reference.html#//apple_ref/doc/uid/20001922-CJBCFACB</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSValueTransformer Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001984-CJBCFACB</string>
+			<key>href</key>
+			<string>../Classes/NSXMLParser_Class/Reference/Reference.html#//apple_ref/doc/uid/20001984-CJBCFACB</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSXMLParser Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008980-CH1-SW1</string>
+			<key>href</key>
+			<string>../../NSCacheDelegate_Protocol/Reference/Reference.html#//apple_ref/doc/uid/TP40008980-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSCacheDelegate Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20000294-BAJGBDGE</string>
+			<key>href</key>
+			<string>../Protocols/NSCoding_Protocol/Reference/Reference.html#//apple_ref/doc/uid/20000294-BAJGBDGE</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSCoding Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20000053-BCIBCDJC</string>
+			<key>href</key>
+			<string>../Protocols/NSCopying_Protocol/Reference/Reference.html#//apple_ref/doc/uid/20000053-BCIBCDJC</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSCopying Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20000181-CJBBIEEE</string>
+			<key>href</key>
+			<string>../Protocols/NSDecimalNumberBehaviors_Protocol/Reference/Reference.html#//apple_ref/doc/uid/20000181-CJBBIEEE</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSDecimalNumberBehaviors Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008982-CH1-SW5</string>
+			<key>href</key>
+			<string>../../NSDiscardableContent_Protocol/Reference/Reference.html#//apple_ref/doc/uid/TP40008982-CH1-SW5</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSDiscardableContent Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40001593-BCIFCEBD</string>
+			<key>href</key>
+			<string>../Protocols/NSErrorRecoveryAttempting_Protocol/Reference/Reference.html#//apple_ref/doc/uid/TP40001593-BCIFCEBD</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSErrorRecoveryAttempting Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004559-CH1-DontLinkElementID_8</string>
+			<key>href</key>
+			<string>../../NSFastEnumeration_protocol/Reference/NSFastEnumeration.html#//apple_ref/doc/uid/TP40004559-CH1-DontLinkElementID_8</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSFastEnumeration Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008600-CH1-SW1</string>
+			<key>href</key>
+			<string>../../NSKeyedArchiverDelegate_Protocol/Reference/Reference.html#//apple_ref/doc/uid/TP40008600-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSKeyedArchiverDelegate Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008601-CH1-SW2</string>
+			<key>href</key>
+			<string>../../NSKeyedUnarchiverDelegate_Protocol/Reference/Reference.html#//apple_ref/doc/uid/TP40008601-CH1-SW2</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSKeyedUnarchiverDelegate Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20000471-DontLinkElementID_11</string>
+			<key>href</key>
+			<string>../Protocols/NSKeyValueCoding_Protocol/Reference/Reference.html#//apple_ref/doc/uid/20000471-DontLinkElementID_11</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSKeyValueCoding Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20002299-BCIIFCAJ</string>
+			<key>href</key>
+			<string>../Protocols/NSKeyValueObserving_Protocol/Reference/Reference.html#//apple_ref/doc/uid/20002299-BCIIFCAJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSKeyValueObserving Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20000313-BCIBHJIF</string>
+			<key>href</key>
+			<string>../Protocols/NSLocking_Protocol/Reference/Reference.html#//apple_ref/doc/uid/20000313-BCIBHJIF</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSLocking Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008603-CH1-SW1</string>
+			<key>href</key>
+			<string>../../NSMachPortDelegate_Protocol/Reference/Reference.html#//apple_ref/doc/uid/TP40008603-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSMachPortDelegate Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20000054-BAJEJJAG</string>
+			<key>href</key>
+			<string>../Protocols/NSMutableCopying_Protocol/Reference/Reference.html#//apple_ref/doc/uid/20000054-BAJEJJAG</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSMutableCopying Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008607-CH1-SW2</string>
+			<key>href</key>
+			<string>../../NSNetServiceBrowserDelegate_Protocol/Reference/Reference.html#//apple_ref/doc/uid/TP40008607-CH1-SW2</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSNetServiceBrowserDelegate Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008608-CH1-SW4</string>
+			<key>href</key>
+			<string>../../NSNetServiceDelegate_Protocol/Reference/Reference.html#//apple_ref/doc/uid/TP40008608-CH1-SW4</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSNetServiceDelegate Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20000052-BBCDBBIA</string>
+			<key>href</key>
+			<string>../Protocols/NSObject_Protocol/Reference/NSObject.html#//apple_ref/doc/uid/20000052-BBCDBBIA</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSObject Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008610-CH1-SW1</string>
+			<key>href</key>
+			<string>../../NSPortDelegate_Protocol/Reference/Reference.html#//apple_ref/doc/uid/TP40008610-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSPortDelegate Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008621-CH1-SW1</string>
+			<key>href</key>
+			<string>../../NSStreamDelegate_Protocol/Reference/Reference.html#//apple_ref/doc/uid/TP40008621-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSStreamDelegate Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001706-DontLinkElementID_5</string>
+			<key>href</key>
+			<string>../Protocols/NSURLAuthenticationChallengeSender_Protocol/Reference/Reference.html#//apple_ref/doc/uid/20001706-DontLinkElementID_5</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSURLAuthenticationChallengeSender Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001701-DontLinkElementID_5</string>
+			<key>href</key>
+			<string>../Protocols/NSURLProtocolClient_Protocol/Reference/Reference.html#//apple_ref/doc/uid/20001701-DontLinkElementID_5</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSURLProtocolClient Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008632-CH1-SW1</string>
+			<key>href</key>
+			<string>../../NSXMLParserDelegate_Protocol/Reference/Reference.html#//apple_ref/doc/uid/TP40008632-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSXMLParserDelegate Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40003774-DontLinkChapterID_1-DontLinkElementID_2</string>
+			<key>href</key>
+			<string>../Miscellaneous/Foundation_Functions/Reference/reference.html#//apple_ref/doc/uid/TP40003774-DontLinkChapterID_1-DontLinkElementID_2</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Foundation Functions Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40003794-DontLinkChapterID_1-DontLinkElementID_1</string>
+			<key>href</key>
+			<string>../Miscellaneous/Foundation_DataTypes/Reference/reference.html#//apple_ref/doc/uid/TP40003794-DontLinkChapterID_1-DontLinkElementID_1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Foundation Data Types Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40003793-DontLinkChapterID_1-DontLinkElementID_1</string>
+			<key>href</key>
+			<string>../Miscellaneous/Foundation_Constants/Reference/reference.html#//apple_ref/doc/uid/TP40003793-DontLinkChapterID_1-DontLinkElementID_1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Foundation Constants Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/20001091-RH1-SW1</string>
+			<key>href</key>
+			<string>History/History.html#//apple_ref/doc/uid/20001091-RH1-SW1</string>
+			<key>isPart</key>
+			<false/>
+			<key>title</key>
+			<string>Revision History</string>
+		</dict>
+	</array>
+	<key>shouldDisplayTOC</key>
+	<false/>
+	<key>technology</key>
+	<string>Cocoa</string>
+	<key>title</key>
+	<string>Foundation Framework Reference</string>
+	<key>type</key>
+	<string>Collection</string>
+	<key>uid</key>
+	<string>20001091</string>
+</dict>
+</plist>

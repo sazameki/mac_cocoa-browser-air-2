@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PDF</key>
+	<dict>
+		<key>href</key>
+		<string>SecurityObjectiveC.pdf</string>
+	</dict>
+	<key>assignments</key>
+	<array>
+		<string>Type/Reference</string>
+		<string>Framework/Cocoa Layer/SecurityInterface</string>
+		<string>Topic/Security</string>
+	</array>
+	<key>needsAdditionalLinksSeparator</key>
+	<false/>
+	<key>relatedBooks</key>
+	<array/>
+	<key>sections</key>
+	<array>
+		<dict>
+			<key>aref</key>
+			<string></string>
+			<key>href</key>
+			<string>&lt;@@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Introduction</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004657-CH3-DontLinkElementID_26</string>
+			<key>href</key>
+			<string>&lt;@//apple_ref/doc/uid/TP40004657-CH3-DontLinkElementID_26@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>SFAuthorizationPluginView Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40002003-BABDBGDC</string>
+			<key>href</key>
+			<string>../SecurityInterfaceFramework/Classes/SFAuthorizationView_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40002003-BABDBGDC</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>SFAuthorizationView Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40002158-BBCDHAJA</string>
+			<key>href</key>
+			<string>../SecurityInterfaceFramework/Classes/SFCertificatePanel_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40002158-BBCDHAJA</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>SFCertificatePanel Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40002156-BAJBFBFD</string>
+			<key>href</key>
+			<string>../SecurityInterfaceFramework/Classes/SFCertificateTrustPanel_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40002156-BAJBFBFD</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>SFCertificateTrustPanel Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40002159-BCIJIJFF</string>
+			<key>href</key>
+			<string>../SecurityInterfaceFramework/Classes/SFCertificateView_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40002159-BCIJIJFF</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>SFCertificateView Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40002160-BCIFFCAD</string>
+			<key>href</key>
+			<string>../SecurityInterfaceFramework/Classes/SFChooseIdentityPanel_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40002160-BCIFFCAD</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>SFChooseIdentityPanel Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40002155-BCIGHFGI</string>
+			<key>href</key>
+			<string>../SecurityInterfaceFramework/Classes/SFKeychainSavePanel_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40002155-BCIGHFGI</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>SFKeychainSavePanel Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40002161-BCIGDFBG</string>
+			<key>href</key>
+			<string>../SecurityInterfaceFramework/Classes/SFKeychainSettingsPanel_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40002161-BCIGDFBG</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>SFKeychainSettingsPanel Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40003987-DontLinkChapterID_1-DontLinkElementID_2</string>
+			<key>href</key>
+			<string>../SecurityInterfaceFramework/Miscellaneous/SecurityInterface_DataTypes/Reference/reference.html#//apple_ref/doc/uid/TP40003987-DontLinkChapterID_1-DontLinkElementID_2</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>SecurityInterface Data Types Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009297-DontLinkChapterID_1-DontLinkElementID_4</string>
+			<key>href</key>
+			<string>../../../SecurityInterface/Reference/securityinterfaceconstantsref/Reference/reference.html#//apple_ref/doc/uid/TP40009297-DontLinkChapterID_1-DontLinkElementID_4</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>SecurityInterface Constants Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP30000996-RH1-DontLinkElementID_1</string>
+			<key>href</key>
+			<string>History/History.html#//apple_ref/doc/uid/TP30000996-RH1-DontLinkElementID_1</string>
+			<key>isPart</key>
+			<false/>
+			<key>title</key>
+			<string>Revision History</string>
+		</dict>
+	</array>
+	<key>shouldDisplayTOC</key>
+	<false/>
+	<key>technology</key>
+	<string>Security</string>
+	<key>title</key>
+	<string>Security Interface Framework Reference</string>
+	<key>type</key>
+	<string>Collection</string>
+	<key>uid</key>
+	<string>TP30000996</string>
+</dict>
+</plist>

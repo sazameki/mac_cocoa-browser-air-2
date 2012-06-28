@@ -1,0 +1,31 @@
+﻿/* 
+  LocalizableString.strings
+  CocoaBrowserAir
+
+  Created by numata on 11/05/11.
+  Copyright 2011 Satoshi Numata. All rights reserved.
+*/
+
+"Folder Base" = "基本フレームワーク";
+"Folder Main" = "主要フレームワーク";
+"Folder Others" = "その他";
+
+"CategoryName Classes" = "クラス";
+"CategoryName Others" = "その他";
+
+"GroupTitle Overview" = "概要";
+"GroupTitle Tasks" = "タスク";
+"GroupTitle Adopted Protocols" = "準拠プロトコル";
+"GroupTitle Class Methods" = "クラス・メソッド";
+"GroupTitle Instance Methods" = "インスタンス・メソッド";
+"GroupTitle Delegate Methods" = "Delegate メソッド";
+"GroupTitle Properties" = "プロパティ";
+"GroupTitle Constants" = "定数";
+
+"GroupTitle Data Types" = "データ型";
+"GroupTitle Callbacks" = "コールバック関数";
+"GroupTitle Functions" = "関数";
+"GroupTitle Functions by Task" = "タスクごとの関数";
+
+"GroupTitle Methods" = "メソッド";
+

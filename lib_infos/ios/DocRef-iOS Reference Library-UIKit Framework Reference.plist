@@ -1,0 +1,1273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PDF</key>
+	<dict>
+		<key>href</key>
+		<string>UIKit_Framework.pdf</string>
+	</dict>
+	<key>assignments</key>
+	<array>
+		<string>Type/Reference</string>
+		<string>Framework/Cocoa Touch Layer/UIKit</string>
+	</array>
+	<key>needsAdditionalLinksSeparator</key>
+	<false/>
+	<key>relatedBooks</key>
+	<array/>
+	<key>sections</key>
+	<array>
+		<dict>
+			<key>aref</key>
+			<string></string>
+			<key>href</key>
+			<string>&lt;@@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Introduction</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40007485-CH1-SW3</string>
+			<key>href</key>
+			<string>&lt;@//apple_ref/doc/uid/TP40007485-CH1-SW3@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSBundle UIKit Additions Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40007292-CH3-SW4</string>
+			<key>href</key>
+			<string>../NSCoder_UIKit_Additions/Reference/Reference.html#//apple_ref/doc/uid/TP40007292-CH3-SW4</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSCoder UIKit Additions Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40007175-CH3-DontLinkElementID_8</string>
+			<key>href</key>
+			<string>../NSIndexPath_UIKitAdditions/Reference/Reference.html#//apple_ref/doc/uid/TP40007175-CH3-DontLinkElementID_8</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSIndexPath UIKit Additions</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40007486-CH1-SW1</string>
+			<key>href</key>
+			<string>../NSObject_UIKitAdditions/Introduction/Introduction.html#//apple_ref/doc/uid/TP40007486-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSObject UIKit Additions Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006893-CH3-SW4</string>
+			<key>href</key>
+			<string>../NSString_UIKit_Additions/Reference/Reference.html#//apple_ref/doc/uid/TP40006893-CH3-SW4</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSString UIKit Additions Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40007293-CH3-SW4</string>
+			<key>href</key>
+			<string>../NSValue_UIKit_Additions/Reference/Reference.html#//apple_ref/doc/uid/TP40007293-CH3-SW4</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>NSValue UIKit Additions Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006901-CH1-SW2</string>
+			<key>href</key>
+			<string>../UIAcceleration_Class/Reference/UIAcceleration.html#//apple_ref/doc/uid/TP40006901-CH1-SW2</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIAcceleration Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006900-CH3-SW2</string>
+			<key>href</key>
+			<string>../UIAccelerometer_Class/Reference/UIAccelerometer.html#//apple_ref/doc/uid/TP40006900-CH3-SW2</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIAccelerometer Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008784-CH1-DontLinkElementID_17</string>
+			<key>href</key>
+			<string>../UIAccessibilityElement_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40008784-CH1-DontLinkElementID_17</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIAccessibilityElement Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006801-CH3-SW4</string>
+			<key>href</key>
+			<string>../UIActionSheet_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40006801-CH3-SW4</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIActionSheet Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006830-CH3-SW7</string>
+			<key>href</key>
+			<string>../UIActivityIndicatorView_Class/Reference/UIActivityIndicatorView.html#//apple_ref/doc/uid/TP40006830-CH3-SW7</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIActivityIndicatorView Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006802-CH3-SW2</string>
+			<key>href</key>
+			<string>../UIAlertView_Class/UIAlertView/UIAlertView.html#//apple_ref/doc/uid/TP40006802-CH3-SW2</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIAlertView Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006728-CH3-SW2</string>
+			<key>href</key>
+			<string>../UIApplication_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40006728-CH3-SW2</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIApplication Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40007519-CH3-SW9</string>
+			<key>href</key>
+			<string>../UIBarButtonItem_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40007519-CH3-SW9</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIBarButtonItem Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40007520-CH3-SW1</string>
+			<key>href</key>
+			<string>../UIBarItem_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40007520-CH3-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIBarItem Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009276-CH1-SW8</string>
+			<key>href</key>
+			<string>../UIBezierPath_class/Reference/Reference.html#//apple_ref/doc/uid/TP40009276-CH1-SW8</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIBezierPath Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006815-CH3-SW24</string>
+			<key>href</key>
+			<string>../UIButton_Class/UIButton/UIButton.html#//apple_ref/doc/uid/TP40006815-CH3-SW24</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIButton Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006892-CH3-SW14</string>
+			<key>href</key>
+			<string>../UIColor_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40006892-CH3-SW14</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIColor Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006779-RH2-SW14</string>
+			<key>href</key>
+			<string>../UIControl_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40006779-RH2-SW14</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIControl Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006806-CH3-SW12</string>
+			<key>href</key>
+			<string>../UIDatePicker_Class/Reference/UIDatePicker.html#//apple_ref/doc/uid/TP40006806-CH3-SW12</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIDatePicker Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006902-CH3-SW4</string>
+			<key>href</key>
+			<string>../UIDevice_Class/Reference/UIDevice.html#//apple_ref/doc/uid/TP40006902-CH3-SW4</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIDevice Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009304-CH1-SW5</string>
+			<key>href</key>
+			<string>../UIDocumentInteractionController_class/Reference/Reference.html#//apple_ref/doc/uid/TP40009304-CH1-SW5</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIDocumentInteractionController Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006780-CH3-SW11</string>
+			<key>href</key>
+			<string>../UIEvent_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40006780-CH3-SW11</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIEvent Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006891-CH4-SW6</string>
+			<key>href</key>
+			<string>../UIFont_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40006891-CH4-SW6</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIFont Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009279-CH1-SW26</string>
+			<key>href</key>
+			<string>../UIGestureRecognizer_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40009279-CH1-SW26</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIGestureRecognizer Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006890-CH3-SW7</string>
+			<key>href</key>
+			<string>../UIImage_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40006890-CH3-SW7</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIImage Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40007070-CH3-SW3</string>
+			<key>href</key>
+			<string>../UIImagePickerController_Class/UIImagePickerController/UIImagePickerController.html#//apple_ref/doc/uid/TP40007070-CH3-SW3</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIImagePickerController Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006889-CH3-SW4</string>
+			<key>href</key>
+			<string>../UIImageView_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40006889-CH3-SW4</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIImageView Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006797-CH3-SW12</string>
+			<key>href</key>
+			<string>../UILabel_Class/Reference/UILabel.html#//apple_ref/doc/uid/TP40006797-CH3-SW12</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UILabel Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008302-CH1-SW7</string>
+			<key>href</key>
+			<string>../../../iPhone/Reference/UILocalizedIndexedCollation_Class/UILocalizedIndexedCollation.html#//apple_ref/doc/uid/TP40008302-CH1-SW7</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UILocalizedIndexedCollation Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009281-CH1-SW1</string>
+			<key>href</key>
+			<string>../UILongPressGestureRecognizer_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40009281-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UILongPressGestureRecognizer Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40010147-CH1-SW3</string>
+			<key>href</key>
+			<string>../UIMarkupTextPrintFormatter_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40010147-CH1-SW3</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIMarkupTextPrintFormatter Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008301-CH1-SW6</string>
+			<key>href</key>
+			<string>../../../iPhone/Reference/UIMenuController_Class/UIMenuController.html#//apple_ref/doc/uid/TP40008301-CH1-SW6</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIMenuController Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006887-CH3-SW1</string>
+			<key>href</key>
+			<string>../UINavigationBar_Class/Reference/UINavigationBar.html#//apple_ref/doc/uid/TP40006887-CH3-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UINavigationBar Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006934-CH3-SW11</string>
+			<key>href</key>
+			<string>../UINavigationController_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40006934-CH3-SW11</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UINavigationController Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006933-CH3-SW1</string>
+			<key>href</key>
+			<string>../UINavigationItem_Class/Reference/UINavigationItem.html#//apple_ref/doc/uid/TP40006933-CH3-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UINavigationItem Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009580-CH1-SW1</string>
+			<key>href</key>
+			<string>../UINib_Ref/Reference/Reference.html#//apple_ref/doc/uid/TP40009580-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UINib Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006781-CH3-DontLinkElementID_10</string>
+			<key>href</key>
+			<string>../UIPageControl_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40006781-CH3-DontLinkElementID_10</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIPageControl Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009282-CH1-SW4</string>
+			<key>href</key>
+			<string>../UIPanGestureRecognizer_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40009282-CH1-SW4</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIPanGestureRecognizer Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008243-CH1-SW40</string>
+			<key>href</key>
+			<string>../UIPasteboard_Class/Reference.html#//apple_ref/doc/uid/TP40008243-CH1-SW40</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIPasteboard Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006842-CH3-SW6</string>
+			<key>href</key>
+			<string>../UIPickerView_Class/Reference/UIPickerView.html#//apple_ref/doc/uid/TP40006842-CH3-SW6</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIPickerView Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009283-CH1-DontLinkElementID_8</string>
+			<key>href</key>
+			<string>../UIPinchGestureRecognizer_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40009283-CH1-DontLinkElementID_8</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIPinchGestureRecognizer Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009306-CH1-SW10</string>
+			<key>href</key>
+			<string>../UIPopoverController_class/Reference/Reference.html#//apple_ref/doc/uid/TP40009306-CH1-SW10</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIPopoverController Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40010145-CH1-SW1</string>
+			<key>href</key>
+			<string>../UIPrintFormatter_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40010145-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIPrintFormatter Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40010144-CH1-SW12</string>
+			<key>href</key>
+			<string>../UIPrintInfo_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40010144-CH1-SW12</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIPrintInfo Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40010141-CH1-SW1</string>
+			<key>href</key>
+			<string>../UIPrintInteractionController_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40010141-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIPrintInteractionController Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40010186-CH1-SW16</string>
+			<key>href</key>
+			<string>../../../iPhone/Reference/UIPrintPageRenderer_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40010186-CH1-SW16</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIPrintPageRenderer Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40010140-CH1-SW4</string>
+			<key>href</key>
+			<string>../UIPrintPaper_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40010140-CH1-SW4</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIPrintPaper Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006782-CH3-SW4</string>
+			<key>href</key>
+			<string>../UIProgressView_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40006782-CH3-SW4</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIProgressView Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006783-CH4-SW4</string>
+			<key>href</key>
+			<string>../UIResponder_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40006783-CH4-SW4</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIResponder Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009284-CH1-DontLinkElementID_7</string>
+			<key>href</key>
+			<string>../UIRotateGestureRecognizer_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40009284-CH1-DontLinkElementID_7</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIRotationGestureRecognizer Class</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006903-CH3-SW1</string>
+			<key>href</key>
+			<string>../UIScreen_Class/Reference/UIScreen.html#//apple_ref/doc/uid/TP40006903-CH3-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIScreen Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009312-CH1-SW1</string>
+			<key>href</key>
+			<string>../UIScreenMode_class/Reference/Reference.html#//apple_ref/doc/uid/TP40009312-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIScreenMode Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006922-CH3-SW18</string>
+			<key>href</key>
+			<string>../UIScrollView_Class/Reference/UIScrollView.html#//apple_ref/doc/uid/TP40006922-CH3-SW18</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIScrollView Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40007529-CH3-SW1</string>
+			<key>href</key>
+			<string>../UISearchBar_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40007529-CH3-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UISearchBar Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008225-CH1-SW3</string>
+			<key>href</key>
+			<string>../UISearchDisplayController_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40008225-CH1-SW3</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UISearchDisplayController Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006807-CH3-SW23</string>
+			<key>href</key>
+			<string>../UISegmentedControl_Class/Reference/UISegmentedControl.html#//apple_ref/doc/uid/TP40006807-CH3-SW23</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UISegmentedControl Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40010146-CH1-SW1</string>
+			<key>href</key>
+			<string>../UISimpleTextPrintFormatter_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40010146-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UISimpleTextPrintFormatter Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006798-CH3-SW13</string>
+			<key>href</key>
+			<string>../UISlider_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40006798-CH3-SW13</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UISlider Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009277-CH1-SW4</string>
+			<key>href</key>
+			<string>../UISplitViewController_class/Reference/Reference.html#//apple_ref/doc/uid/TP40009277-CH1-SW4</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UISplitViewController Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009285-CH1-SW5</string>
+			<key>href</key>
+			<string>../UISwipeGestureRecognizer_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40009285-CH1-SW5</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UISwipeGestureRecognizer Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006784-CH3-SW1</string>
+			<key>href</key>
+			<string>../UISwitch_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40006784-CH3-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UISwitch Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40007521-CH3-SW1</string>
+			<key>href</key>
+			<string>../UITabBar_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40007521-CH3-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UITabBar Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006931-CH3-SW5</string>
+			<key>href</key>
+			<string>../UITabBarController_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40006931-CH3-SW5</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UITabBarController Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006928-CH3-SW17</string>
+			<key>href</key>
+			<string>../UITabBarItem_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40006928-CH3-SW17</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UITabBarItem Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006943-CH3-SW24</string>
+			<key>href</key>
+			<string>../UITableView_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40006943-CH3-SW24</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UITableView Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006938-CH3-SW38</string>
+			<key>href</key>
+			<string>../UITableViewCell_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40006938-CH3-SW38</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UITableViewCell Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40007523-CH3-SW3</string>
+			<key>href</key>
+			<string>../UITableViewController_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40007523-CH3-SW3</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UITableViewController Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009286-CH1-SW1</string>
+			<key>href</key>
+			<string>../UITapGestureRecognizer_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40009286-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UITapGestureRecognizer Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006888-CH3-SW12</string>
+			<key>href</key>
+			<string>../UITextField_Class/Reference/UITextField.html#//apple_ref/doc/uid/TP40006888-CH3-SW12</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UITextField Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40010352-CH1-SW1</string>
+			<key>href</key>
+			<string>../UITextInputMode_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40010352-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UITextInputMode Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009409-CH1-SW1</string>
+			<key>href</key>
+			<string>../UITextInputStringTokenizer_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40009409-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UITextInputStringTokenizer Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009416-CH1-DontLinkElementID_2</string>
+			<key>href</key>
+			<string>../UITextPosition_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40009416-CH1-DontLinkElementID_2</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UITextPosition Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009417-CH1-DontLinkElementID_8</string>
+			<key>href</key>
+			<string>../UITextRange_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40009417-CH1-DontLinkElementID_8</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UITextRange Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006898-CH3-SW1</string>
+			<key>href</key>
+			<string>../UITextView_Class/Reference/UITextView.html#//apple_ref/doc/uid/TP40006898-CH3-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UITextView Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006927-CH3-SW10</string>
+			<key>href</key>
+			<string>../UIToolbar_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40006927-CH3-SW10</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIToolbar Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006785-CH3-SW10</string>
+			<key>href</key>
+			<string>../UITouch_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40006785-CH3-SW10</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UITouch Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009027-CH1-SW2</string>
+			<key>href</key>
+			<string>../UIVideoEditorController_ClassReference/Reference/Reference.html#//apple_ref/doc/uid/TP40009027-CH1-SW2</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIVideoEditorController Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006816-CH3-SW47</string>
+			<key>href</key>
+			<string>../UIView_Class/UIView/UIView.html#//apple_ref/doc/uid/TP40006816-CH3-SW47</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIView Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006926-CH3-SW32</string>
+			<key>href</key>
+			<string>../UIViewController_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40006926-CH3-SW32</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIViewController Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40010148-CH1-SW1</string>
+			<key>href</key>
+			<string>../UIViewPrintFormatter_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40010148-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIViewPrintFormatter Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006950-CH3-SW14</string>
+			<key>href</key>
+			<string>../UIWebView_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40006950-CH3-SW14</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIWebView Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006817-CH3-SW3</string>
+			<key>href</key>
+			<string>../UIWindow_Class/UIWindowClassReference/UIWindowClassReference.html#//apple_ref/doc/uid/TP40006817-CH3-SW3</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIWindow Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006990-CH3-SW1</string>
+			<key>href</key>
+			<string>../UIAccelerometerDelegate_Protocol/UIAccelerometerDelegate/UIAccelerometerDelegate.html#//apple_ref/doc/uid/TP40006990-CH3-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIAccelerometerDelegate Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008786-CH1-SW14</string>
+			<key>href</key>
+			<string>../UIAccessibility_Protocol/Introduction/Introduction.html#//apple_ref/doc/uid/TP40008786-CH1-SW14</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIAccessibility Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009678-CH1-DontLinkElementID_6</string>
+			<key>href</key>
+			<string>../UIAccessibilityAction_Protocol/Introduction/Introduction.html#//apple_ref/doc/uid/TP40009678-CH1-DontLinkElementID_6</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIAccessibilityAction Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008787-CH1-DontLinkElementID_6</string>
+			<key>href</key>
+			<string>../UIAccessibilityContainer_Protocol/Introduction/Introduction.html#//apple_ref/doc/uid/TP40008787-CH1-DontLinkElementID_6</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIAccessibilityContainer Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009679-CH1-DontLinkElementID_7</string>
+			<key>href</key>
+			<string>../UIAccessibilityFocus_Protocol/Introduction/Introduction.html#//apple_ref/doc/uid/TP40009679-CH1-DontLinkElementID_7</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIAccessibilityFocus Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006799-CH3-SW3</string>
+			<key>href</key>
+			<string>../UIModalViewDelegate_Protocol/UIActionSheetDelegate/UIActionSheetDelegate.html#//apple_ref/doc/uid/TP40006799-CH3-SW3</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIActionSheetDelegate Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40007548-CH3-SW3</string>
+			<key>href</key>
+			<string>../UIAlertViewDelegate_Protocol/UIAlertViewDelegate/UIAlertViewDelegate.html#//apple_ref/doc/uid/TP40007548-CH3-SW3</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIAlertViewDelegate Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006786-CH3-SW1</string>
+			<key>href</key>
+			<string>../UIApplicationDelegate_Protocol/Reference/Reference.html#//apple_ref/doc/uid/TP40006786-CH3-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIApplicationDelegate Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009305-CH1-SW2</string>
+			<key>href</key>
+			<string>../UIDocumentInteractionControllerDelegate_protocol/Reference/Reference.html#//apple_ref/doc/uid/TP40009305-CH1-SW2</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIDocumentInteractionControllerDelegate Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009280-CH1-SW3</string>
+			<key>href</key>
+			<string>../UIGestureRecognizerDelegate_Protocol/Reference/Reference.html#//apple_ref/doc/uid/TP40009280-CH1-SW3</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIGestureRecognizerDelegate Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40007069-CH3-SW2</string>
+			<key>href</key>
+			<string>../UIImagePickerControllerDelegate_Protocol/UIImagePickerControllerDelegate/UIImagePickerControllerDelegate.html#//apple_ref/doc/uid/TP40007069-CH3-SW2</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIImagePickerControllerDelegate Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009418-CH1-DontLinkElementID_8</string>
+			<key>href</key>
+			<string>../UIKeyInput_Protocol/Reference/Reference.html#//apple_ref/doc/uid/TP40009418-CH1-DontLinkElementID_8</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIKeyInput Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006925-CH3-SW5</string>
+			<key>href</key>
+			<string>../UINavigationBarDelegate_Protocol/Reference/Reference.html#//apple_ref/doc/uid/TP40006925-CH3-SW5</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UINavigationBarDelegate Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40007662-CH3-SW3</string>
+			<key>href</key>
+			<string>../UINavigationControllerDelegate_Protocol/Reference/Reference.html#//apple_ref/doc/uid/TP40007662-CH3-SW3</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UINavigationControllerDelegate Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009680-CH1-DontLinkElementID_7</string>
+			<key>href</key>
+			<string>../UIPickerViewAccessibilityDelegate_Protocol/Introduction/Introduction.html#//apple_ref/doc/uid/TP40009680-CH1-DontLinkElementID_7</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIPickerViewAccessibilityDelegate Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40007667-CH1-SW1</string>
+			<key>href</key>
+			<string>../../../iPhone/Reference/UIPickerViewDataSource_Protocol/Reference/Reference.html#//apple_ref/doc/uid/TP40007667-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIPickerViewDataSource Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006924-CH3-SW3</string>
+			<key>href</key>
+			<string>../UIPickerViewDelegate_Protocol/Reference/UIPickerViewDelegate.html#//apple_ref/doc/uid/TP40006924-CH3-SW3</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIPickerViewDelegate Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009307-CH1-SW1</string>
+			<key>href</key>
+			<string>../UIPopoverControllerDelegate_protocol/Reference/Reference.html#//apple_ref/doc/uid/TP40009307-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIPopoverControllerDelegate Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40010142-CH1-SW3</string>
+			<key>href</key>
+			<string>../UIPrintInteractionControllerDelegate_Protocol/Reference/Reference.html#//apple_ref/doc/uid/TP40010142-CH1-SW3</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIPrintInteractionControllerDelegate Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008313-CH1-SW8</string>
+			<key>href</key>
+			<string>../UIResponderStandardEditActions_Protocol/UIResponderStandardEditActions.html#//apple_ref/doc/uid/TP40008313-CH1-SW8</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIResponderStandardEditActions Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006923-CH3-SW8</string>
+			<key>href</key>
+			<string>../UIScrollViewDelegate_Protocol/Reference/UIScrollViewDelegate.html#//apple_ref/doc/uid/TP40006923-CH3-SW8</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIScrollViewDelegate Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40007530-CH3-SW4</string>
+			<key>href</key>
+			<string>../UISearchBarDelegate_Protocol/Reference/Reference.html#//apple_ref/doc/uid/TP40007530-CH3-SW4</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UISearchBarDelegate Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008226-CH1-SW3</string>
+			<key>href</key>
+			<string>../UISearchDisplayDelegate_Protocol/Reference/Reference.html#//apple_ref/doc/uid/TP40008226-CH1-SW3</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UISearchDisplayDelegate Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009454-CH1-SW1</string>
+			<key>href</key>
+			<string>../UISplitViewControllerDelegate_protocol/Reference/Reference.html#//apple_ref/doc/uid/TP40009454-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UISplitViewControllerDelegate Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006932-CH3-SW3</string>
+			<key>href</key>
+			<string>../UITabBarControllerDelegate_Protocol/Reference/Reference.html#//apple_ref/doc/uid/TP40006932-CH3-SW3</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UITabBarControllerDelegate Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006930-CH3-SW6</string>
+			<key>href</key>
+			<string>../UITabBarDelegate_Protocol/Reference/Reference.html#//apple_ref/doc/uid/TP40006930-CH3-SW6</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UITabBarDelegate Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006941-CH3-SW1</string>
+			<key>href</key>
+			<string>../UITableViewDataSource_Protocol/Reference/Reference.html#//apple_ref/doc/uid/TP40006941-CH3-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UITableViewDataSource Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006942-CH3-SW17</string>
+			<key>href</key>
+			<string>../UITableViewDelegate_Protocol/Reference/Reference.html#//apple_ref/doc/uid/TP40006942-CH3-SW17</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UITableViewDelegate Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006991-CH3-SW1</string>
+			<key>href</key>
+			<string>../UITextFieldDelegate_Protocol/UITextFieldDelegate/UITextFieldDelegate.html#//apple_ref/doc/uid/TP40006991-CH3-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UITextFieldDelegate Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009415-CH1-SW30</string>
+			<key>href</key>
+			<string>../UITextInput_Protocol/Reference/Reference.html#//apple_ref/doc/uid/TP40009415-CH1-SW30</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UITextInput Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009407-CH1-SW5</string>
+			<key>href</key>
+			<string>../UITextInputDelegate_Protocol/Reference/Reference.html#//apple_ref/doc/uid/TP40009407-CH1-SW5</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UITextInputDelegate Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009408-CH1-SW1</string>
+			<key>href</key>
+			<string>../UITextInputTokenizer_Protocol/Reference/Reference.html#//apple_ref/doc/uid/TP40009408-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UITextInputTokenizer Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006896-CH3-SW6</string>
+			<key>href</key>
+			<string>../UITextInputTraits_Protocol/Reference/UITextInputTraits.html#//apple_ref/doc/uid/TP40006896-CH3-SW6</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UITextInputTraits Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006897-CH3-SW1</string>
+			<key>href</key>
+			<string>../UITextViewDelegate_Protocol/Reference/UITextViewDelegate.html#//apple_ref/doc/uid/TP40006897-CH3-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UITextViewDelegate Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009028-CH1-DontLinkElementID_9</string>
+			<key>href</key>
+			<string>../UIVideoEditorControllerDelegate_ProtocolReference/Reference/Reference.html#//apple_ref/doc/uid/TP40009028-CH1-DontLinkElementID_9</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIVideoEditorControllerDelegate Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006951-CH3-SW1</string>
+			<key>href</key>
+			<string>../UIWebViewDelegate_Protocol/Reference/Reference.html#//apple_ref/doc/uid/TP40006951-CH3-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIWebViewDelegate Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40007525-DontLinkChapterID_1-DontLinkElementID_1</string>
+			<key>href</key>
+			<string>../UIKitDataTypesReference/Reference/reference.html#//apple_ref/doc/uid/TP40007525-DontLinkChapterID_1-DontLinkElementID_1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIKit Data Types Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40007526-DontLinkChapterID_1-DontLinkElementID_1</string>
+			<key>href</key>
+			<string>../UIKitConstantsReference/Reference/reference.html#//apple_ref/doc/uid/TP40007526-DontLinkChapterID_1-DontLinkElementID_1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIKit Constants Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006894-DontLinkChapterID_1-DontLinkElementID_2</string>
+			<key>href</key>
+			<string>../UIKitFunctionReference/Reference/reference.html#//apple_ref/doc/uid/TP40006894-DontLinkChapterID_1-DontLinkElementID_2</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>UIKit Function Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006955-CH2-SW1</string>
+			<key>href</key>
+			<string>RevisionHistory.html#//apple_ref/doc/uid/TP40006955-CH2-SW1</string>
+			<key>isPart</key>
+			<false/>
+			<key>title</key>
+			<string>Revision History</string>
+		</dict>
+	</array>
+	<key>shouldDisplayTOC</key>
+	<false/>
+	<key>technology</key>
+	<string>iPhone</string>
+	<key>title</key>
+	<string>UIKit Framework Reference</string>
+	<key>type</key>
+	<string>Collection</string>
+	<key>uid</key>
+	<string>TP40006955</string>
+</dict>
+</plist>

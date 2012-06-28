@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PDF</key>
+	<dict>
+		<key>href</key>
+		<string>MapKit_Framework_Reference.pdf</string>
+	</dict>
+	<key>assignments</key>
+	<array>
+		<string>Type/Reference</string>
+		<string>Framework/Cocoa Touch Layer/MapKit</string>
+		<string>Topic/User Experience</string>
+	</array>
+	<key>needsAdditionalLinksSeparator</key>
+	<false/>
+	<key>relatedBooks</key>
+	<array/>
+	<key>sections</key>
+	<array>
+		<dict>
+			<key>aref</key>
+			<string></string>
+			<key>href</key>
+			<string>&lt;@@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Introduction</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008207-CH1-SW3</string>
+			<key>href</key>
+			<string>&lt;@//apple_ref/doc/uid/TP40008207-CH1-SW3@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>MKAnnotationView Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009710-CH1-SW1</string>
+			<key>href</key>
+			<string>../MKCircle_class/Reference/Reference.html#//apple_ref/doc/uid/TP40009710-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>MKCircle Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009711-CH1-SW1</string>
+			<key>href</key>
+			<string>../MKCircleView_class/Reference/Reference.html#//apple_ref/doc/uid/TP40009711-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>MKCircleView Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008205-CH3-SW1</string>
+			<key>href</key>
+			<string>../MKMapView_Class/MKMapView/MKMapView.html#//apple_ref/doc/uid/TP40008205-CH3-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>MKMapView Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009712-CH1-SW1</string>
+			<key>href</key>
+			<string>../MKMultiPoint_class/Reference/Reference.html#//apple_ref/doc/uid/TP40009712-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>MKMultiPoint Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009713-CH1-SW1</string>
+			<key>href</key>
+			<string>../MKOverlayPathView_class/Reference/Reference.html#//apple_ref/doc/uid/TP40009713-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>MKOverlayPathView Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009715-CH1-SW1</string>
+			<key>href</key>
+			<string>../MKOverlayView_class/Reference/Reference.html#//apple_ref/doc/uid/TP40009715-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>MKOverlayView Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008203-CH1-SW2</string>
+			<key>href</key>
+			<string>../MKPinAnnotationView_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40008203-CH1-SW2</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>MKPinAnnotationView Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008322-CH1-SW1</string>
+			<key>href</key>
+			<string>../MKPlacemark_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40008322-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>MKPlacemark Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009716-CH1-SW1</string>
+			<key>href</key>
+			<string>../MKPointAnnotation_class/Reference/Reference.html#//apple_ref/doc/uid/TP40009716-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>MKPointAnnotation Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009717-CH1-SW1</string>
+			<key>href</key>
+			<string>../MKPolygon_class/Reference/Reference.html#//apple_ref/doc/uid/TP40009717-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>MKPolygon Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009718-CH1-SW1</string>
+			<key>href</key>
+			<string>../MKPolygonView_class/Reference/Reference.html#//apple_ref/doc/uid/TP40009718-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>MKPolygonView Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009719-CH1-SW1</string>
+			<key>href</key>
+			<string>../MKPolyline_class/Reference/Reference.html#//apple_ref/doc/uid/TP40009719-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>MKPolyline Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009720-CH1-SW1</string>
+			<key>href</key>
+			<string>../MKPolylineView_class/Reference/Reference.html#//apple_ref/doc/uid/TP40009720-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>MKPolylineView Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008323-CH1-SW1</string>
+			<key>href</key>
+			<string>../MKReverseGeocoder_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40008323-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>MKReverseGeocoder Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009721-CH1-SW1</string>
+			<key>href</key>
+			<string>../MKShape_class/Reference/Reference.html#//apple_ref/doc/uid/TP40009721-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>MKShape Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008424-CH1-SW1</string>
+			<key>href</key>
+			<string>../MKUserLocation_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40008424-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>MKUserLocation Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008208-CH1-SW3</string>
+			<key>href</key>
+			<string>../MKAnnotation_Protocol/Reference/Reference.html#//apple_ref/doc/uid/TP40008208-CH1-SW3</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>MKAnnotation Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008204-CH3-SW1</string>
+			<key>href</key>
+			<string>../MKMapViewDelegate_Protocol/MKMapViewDelegate/MKMapViewDelegate.html#//apple_ref/doc/uid/TP40008204-CH3-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>MKMapViewDelegate Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009714-CH1-SW1</string>
+			<key>href</key>
+			<string>../MKOverlay_protocol/Reference/Reference.html#//apple_ref/doc/uid/TP40009714-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>MKOverlay Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008324-CH1-SW1</string>
+			<key>href</key>
+			<string>../MKReverseGeocoderDelegate_Protocol/Reference/Reference.html#//apple_ref/doc/uid/TP40008324-CH1-SW1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>MKReverseGeocoderDelegate Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008209-DontLinkChapterID_1-DontLinkElementID_2</string>
+			<key>href</key>
+			<string>../MapKitFunctionsReference/Reference/reference.html#//apple_ref/doc/uid/TP40008209-DontLinkChapterID_1-DontLinkElementID_2</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Map Kit Functions Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009734-DontLinkChapterID_1-DontLinkElementID_1</string>
+			<key>href</key>
+			<string>../MapKitDataTypesReference/Reference/reference.html#//apple_ref/doc/uid/TP40009734-DontLinkChapterID_1-DontLinkElementID_1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Map Kit Data Types Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40009735-DontLinkChapterID_1-DontLinkElementID_1</string>
+			<key>href</key>
+			<string>../MapKitConstantsReference/Reference/reference.html#//apple_ref/doc/uid/TP40009735-DontLinkChapterID_1-DontLinkElementID_1</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Map Kit Constants Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40008210-CH2-SW1</string>
+			<key>href</key>
+			<string>RevisionHistory.html#//apple_ref/doc/uid/TP40008210-CH2-SW1</string>
+			<key>isPart</key>
+			<false/>
+			<key>title</key>
+			<string>Revision History</string>
+		</dict>
+	</array>
+	<key>shouldDisplayTOC</key>
+	<false/>
+	<key>technology</key>
+	<string></string>
+	<key>title</key>
+	<string>Map Kit Framework Reference</string>
+	<key>type</key>
+	<string>Collection</string>
+	<key>uid</key>
+	<string>TP40008210</string>
+</dict>
+</plist>

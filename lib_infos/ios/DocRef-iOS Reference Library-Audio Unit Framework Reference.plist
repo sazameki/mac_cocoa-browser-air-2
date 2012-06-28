@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PDF</key>
+	<dict>
+		<key>href</key>
+		<string>AudioUnit_Framework.pdf</string>
+	</dict>
+	<key>assignments</key>
+	<array>
+		<string>Type/Reference</string>
+		<string>Framework/Media Layer/AudioUnit</string>
+		<string>Topic/Audio &amp; Video/Audio</string>
+	</array>
+	<key>needsAdditionalLinksSeparator</key>
+	<false/>
+	<key>relatedBooks</key>
+	<array/>
+	<key>sections</key>
+	<array>
+		<dict>
+			<key>aref</key>
+			<string></string>
+			<key>href</key>
+			<string>&lt;@@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Introduction</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40007287-DontLinkChapterID_1-DontLinkElementID_1</string>
+			<key>href</key>
+			<string>&lt;@//apple_ref/doc/uid/TP40007287-DontLinkChapterID_1-DontLinkElementID_1@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Audio Component Services Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40007291-DontLinkChapterID_2-DontLinkElementID_6</string>
+			<key>href</key>
+			<string>../AUComponentServicesReference/Reference/reference.html#//apple_ref/doc/uid/TP40007291-DontLinkChapterID_2-DontLinkElementID_6</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Audio Unit Component Services Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40007285-DontLinkChapterID_1-DontLinkElementID_2</string>
+			<key>href</key>
+			<string>../AudioOutputUnitServicesReference/Reference/reference.html#//apple_ref/doc/uid/TP40007285-DontLinkChapterID_1-DontLinkElementID_2</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Output Audio Unit Services Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40007290-DontLinkChapterID_2-DontLinkElementID_2</string>
+			<key>href</key>
+			<string>../AudioUnitParametersReference/Reference/reference.html#//apple_ref/doc/uid/TP40007290-DontLinkChapterID_2-DontLinkElementID_2</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Audio Unit Parameters Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40007288-DontLinkChapterID_1-DontLinkElementID_4</string>
+			<key>href</key>
+			<string>../AudioUnitPropertiesReference/Reference/reference.html#//apple_ref/doc/uid/TP40007288-DontLinkChapterID_1-DontLinkElementID_4</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Audio Unit Properties Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40007295-CH2-SW1</string>
+			<key>href</key>
+			<string>RevisionHistory.html#//apple_ref/doc/uid/TP40007295-CH2-SW1</string>
+			<key>isPart</key>
+			<false/>
+			<key>title</key>
+			<string>Revision History</string>
+		</dict>
+	</array>
+	<key>shouldDisplayTOC</key>
+	<false/>
+	<key>technology</key>
+	<string>iPhone</string>
+	<key>title</key>
+	<string>Audio Unit Framework Reference</string>
+	<key>type</key>
+	<string>Collection</string>
+	<key>uid</key>
+	<string>TP40007295</string>
+</dict>
+</plist>

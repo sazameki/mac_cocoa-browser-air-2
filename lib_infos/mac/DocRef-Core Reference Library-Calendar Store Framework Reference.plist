@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PDF</key>
+	<dict>
+		<key>href</key>
+		<string>CalendarStoreReference.pdf</string>
+	</dict>
+	<key>assignments</key>
+	<array>
+		<string>Type/Reference</string>
+		<string>Framework/Core Services Layer/CalendarStore</string>
+		<string>Topic/Data Management/Calendar Data</string>
+	</array>
+	<key>needsAdditionalLinksSeparator</key>
+	<false/>
+	<key>relatedBooks</key>
+	<array/>
+	<key>sections</key>
+	<array>
+		<dict>
+			<key>aref</key>
+			<string></string>
+			<key>href</key>
+			<string>&lt;@@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Introduction</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004658-CH3-SW13</string>
+			<key>href</key>
+			<string>&lt;@//apple_ref/doc/uid/TP40004658-CH3-SW13@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CalAlarm Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004418-CH3-DontLinkElementID_7</string>
+			<key>href</key>
+			<string>../CalendarStoreFramework/Classes/CalAttendee_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40004418-CH3-DontLinkElementID_7</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CalAttendee Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004419-CH4-DontLinkElementID_15</string>
+			<key>href</key>
+			<string>../CalendarStoreFramework/Classes/CalCalendar_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40004419-CH4-DontLinkElementID_15</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CalCalendar Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004420-CH5-DontLinkElementID_20</string>
+			<key>href</key>
+			<string>../CalendarStoreFramework/Classes/CalCalendarItem_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40004420-CH5-DontLinkElementID_20</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CalCalendarItem Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004421-CH8-SW10</string>
+			<key>href</key>
+			<string>../CalendarStoreFramework/Classes/CalCalendarStore_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40004421-CH8-SW10</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CalCalendarStore Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004422-CH6-DontLinkElementID_16</string>
+			<key>href</key>
+			<string>../CalendarStoreFramework/Classes/CalEvent_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40004422-CH6-DontLinkElementID_16</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CalEvent Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004994-CH3-DontLinkElementID_7</string>
+			<key>href</key>
+			<string>../../../Cocoa/Reference/CalNthWeekDay_Class/Reference/CalNthWeekDayClassReference.html#//apple_ref/doc/uid/TP40004994-CH3-DontLinkElementID_7</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CalNthWeekDay Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004755-CH3-DontLinkElementID_10</string>
+			<key>href</key>
+			<string>../../../Cocoa/Reference/CalRecurrenceEnd_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40004755-CH3-DontLinkElementID_10</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CalRecurrenceEnd Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004660-CH3-DontLinkElementID_15</string>
+			<key>href</key>
+			<string>../../../Cocoa/Reference/CalRecurrenceRule_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40004660-CH3-DontLinkElementID_15</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CalRecurrenceRule Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004423-CH7-DontLinkElementID_9</string>
+			<key>href</key>
+			<string>../CalendarStoreFramework/Classes/CalTask_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40004423-CH7-DontLinkElementID_9</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CalTask Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004661-DontLinkChapterID_1-DontLinkElementID_4</string>
+			<key>href</key>
+			<string>../../../Cocoa/Reference/CalendarStore_Constants/Reference/reference.html#//apple_ref/doc/uid/TP40004661-DontLinkChapterID_1-DontLinkElementID_4</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Calendar Store Constants Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004333-CH2-DontLinkElementID_3</string>
+			<key>href</key>
+			<string>RevisionHistory.html#//apple_ref/doc/uid/TP40004333-CH2-DontLinkElementID_3</string>
+			<key>isPart</key>
+			<false/>
+			<key>title</key>
+			<string>Revision History</string>
+		</dict>
+	</array>
+	<key>shouldDisplayTOC</key>
+	<false/>
+	<key>technology</key>
+	<string>Apple Applications</string>
+	<key>title</key>
+	<string>Calendar Store Framework Reference</string>
+	<key>type</key>
+	<string>Collection</string>
+	<key>uid</key>
+	<string>TP40004333</string>
+</dict>
+</plist>

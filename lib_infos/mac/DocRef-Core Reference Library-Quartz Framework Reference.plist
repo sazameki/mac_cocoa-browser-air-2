@@ -1,0 +1,654 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PDF</key>
+	<dict>
+		<key>href</key>
+		<string>QuartzFrameworkReferenceCollection.pdf</string>
+	</dict>
+	<key>assignments</key>
+	<array>
+		<string>Type/Reference</string>
+		<string>Framework/Media Layer/Quartz</string>
+		<string>Topic/Graphics &amp; Animation/2D Drawing</string>
+	</array>
+	<key>needsAdditionalLinksSeparator</key>
+	<false/>
+	<key>relatedBooks</key>
+	<array/>
+	<key>sections</key>
+	<array>
+		<dict>
+			<key>aref</key>
+			<string></string>
+			<key>href</key>
+			<string>&lt;@@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Introduction</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004667-CH3-BCIHFHHB</string>
+			<key>href</key>
+			<string>&lt;@//apple_ref/doc/uid/TP40004667-CH3-BCIHFHHB@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>CIFilter Image Kit Additions</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004665-CH3-BCIHFHHB</string>
+			<key>href</key>
+			<string>../IKFilterBrowserPanel_Class/IKFilterBrowserPanel_Reference.html#//apple_ref/doc/uid/TP40004665-CH3-BCIHFHHB</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>IKFilterBrowserPanel Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004666-CH3-BCIHFHHB</string>
+			<key>href</key>
+			<string>../IKFilterBrowserView_Class/IKFilterBrowserView_Reference.html#//apple_ref/doc/uid/TP40004666-CH3-BCIHFHHB</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>IKFilterBrowserView Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004668-CH3-BCIHFHHB</string>
+			<key>href</key>
+			<string>../IKFilterUIView_Class/IKFIlterUIView_Ref.html#//apple_ref/doc/uid/TP40004668-CH3-BCIHFHHB</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>IKFilterUIView Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004708-CH3-BCIHFHHB</string>
+			<key>href</key>
+			<string>../IKImageBrowserView/IKImageBrowserView_Reference.html#//apple_ref/doc/uid/TP40004708-CH3-BCIHFHHB</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>IKImageBrowserView Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004702-CH3-BCIHFHHB</string>
+			<key>href</key>
+			<string>../IKImageEditPanel/IKImageEditPanel_Reference.html#//apple_ref/doc/uid/TP40004702-CH3-BCIHFHHB</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>IKImageEditPanel Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004704-CH3-BCIHFHHB</string>
+			<key>href</key>
+			<string>../IKImageView/IKImageView_Reference.html#//apple_ref/doc/uid/TP40004704-CH3-BCIHFHHB</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>IKImageView Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004670-CH3-BCIHFHHB</string>
+			<key>href</key>
+			<string>../IKImagePicker_Class/IKImagePicker_Reference.html#//apple_ref/doc/uid/TP40004670-CH3-BCIHFHHB</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>IKPictureTaker Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004705-CH3-BCIHFHHB</string>
+			<key>href</key>
+			<string>../IKSaveOptions/IKSaveOptions_Reference.html#//apple_ref/doc/uid/TP40004705-CH3-BCIHFHHB</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>IKSaveOptions Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004706-CH3-BCIHFHHB</string>
+			<key>href</key>
+			<string>../IKSlideShow/IKSlideshow_Reference.html#//apple_ref/doc/uid/TP40004706-CH3-BCIHFHHB</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>IKSlideshow Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006200-RH2-CJBIAEDJ</string>
+			<key>href</key>
+			<string>../PDFAction_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40006200-RH2-CJBIAEDJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>PDFAction Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006201-RH2-CJBIAEDJ</string>
+			<key>href</key>
+			<string>../PDFActionGoTo_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40006201-RH2-CJBIAEDJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>PDFActionGoTo Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006202-RH2-CJBIAEDJ</string>
+			<key>href</key>
+			<string>../PDFActionNamed_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40006202-RH2-CJBIAEDJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>PDFActionNamed Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006203-CH3-DontLinkElementID_13</string>
+			<key>href</key>
+			<string>../PDFActionRemoteGoTo_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40006203-CH3-DontLinkElementID_13</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>PDFActionRemoteGoTo Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006204-CH3-CJBIAEDJ</string>
+			<key>href</key>
+			<string>../PDFActionResetForm_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40006204-CH3-CJBIAEDJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>PDFActionResetForm Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006205-CH3-CJBIAEDJ</string>
+			<key>href</key>
+			<string>../PDFActionURL_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40006205-CH3-CJBIAEDJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>PDFActionURL Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40003860-RH2-CJBIAEDJ</string>
+			<key>href</key>
+			<string>../QuartzFramework/Classes/PDFAnnotation_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40003860-RH2-CJBIAEDJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>PDFAnnotation Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40003861-RH2-CJBIAEDJ</string>
+			<key>href</key>
+			<string>../QuartzFramework/Classes/PDFAnnotationButtonWidget_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40003861-RH2-CJBIAEDJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>PDFAnnotationButtonWidget Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006206-CH3-DontLinkElementID_24</string>
+			<key>href</key>
+			<string>../PDFAnnotationChoiceWidget_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40006206-CH3-DontLinkElementID_24</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>PDFAnnotationChoiceWidget Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40001341-CJBIAEDJ</string>
+			<key>href</key>
+			<string>../QuartzFramework/Classes/PDFAnnotationCircle_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40001341-CJBIAEDJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>PDFAnnotationCircle Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40003863-RH2-CJBIAEDJ</string>
+			<key>href</key>
+			<string>../QuartzFramework/Classes/PDFAnnotationFreeText_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40003863-RH2-CJBIAEDJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>PDFAnnotationFreeText Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40001343-CJBIAEDJ</string>
+			<key>href</key>
+			<string>../QuartzFramework/Classes/PDFAnnotationInk_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40001343-CJBIAEDJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>PDFAnnotationInk Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40003865-RH2-CJBIAEDJ</string>
+			<key>href</key>
+			<string>../QuartzFramework/Classes/PDFAnnotationLine_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40003865-RH2-CJBIAEDJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>PDFAnnotationLine Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40001345-CJBIAEDJ</string>
+			<key>href</key>
+			<string>../QuartzFramework/Classes/PDFAnnotationLink_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40001345-CJBIAEDJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>PDFAnnotationLink Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40001346-CJBIAEDJ</string>
+			<key>href</key>
+			<string>../QuartzFramework/Classes/PDFAnnotationMarkup_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40001346-CJBIAEDJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>PDFAnnotationMarkup Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006207-CH3-DontLinkElementID_6</string>
+			<key>href</key>
+			<string>../PDFAnnotationPopup_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40006207-CH3-DontLinkElementID_6</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>PDFAnnotationPopup Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40001348-CJBIAEDJ</string>
+			<key>href</key>
+			<string>../QuartzFramework/Classes/PDFAnnotationSquare_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40001348-CJBIAEDJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>PDFAnnotationSquare Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006208-CH3-CJBIAEDJ</string>
+			<key>href</key>
+			<string>../PDFAnnotationStamp_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40006208-CH3-CJBIAEDJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>PDFAnnotationStamp Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40003869-RH2-CJBIAEDJ</string>
+			<key>href</key>
+			<string>../QuartzFramework/Classes/PDFAnnotationText_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40003869-RH2-CJBIAEDJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>PDFAnnotationText Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40003870-RH2-CJBIAEDJ</string>
+			<key>href</key>
+			<string>../QuartzFramework/Classes/PDFAnnotationTextWidget_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40003870-RH2-CJBIAEDJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>PDFAnnotationTextWidget Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40001351-CJBIAEDJ</string>
+			<key>href</key>
+			<string>../QuartzFramework/Classes/PDFBorder_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40001351-CJBIAEDJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>PDFBorder Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40003872-RH2-CJBIAEDJ</string>
+			<key>href</key>
+			<string>../QuartzFramework/Classes/PDFDestination_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40003872-RH2-CJBIAEDJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>PDFDestination Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40003873-RH2-CJBIAEDJ</string>
+			<key>href</key>
+			<string>../QuartzFramework/Classes/PDFDocument_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40003873-RH2-CJBIAEDJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>PDFDocument Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40003874-RH2-CJBIAEDJ</string>
+			<key>href</key>
+			<string>../QuartzFramework/Classes/PDFOutline_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40003874-RH2-CJBIAEDJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>PDFOutline Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40003875-RH2-CJBIAEDJ</string>
+			<key>href</key>
+			<string>../QuartzFramework/Classes/PDFPage_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40003875-RH2-CJBIAEDJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>PDFPage Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40003876-RH2-CJBIAEDJ</string>
+			<key>href</key>
+			<string>../QuartzFramework/Classes/PDFSelection_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40003876-RH2-CJBIAEDJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>PDFSelection Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40006209-CH3-DontLinkElementID_11</string>
+			<key>href</key>
+			<string>../PDFThumbnailView_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40006209-CH3-DontLinkElementID_11</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>PDFThumbnailView Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40003877-RH2-CJBIAEDJ</string>
+			<key>href</key>
+			<string>../QuartzFramework/Classes/PDFView_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40003877-RH2-CJBIAEDJ</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>PDFView Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004788-CH1-DontLinkElementID_16</string>
+			<key>href</key>
+			<string>../../../Cocoa/Reference/QCComposition_Class/Introduction/Introduction.html#//apple_ref/doc/uid/TP40004788-CH1-DontLinkElementID_16</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>QCComposition Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004624-CH1-DontLinkElementID_8</string>
+			<key>href</key>
+			<string>../QCCompositionLayer_class/Introduction/Introduction.html#//apple_ref/doc/uid/TP40004624-CH1-DontLinkElementID_8</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>QCCompositionLayer Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004790-CH1-DontLinkElementID_16</string>
+			<key>href</key>
+			<string>../../../Cocoa/Reference/QCCompositionParameterView_Class/Introduction/Introduction.html#//apple_ref/doc/uid/TP40004790-CH1-DontLinkElementID_16</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>QCCompositionParameterView Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004791-CH1-DontLinkElementID_11</string>
+			<key>href</key>
+			<string>../../../Cocoa/Reference/QCCompositionPickerPanel_Class/Introduction/Introduction.html#//apple_ref/doc/uid/TP40004791-CH1-DontLinkElementID_11</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>QCCompositionPickerPanel Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004792-CH1-DontLinkElementID_16</string>
+			<key>href</key>
+			<string>../../../Cocoa/Reference/QCCompositionPickerView_Class/Introduction/Introduction.html#//apple_ref/doc/uid/TP40004792-CH1-DontLinkElementID_16</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>QCCompositionPickerView Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004793-CH1-DontLinkElementID_9</string>
+			<key>href</key>
+			<string>../../../Cocoa/Reference/QCCompositionRepository_Class/Introduction/Introduction.html#//apple_ref/doc/uid/TP40004793-CH1-DontLinkElementID_9</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>QCCompositionRepository Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004794-CH1-SW36</string>
+			<key>href</key>
+			<string>../../../Cocoa/Reference/QCPlugIn_Class/Introduction/Introduction.html#//apple_ref/doc/uid/TP40004794-CH1-SW36</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>QCPlugIn Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004795-CH1-DontLinkElementID_8</string>
+			<key>href</key>
+			<string>../../../Cocoa/Reference/QCPlugInViewController_Class/Introduction/Introduction.html#//apple_ref/doc/uid/TP40004795-CH1-DontLinkElementID_8</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>QCPlugInViewController Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40003971-CH3g-BCIHFHHB</string>
+			<key>href</key>
+			<string>../QuartzFramework/Classes/QCRenderer_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40003971-CH3g-BCIHFHHB</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>QCRenderer Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40003972-CH4g-BCIHFHHB</string>
+			<key>href</key>
+			<string>../QuartzFramework/Classes/QCView_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40003972-CH4g-BCIHFHHB</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>QCView Class Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004841-CH3-BCIHFHHB</string>
+			<key>href</key>
+			<string>../IKFilterCustomUIProvider_Protocol/IKFilterCustomUIProvider_Reference.html#//apple_ref/doc/uid/TP40004841-CH3-BCIHFHHB</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>IKFilterCustomUIProvider Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004669-CH3-BCIHFHHB</string>
+			<key>href</key>
+			<string>../IKImageBrowserDataSource_Protocol/IKImageBrowserDataSource_Reference.html#//apple_ref/doc/uid/TP40004669-CH3-BCIHFHHB</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>IKImageBrowserDataSource Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004710-CH3-BCIHFHHB</string>
+			<key>href</key>
+			<string>../IKImageBrowserDelegate_Protocol/IKImageBrowserDelegate_Reference.html#//apple_ref/doc/uid/TP40004710-CH3-BCIHFHHB</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>IKImageBrowserDelegate Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004709-CH3-BCIHFHHB</string>
+			<key>href</key>
+			<string>../IKImageBrowserItem_Protocol/IKImageBrowserItem_Reference.html#//apple_ref/doc/uid/TP40004709-CH3-BCIHFHHB</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>IKImageBrowserItem Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004703-CH3-BCIHFHHB</string>
+			<key>href</key>
+			<string>../IKImageEditPanelDataSource/IKImageEditPanelDataSource_Ref.html#//apple_ref/doc/uid/TP40004703-CH3-BCIHFHHB</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>IKImageEditPanelDataSource Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004707-CH3-BCIHFHHB</string>
+			<key>href</key>
+			<string>../IKSlideShowDataSource/IKSlideshowDataSource_ref.html#//apple_ref/doc/uid/TP40004707-CH3-BCIHFHHB</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>IKSlideshowDataSource Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40005051-CH1-DontLinkElementID_6</string>
+			<key>href</key>
+			<string>../../../Cocoa/Reference/QCCompositionParameterViewDelegateProtocolRef/Introduction/Introduction.html#//apple_ref/doc/uid/TP40005051-CH1-DontLinkElementID_6</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>QCCompositionParameterViewDelegate Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004802-CH1-DontLinkElementID_9</string>
+			<key>href</key>
+			<string>../../../Cocoa/Reference/QCCompositionPickerViewDelegate_Protocol/Introduction/Introduction.html#//apple_ref/doc/uid/TP40004802-CH1-DontLinkElementID_9</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>QCCompositionPickerViewDelegate Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004786-CH3g-BCIHFHHB</string>
+			<key>href</key>
+			<string>../../../Cocoa/Reference/QCRenderer_Protocol/Reference/Reference.html#//apple_ref/doc/uid/TP40004786-CH3g-BCIHFHHB</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>QCCompositionRenderer Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004798-CH3g-BCIHFHHB</string>
+			<key>href</key>
+			<string>../../../Cocoa/Reference/QCPlugInContext_Protocol/Reference/Reference.html#//apple_ref/doc/uid/TP40004798-CH3g-BCIHFHHB</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>QCPlugInContext Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004799-CH3g-BCIHFHHB</string>
+			<key>href</key>
+			<string>../../../Cocoa/Reference/QCPlugInInputImageSource_Protocol/Reference/Reference.html#//apple_ref/doc/uid/TP40004799-CH3g-BCIHFHHB</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>QCPlugInInputImageSource Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004800-CH3g-BCIHFHHB</string>
+			<key>href</key>
+			<string>../../../Cocoa/Reference/QCPlugInOutputImageProvider_Protocol/Reference/Reference.html#//apple_ref/doc/uid/TP40004800-CH3g-BCIHFHHB</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>QCPlugInOutputImageProvider Protocol Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40004310-CH2-DontLinkElementID_2</string>
+			<key>href</key>
+			<string>RevisionHistory.html#//apple_ref/doc/uid/TP40004310-CH2-DontLinkElementID_2</string>
+			<key>isPart</key>
+			<false/>
+			<key>title</key>
+			<string>Revision History</string>
+		</dict>
+	</array>
+	<key>shouldDisplayTOC</key>
+	<false/>
+	<key>technology</key>
+	<string>Graphics &amp; Imaging</string>
+	<key>title</key>
+	<string>Quartz Framework Reference</string>
+	<key>type</key>
+	<string>Collection</string>
+	<key>uid</key>
+	<string>TP40004310</string>
+</dict>
+</plist>

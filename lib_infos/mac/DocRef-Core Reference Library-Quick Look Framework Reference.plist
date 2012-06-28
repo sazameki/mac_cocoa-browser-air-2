@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PDF</key>
+	<dict>
+		<key>href</key>
+		<string>Quicklook_Framework_Reference.pdf</string>
+	</dict>
+	<key>assignments</key>
+	<array>
+		<string>Type/Reference</string>
+		<string>Framework/Core Services Layer/QuickLook</string>
+		<string>Topic/Data Management/File Management</string>
+	</array>
+	<key>needsAdditionalLinksSeparator</key>
+	<false/>
+	<key>relatedBooks</key>
+	<array/>
+	<key>sections</key>
+	<array>
+		<dict>
+			<key>aref</key>
+			<string></string>
+			<key>href</key>
+			<string>&lt;@@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>Introduction</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40005056-DontLinkChapterID_1-DontLinkElementID_9</string>
+			<key>href</key>
+			<string>&lt;@//apple_ref/doc/uid/TP40005056-DontLinkChapterID_1-DontLinkElementID_9@&gt;</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>QLPreviewRequest Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40005055-DontLinkChapterID_1-DontLinkElementID_14</string>
+			<key>href</key>
+			<string>../QLThumbnailRequest_Ref/Reference/reference.html#//apple_ref/doc/uid/TP40005055-DontLinkChapterID_1-DontLinkElementID_14</string>
+			<key>sections</key>
+			<array/>
+			<key>title</key>
+			<string>QLThumbnailRequest Reference</string>
+		</dict>
+		<dict>
+			<key>aref</key>
+			<string>//apple_ref/doc/uid/TP40005021-CH2-DontLinkElementID_3</string>
+			<key>href</key>
+			<string>RevisionHistory.html#//apple_ref/doc/uid/TP40005021-CH2-DontLinkElementID_3</string>
+			<key>isPart</key>
+			<false/>
+			<key>title</key>
+			<string>Revision History</string>
+		</dict>
+	</array>
+	<key>shouldDisplayTOC</key>
+	<false/>
+	<key>technology</key>
+	<string>User Experience</string>
+	<key>title</key>
+	<string>Quick Look Framework Reference</string>
+	<key>type</key>
+	<string>Collection</string>
+	<key>uid</key>
+	<string>TP40005021</string>
+</dict>
+</plist>
